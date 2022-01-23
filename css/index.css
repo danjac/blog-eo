@@ -24,15 +24,37 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
+
 p,
 .tmpl-post li,
-img {
-  max-width: 37.5em; /* 600px /16 */
+img
+{
+  max-width: 20em; /* 600px /16 */
 }
+
 p,
 .tmpl-post li {
   line-height: 1.45;
 }
+
+@media (min-width: 724px) {
+  p,
+  .tmpl-post li,
+  img {
+    max-width: 37.5em; /* 600px /16 */
+  }
+}
+
+/*
+@media (min-width: 1024px) {
+  p,
+  .tmpl-post li,
+  img {
+    max-width: 64em;
+  }
+}
+*/
+
 a[href] {
   color: var(--blue);
 }
