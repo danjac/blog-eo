@@ -21,15 +21,34 @@ body {
   color: var(--darkgray);
   background-color: var(--white);
 }
-p:last-child {
-  margin-bottom: 0;
+
+body {
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%; /* 600px /16 */
 }
 
-p,
-.tmpl-post li,
-img
-{
-  max-width: 20em; /* 600px /16 */
+@media (max-width: 740px) {
+  body {
+    max-width: 30em; /* 600px /16 */
+  }
+  img {
+    max-width: 20em; /* 600px /16 */
+  }
+}
+
+@media (min-width: 741px) {
+  body, img {
+    max-width: 42em; /* 600px /16 */
+  }
+}
+
+
+
+p:last-child {
+  margin-bottom: 0;
 }
 
 p,
@@ -37,23 +56,6 @@ p,
   line-height: 1.45;
 }
 
-@media (min-width: 724px) {
-  p,
-  .tmpl-post li,
-  img {
-    max-width: 37.5em; /* 600px /16 */
-  }
-}
-
-/*
-@media (min-width: 1024px) {
-  p,
-  .tmpl-post li,
-  img {
-    max-width: 64em;
-  }
-}
-*/
 
 a[href] {
   color: var(--blue);
@@ -61,14 +63,13 @@ a[href] {
 a[href]:visited {
   color: var(--navy);
 }
-main {
-  padding: 1rem;
-}
+
 main :first-child {
   margin-top: 0;
 }
 header {
   border-bottom: 1px dashed var(--lightgray);
+  margin-bottom: 12px;
 }
 header:after {
   content: "";
@@ -143,7 +144,6 @@ code {
 
 /* Header */
 .home {
-  padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
