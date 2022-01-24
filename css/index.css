@@ -286,4 +286,8 @@ a[href].direct-link:focus:visited,
   a[href]:visited {
     color: var(--lightgray);
   }
+  a[href].post-tag:hover,
+  a[href].post-tag:focus {
+    background-color: var(--darkgray);
+  }
 }
