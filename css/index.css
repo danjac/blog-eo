@@ -270,24 +270,3 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
-
-@media (prefers-color-scheme: dark) {
-  html,body {
-    background-color: var(--black);
-    color: var(--lightgray);
-  }
-  .postlist-date,
-  .postlist-item:before {
-    color: var(--lightgray);
-  }
-  a[href] {
-    color: var(--white);
-  }
-  a[href]:visited {
-    color: var(--lightgray);
-  }
-  a[href].post-tag:hover,
-  a[href].post-tag:focus {
-    background-color: var(--darkgray);
-  }
-}
