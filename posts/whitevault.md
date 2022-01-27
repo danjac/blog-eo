@@ -4,6 +4,7 @@ description: Personal podcast recommendation
 date: 2022-01-26
 tags:
   - podcasts
+  - reviews
 layout: layouts/post.njk
 ---
 
