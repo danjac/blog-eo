@@ -42,7 +42,7 @@ body {
 
 @media (min-width: 741px) {
   body, img {
-    max-width: 42em; /* 600px /16 */
+    max-width: 54em; /* 600px /16 */
   }
 }
 
