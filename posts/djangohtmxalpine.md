@@ -5,6 +5,8 @@ date: 2022-01-24
 tags:
   - django
   - javascript
+  - htmx
+  - alpinejs
   - python
   - web development
 layout: layouts/post.njk
