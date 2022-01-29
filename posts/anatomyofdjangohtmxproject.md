@@ -58,7 +58,9 @@ If you try to use a non-GET action in Django you'll get a nasty `HTTP 403` respo
 It can get a bit verbose having to pass this `hx-headers` attribute to every single AJAX POST or DELETE action, but thankfully one of the basic concepts of HTMX is that a directive can be scoped to cover all child elements. For example, we can add the header to a top-level element:
 
 ```html
+{% verbatim %}
     <div class="article-page" hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>
+{% endverbatim %}
 ```
 
 All HTMX actions inside `<div>` will now automatically include the `X-CSRFToken` header.
