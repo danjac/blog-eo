@@ -15,7 +15,7 @@ layout: layouts/post.njk
 
 ## Introduction
 
-In a [previous article](/posts/djangohtmxalpine) I gave a very broad-brush description of HTMX and Alpine and their place in the modern web application tech stack. It was pretty light on detail, and it's difficult to draw any conclusions from a few snippets of code. I decided to put together a project that would provide a more in-depth look at how Django and HTMX work together.
+In my [previous article](/posts/djangohtmxalpine) I gave a very broad-brush description of HTMX and Alpine and their place in the modern web application tech stack. It was pretty light on detail, and it's difficult to draw any conclusions from a few snippets of code. I decided to put together a project that would provide a more in-depth look at how Django and HTMX work together.
 
 The people at Thinkster have put together a ["real world" demo app](https://github.com/gothinkster/realworld/) based on a Medium clone. Developers can copy this project and implement it using whatever frontend and backend they want, which works as a comparison between different frameworks and a learning exercise for each framework. A Medium clone is a good choice as a blog is a well-understood concept - no need to explain complex business requirements - and it also covers a lot of the basics needed for almost every serious web application out there, for example authentication, user permissions, form validation, REST API integration, and so on. Layouts and a Bootstrap theme are already provided so you don't have to spend a lot of time in design and it's easier to make comparisons between implementations given that the look-and-feel will be pretty much identical.
 
@@ -108,7 +108,7 @@ The best pattern for reuse of Django templates with HTMX is to break out functio
 
 For example, the article create/update page looks like this:
 
-```django
+```html
 {% verbatim %}
   <div class="col-md-10 offset-md-1 col-xs-12">
     {% include "articles/_article_form.html" %}
@@ -121,6 +121,7 @@ When processing the form we can return the partial `_article_form.html` if the f
 ```python
   return TemplateResponse(request, "articles/_article_form.html", {"form": form})
 ```
+
 
 ## Tweaking forms
 
@@ -139,24 +140,13 @@ Django forms can be a bit tricky to customize, particularly if you want to add c
 
 There are two problems with this approach. First it reduces the reusability of your form: for example, suppose I want to use `form-control-lg` when displaying `MyForm` in one page, but `form-control` on another page? Second, it violates separation of concerns: the CSS class should really be something I can customize in the template,  rather than in the form class. A frontend developer for example might wish to tweak class names, and having the class in the Python code makes that a bit harder.
 
-[django-crispy-forms](https://django-crispy-forms.readthedocs.io) is a popular library for providing a better management and customizability of Django forms and widgets, and works well with CSS frameworks such as Bootstrap. My personal favourite however is [django-widget-tweaks](https://pypi.org/project/django-widget-tweaks/) which encourages customization directly in the templates, with the help of some custom tags:
-
-```django
-{% verbatim %}
-  {% load widget_tweaks %}
-  {% render_field form.name class+="form-control" hx-get="/lookup" placeholder="Your name" %}
-{% endverbatim %}
-```
-
-This will render the input attributes into something like:
+[django-crispy-forms]() is a popular library for providing a better management and customizability of Django forms and widgets, and works well with CSS frameworks such as Bootstrap. My personal favourite however is `django-widget-tweaks` which encourages customization directly in the templates, with the help of some custom tags:
 
 ```html
-  <input type="text"
-         name="name"
-         id="id_name"
-         class="form-control"
-         hx-get="/lookup"
-         placeholder="Your name">
+{% verbatim %}
+{% load widget_tweaks %}
+{% render_field form.name class+="form-control" x-on:click= %}
+{% endverbatim %}
 ```
 ## A little bit of Alpine
 
@@ -172,7 +162,7 @@ When clicking a tag, it should replace the last few letters you typed with that 
 
 The whole implementation on the front end is just a few lines:
 
-```django
+```html
 {% verbatim %}
   <fieldset class="form-group"
             x-data="{
