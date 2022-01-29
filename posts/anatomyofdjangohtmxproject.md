@@ -137,7 +137,21 @@ Django forms can be a bit tricky to customize, particularly if you want to add c
           self.fields["name"].widget.attrs["class"] = "form-control"
 ```
 
-There are two problems with this approach. First it reduces the reusability of your form: for example, suppose I want to use `form-control-lg` when displaying `MyForm` in one page, but `form-control` on another page? Second, it violates separation of concerns: the CSS class should really be something I can customize in the template,  rather than in the form class. A frontend developer for example might wish to tweak class names, and having the class in the Python code makes that a bit harder.
+There are two problems with this approach. First it reduces the reusability of your form: for example, suppose I want to use `form-control-lg` when displaying `MyForm` in one page, but `form-control` on another page? Second, it violates separation of concerns: the CSS class should really be something I can customize in the template,  rather than in the form class. A frontend developer for example might wish to tweak class names, and having the class in the Python code makes that a bit harder, and customizing the form inside a Django view quickly leads to very clunky code:
+
+```python
+  def my_view(request):
+
+      if request.method == "POST":
+          form = MyForm(request.POST)
+          # validate, process etc....
+      else:
+          form = MyForm()
+
+      # customize for our specific view...
+      form.fields["name"].widget.attrs["class"] = "form-control"
+      # and do the same for all our other fields...
+```
 
 [django-crispy-forms](https://django-crispy-forms.readthedocs.io) is a popular library for providing a better management and customizability of Django forms and widgets, and works well with CSS frameworks such as Bootstrap. My personal favourite however is [django-widget-tweaks](https://pypi.org/project/django-widget-tweaks/) which encourages customization directly in the templates, with the help of some custom tags:
 
