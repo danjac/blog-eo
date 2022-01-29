@@ -69,6 +69,8 @@ It's tempting to just add this directive just once to the `<body>` but this will
 
 One challenge with the spec is the "Favorite" and "Follow" buttons in the article detail page. The buttons appear twice, at the top and bottom of the page. This makes sense, as you don't want to force the user to scroll back and forth when they want to do one of these actions, particularly if the article is very long. But it does present us with a difficulty.
 
+![Follow and Favorite controls](/img/follow_btns.png)
+
 Normally when we return an HTML snippet from an HTMX action like a button, we want to just return the button with the new state. So if you have a "Subscribe" action triggered from a button, you want to return a corresponding "Unsubscribe" button. From the user's point of view, clicking the button changes the icon or text from "Subscribe" to "Unsubscribe".
 
 What if you want to change two or more elements though? This is tricky as HTMX expects the target to be one element. Even if I pass in a CSS selector it will choose the first selected element, not all elements matching the class.
