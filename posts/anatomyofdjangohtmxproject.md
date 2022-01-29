@@ -11,6 +11,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+![conduit](/img/conduit.png)
+
 ## Introduction
 
 In my [previous article](/posts/djangohtmxalpine) I gave a very broad-brush description of HTMX and Alpine and their place in the modern web application tech stack. It was pretty light on detail, and it's difficult to draw any conclusions from a few snippets of code. I decided to put together a project that would provide a more in-depth look at how Django and HTMX work together.
@@ -21,7 +23,7 @@ You can check out my implementation [here](https://github.com/danjac/realworld),
 
 ## Start with a Django project and jazz it up
 
-Other than some discrete AJAX actions (more on which later) this is built as a traditional (non-SPA) project. Once the basics where in place, I added `hx-boost` to provide a instant "SPA-lite" navigation, similar to Turbolinks/Hotwire:
+Other than some discrete AJAX actions (more on which later) this is built as a traditional (non-SPA) project. Once the basics where in place, I added `hx-boost` to provide instant "SPA-lite" navigation, similar to [Turbolinks/Hotwire](https://turbo.hotwired.dev/):
 
 ```html
   <body hx-boost="true">
@@ -102,17 +104,38 @@ You can add any number of OOB elements: for example, suppose you want to update 
 
 ## DRY your templates
 
-The best pattern for reuse of Django templates with HTMX is to break out functionality into partial templates.
+The best pattern for reuse of Django templates with HTMX is to break out functionality into partial templates. I follow the convention of prefixing partials with an underscore e.g. `_article_form.html`, some prefer `partials` subdirectories or eschewing templates altogether and rendering HTML partials using the [django.utils.html.format_html](https://docs.djangoproject.com/en/4.0/ref/utils/#django.utils.html.format_html) function, but the basic pattern is the same.
+
+For example, the article create/update page looks like this:
+
+```html
+{% verbatim %}
+  <div class="col-md-10 offset-md-1 col-xs-12">
+    {% include "articles/_article_form.html" %}
+  </div>
+{% endverbatim %}
+```
+
+When processing the form we can return the partial `_article_form.html` if the form contains errors:
+
+```python
+  return TemplateResponse(request, "articles/_article_form.html", {"form": form})
+```
+
 
 ## Tweaking forms
 
 ## A little bit of Alpine
 
-Finally, I added a little snippet of Alpine. There was so little Javascript required for this that it was perhaps overkill to pull in the Alpine dependency but I felt it useful as an exercise.
+Finally, I added a little snippet of Alpine. There was so little Javascript required for this project that it was perhaps overkill to pull in the Alpine dependency but I felt it useful as an exercise.
 
 In the article form (i.e. when posting a new article or editing an existing article) there is a "Tags" input. The spec requires "typeahead" functionality so that when you start typing in the tags input any matching tags already in the database should be shown below the input:
 
+![tags](/img/tags_0.png)
+
 When clicking a tag, it should replace the last few letters you typed with that tag:
+
+![tags](/img/tags_1.png)
 
 The whole implementation on the front end is just a few lines:
 
@@ -135,7 +158,7 @@ The whole implementation on the front end is just a few lines:
 {% endverbatim %}
 ```
 
-This shows how well Alpine and HTMX play together. Whenever the user starts typing some letters, HTMX will fetch the response -  a list of tags - into the `tags-list` element. Each tag looks like this:
+This shows how well Alpine and HTMX play together. Whenever the user starts typing some letters, HTMX will fetch the response -  zero or more tags - into the `tags-list` element. Each tag looks like this:
 
 ```html
   <a class="tag" @click="insertTag('python')">python</a>
