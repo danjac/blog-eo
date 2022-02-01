@@ -23,7 +23,7 @@ You can check out my implementation [here](https://github.com/danjac/realworld),
 
 ## Start with a Django project and jazz it up
 
-Other than some discrete AJAX actions (more on which later) this is built as a traditional (non-SPA) project. Once the basics where in place, I added `hx-boost` to provide instant "SPA-lite" navigation, similar to [Turbolinks/Hotwire](https://turbo.hotwired.dev/):
+Other than some discrete AJAX actions (more on which later) this is built as a traditional (non-SPA) project. I added `hx-boost` to provide instant "SPA-lite" navigation, similar to [Turbolinks/Hotwire](https://turbo.hotwired.dev/):
 
 ```html
   <body hx-boost="true">
