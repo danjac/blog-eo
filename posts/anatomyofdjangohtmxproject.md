@@ -40,7 +40,7 @@ One thing I do when using `hx-boost` is to disable HTMX' [history cache ](https:
 
 ## Remember to pass the CSRF token
 
-If you try to use a non-GET action in Django you'll get a nasty `HTTP 403` response by default unless you remember to pass the CSRF token. This is easy to do in forms: just use the `{% verbatim %}{% csrf_token %}{% endverbatim %}` tag which renders the token inside a hidden `<input>`. If you are using `hx-post` or similar however you can't use this tag as you're not posting a form. Instead you'll have to include the `X-CSRFToken` request header, which Django will check if there's no hidden input form value. For example, our logout action looks like this:
+If you try to use a non-GET action in Django you'll get a nasty `HTTP 403` response by default unless you remember to pass the CSRF token. This is easy to do in forms: just use the `{% verbatim %}{% csrf_token %}{% endverbatim %}` tag which renders the token inside a hidden `<input>`. If you are using `hx-post` or another non-GET HTMX action outside a form, you can't use this tag. Instead you'll have to include the `X-CSRFToken` request header, which Django will check if there's no hidden input form value. For example, our logout action looks like this:
 
 ```django
 {% verbatim %}
