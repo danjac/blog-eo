@@ -5,6 +5,7 @@ date: 2022-01-30
 tags:
   - books
   - reviews
+  - scifi
 layout: layouts/post.njk
 ---
 

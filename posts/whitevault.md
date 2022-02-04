@@ -5,6 +5,8 @@ date: 2022-01-26
 tags:
   - podcasts
   - reviews
+  - scifi
+  - horror
 layout: layouts/post.njk
 ---
 

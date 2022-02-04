@@ -5,6 +5,7 @@ date: 2022-01-23
 tags:
   - movies
   - reviews
+  - scifi
 layout: layouts/post.njk
 ---
 
