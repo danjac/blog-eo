@@ -9,4 +9,11 @@ eleventyNavigation:
 
 I am a person that writes stuff.
 
-Github: https://github.com/danjac
+### Links
+
+* [Github](https://github.com/danjac)
+* [LinkedIn](https://www.linkedin.com/in/dan-jacob-880b3619b/)
+
+### Projects
+
+* [jCasts](https://jcasts.io) - a simple, easy to use podcatcher web application.
