@@ -13,6 +13,7 @@ I am a person that writes stuff.
 
 * [Github](https://github.com/danjac)
 * [LinkedIn](https://www.linkedin.com/in/dan-jacob-880b3619b/)
+* [Twitter](https://twitter.com/dannjac)
 
 ### Projects
 
