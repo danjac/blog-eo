@@ -56,4 +56,21 @@ As with Heroku, you can then deploy any changes from your local environment with
 
 You can see a full tutorial and example [here](https://dokku.com/docs/deployment/application-deployment/). As with Heroku you'll need to architecture a [12-factor app](https://12factor.net/), for example using environmental variables for configuration and logging to **stdout**, and you'll probably want to use third-party services such as [Mailgun](https://www.mailgun.com/) for things like email.
 
+Dokku has a rich ecoystem of plugins that cover most web development needs, from databases such as PostgreSQL or MySQL to [LetsEncrypt](https://github.com/dokku/dokku-letsencrypt). If you want to use [Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html) or another queuing library for managing asynchronous tasks, you can just install [Redis](https://github.com/dokku/dokku-redis) or RabbitMQ and add a worker process to your Procfile:
+
+```bash
+web: gunicorn ...
+worker: celery worker --app=myapp
+```
+
+Unlike Heroku where you have to pay for additional services like task queue workers,  you can run as many additional services as you want, provided your host has sufficient memory and CPU.
+
+If you are running a Python app and need to install [NLTK](https://github.com/nltk/nltk) modules, just as with Heroku you can provide an **nltk.txt** file and Dokku will automatically detect this file install the listed modules on deployment e.g. :
+
+```bash
+stopwords
+wordnet
+omw-1.4
+```
+
 Dokku works best when you are happy running a single-server setup, i.e. your web app, database and other services are all running on a single Droplet or other host. When you want to run something more scalable - e.g. a load balancer, multiple web app instances, a separate database service and so forth - you'll probably want to migrate to Digital Ocean apps or Heroku (or bite the bullet and learn Kubernetes...). But you can get pretty far running your app on Dokku on a Digital Ocean droplet with sufficient CPUs and RAM, especially if you are running a small low-traffic SAAS.
