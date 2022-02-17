@@ -85,7 +85,7 @@ To get this to work, we need to create a custom converter class, and then regist
       def to_python(self, value: str) -> date:
           return datetime.strptime(value, self.format).date()
 
-      def to_url(self, value: datetime.date) -> str:
+      def to_url(self, value: date) -> str:
           return value.strftime(self.format)
 
   register_converter(DateConverter, "date")
