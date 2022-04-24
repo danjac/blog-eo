@@ -340,3 +340,5 @@ I'll usually make a simple `Makefile` at some point with common things e.g.
 * `make shell`: start Django shell
 
 Again, I like a smooth local development environment with minimal typing, especially for things I have to do over and over.
+
+Source code for this article [here](https://github.com/danjac/myproject).
