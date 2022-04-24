@@ -9,6 +9,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+![Green Field](/img/greenfield.jpg)
+
 ## Introduction
 
 Occasionally I get to start over with a new Django project. Usually this is just some side project: *very* occasionally I get to build a greenfield project for someone else (protip for new developers: 99.99% of your career you'll be inheriting someone else's project, for better or worse).
