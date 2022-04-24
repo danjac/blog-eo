@@ -142,7 +142,7 @@ Static files also live under the top directory:
 
 ```
   myproject
-    - myproject
+    + myproject
     - static
         + css
         + dist
