@@ -81,7 +81,6 @@ My typical settings structure will look something like this:
         local.py
         production.py
         test.py
-    + templates
     urls.py
     wsgi.py
 ```
@@ -111,37 +110,39 @@ we have:
 
 ## Templates
 
-Generally I avoid per-app templates, but keep the templates all in one place under the top-level package. Keeping them in one place is nice and consistent, particularly if non-Django developers (say frontend people) want to work on them and don't particularly want to have to hunt around in different apps trying to find the right file.
+Generally I avoid per-app templates, but keep the templates all in one place under the top-level directory. Keeping them in one easily-accessible place is nice and consistent, particularly if non-Django developers (say frontend people) want to work on them and don't particularly want to have to hunt around in different apps trying to find the right file (the same goes, of course, for static files).
 
 I've gone back-and-forth on naming individual templates and subdirectories, particularly regarding partials. For a while I used the underscore convention for example `_article.html` as opposed to a non-partial `article.html`. Nowadays I prefer to move partials under an `includes` subdirectory and avoid the underscore naming. This is just a personal preference thing, but it avoids a directory becoming too large with similarly named files. The top level templates directory will have a "junk drawer" `includes` directory (in addition to specific includes for things like pagination templates) and individual apps will have their own `includes`:
 
 
 ```
   myproject
-  - templates
-      base.html
-      - django
-          - forms
-              default.html
-      - includes
-          sidebar.html
-      - pagination
-          pagination_links.html
-          ...
-      - articles
-          article.html
-          - includes
-            - article.html
+    + myproject
+    - templates
+        base.html
+        - django
+            - forms
+                default.html
+        - includes
+            sidebar.html
+        - pagination
+            pagination_links.html
+            ...
+        - articles
+            article.html
+            - includes
+              - article.html
 ```
 
 Rule of thumb: if I have to `{% raw %}{% include %}{% endraw %}` a template (or access it using an inclusion template tag) it goes in the relevant `includes` subdirectory, unless the include has a specific function like pagination, forms etc.
 
 ## Static files
 
-Static files also live under the top package:
+Static files also live under the top directory:
 
 ```
   myproject
+    - myproject
     - static
         + css
         + dist
@@ -161,13 +162,13 @@ In any case your apps will change during the lifetime of the project. However I 
 
 ```
   myproject
-    + common
-    + settings
-    + static
-    + templates
-    + users
-    urls.py
-    wsgi.py
+    - myproject
+        + common
+        + settings
+        + static
+        + users
+        urls.py
+        wsgi.py
 ```
 
 Some projects I've seen have an `apps` directory but personally I find this redundant, especially if using absolute imports. I also have a personal aversion to calling packages and modules `utils`: if I have a couple of functions that do networking stuff, for example, I'll make a `networking` module rather than keep them in a `utils` module.
