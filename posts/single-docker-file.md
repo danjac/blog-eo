@@ -19,7 +19,7 @@ For a Hetzner VM I typically use [Dokku](/posts/dokku). This is a great tool for
 
 Dokku, as other PAAS offerings, can deploy by "guessing" the kind of deployment you have from your local files. For example if you have a **requirements.txt** file, Dokku will assume a Python application. If you have **package.json** it will try and run Node. This however gets a bit awkward when you have both Python and Node files, or some other combination, or if you have additional or specific steps you need to add to your build step.
 
-However Dokku will also auto-detect a Dockerfile and use that to build the production image. The advantage of using Dockerfile is that you can add exactly the steps you need, and is also portable: if I want to move from Dokku to some other provider, whether PAAS or, say, a Kubernetes pod, you can re-use your Dockerfile. As each step or layer is cached it makes for a fast build.
+However Dokku will also auto-detect a Dockerfile and use that to build the production image. The advantage of using Dockerfile is that you can add exactly the steps you need, and is also portable: if I want to move from Dokku to some other provider, whether PAAS or, say, a Kubernetes pod, you can re-use your Dockerfile. As each step or layer is cached it also makes for a fast build.
 
 So what do I need for my production build? My typical side project has the following requirements:
 
@@ -89,7 +89,7 @@ What does this look like? The following example is adapted from a side project o
   RUN python manage.py collectstatic --no-input --traceback
 ```
 
-The first stage builds our frontend requirements. This uses a Node image (I prefer Bookworm generally for smaller images), installs requirements and builds the frontend dependencies. My **package.json** in this case has a couple directives to compile Tailwind (or PostCSS, SASS etc) into production-ready CSS, and another to build the Javascript using esbuild, vite or similar.
+The first stage builds our frontend requirements. This uses a Node image (I prefer Bookworm generally for smaller images), installs requirements and builds the frontend dependencies. My **package.json** in this case has a couple directives to compile Tailwind (or PostCSS, SASS etc) into production-ready CSS, and another to build the Javascript using **esbuild**, **vite** or similar.
 
 The second stage builds the backend: it's pretty straightforward, just install requirements for my Django application. But the final two steps are important to combine our frontend and backend into a single production deploy:
 
