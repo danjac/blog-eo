@@ -11,9 +11,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-For my side projects I usually have very simple needs. I typically don't need multi-server setups with a load balancer and a managed database, for example. Typically these little projects are for learning, or for personal use, with low traffic. Of course they may fall the Reddit or Hacker News Hug of Death, but so what?
+For my side projects I usually have very simple needs. I typically don't need multi-server setups with a load balancer and a managed database, for example. Typically these little projects are for learning, or for personal use, with low traffic. Of course they may fall to the Reddit or Hacker News Hug of Death, but so what?
 
-My typical go-to has been [Hetzner](https://www.hetzner.com/). A shared VM with with 20-40 GB disk space and 2-4 GB RAM costs around 5 EUR a month, which is reasonable for a hobbyist project. Other options include [Fly.io](https://fly.io) or [Render](https://render.com); as of writing Heroku, once the go-to in the PAAS world, no longer provides free accounts, while the first two require a credit card upfront even for free offerings, which may or may work for you depending on your mileage.
+My typical go-to has been [Hetzner](https://www.hetzner.com/). A shared VM with with 20-40 GB disk space and 2-4 GB RAM costs around 5 EUR a month, which is reasonable for a hobbyist project. Other options include [Fly.io](https://fly.io) or [Render](https://render.com); as of writing Heroku, once the go-to in the PAAS world, no longer provides free accounts, while the first two require a credit card upfront even for free offerings, which may or may work for you depending on your mileage. Linode and Digital Ocean are similarly priced offerings to Hetzner, and may suit you better depending on features, budget and location.
 
 For a Hetzner VM I typically use [Dokku](/posts/dokku). This is a great tool for a single-server deployment, as close as possible to the "push to deploy" simplicity of Heroku.
 
