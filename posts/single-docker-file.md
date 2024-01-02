@@ -119,7 +119,7 @@ One problem here: usually running **manage\.py** in Django can cause problems wh
   SECRET_KEY = os.environ("SECRET_KEY", "django-insecure-some-random-key")
 ```
 
-Some people prefer not to allow this at all, as it may lead inadvertently deploying an insecure key to production, and will do something like this:
+Some people prefer not to allow this at all, as it may lead inadvertently deploying an insecure key to production (even using [system checks](https://docs.djangoproject.com/en/5.0/topics/checks/)), and will do something like this:
 
 ```python
   try:
