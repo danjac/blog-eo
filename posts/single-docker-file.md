@@ -94,7 +94,7 @@ The first stage builds our frontend requirements. This uses a Node image (I pref
 The second stage builds the backend: it's pretty straightforward, just install requirements for my Django application. But the final two steps are important to combine our frontend and backend into a single production deploy:
 
 ```docker
-  COPY --from=assets /app/static /app/static
+  COPY --from=frontend /app/static /app/static
 
   RUN python manage.py collectstatic --no-input --traceback
 ```
