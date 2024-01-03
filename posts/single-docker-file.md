@@ -82,7 +82,7 @@ What does this look like? The following example is adapted from a side project o
 
   # Build and copy over assets
 
-  COPY --from=assets /app/static /app/static
+  COPY --from=frontend /app/static /app/static
 
   # Collect static files for Whitenoise
 
