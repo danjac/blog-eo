@@ -132,7 +132,7 @@ Some people prefer not to allow this at all, as it may lead inadvertently deploy
 
 You can however add a temporary secret key in your Dockerfile, as it will just be used when building the image, and not in production:
 
-```python
+```docker
   ENV SECRET_KEY="django-insecure-some-random-key"
   RUN python manage.py collectstatic --no-input --traceback
 ```
