@@ -72,7 +72,7 @@ I like to point `gunicorn` at a Python module:
 
 The neat thing about using a Python module instead of a config file or command line options is that you can calculate some things dynamically, e.g. the number of workers based on available CPU.
 
-You can add more processes to your `app.json` and/or `Procfile` as needed, for example if you want to run celery, or schedule cron jobs. See the [Dokku](https://dokku.com) documentation for details.
+You can add more processes to your `app.json` and/or `Procfile` as needed, for example if you want to run Celery, or schedule cron jobs. See the [Dokku](https://dokku.com) documentation for details.
 
 I prefer to handle Dokku deployments using Docker rather than buildpacks. For details on building an optimal `Dockerfile` for Dokku deployments, see [my previous article](/posts/dokku).
 
