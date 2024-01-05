@@ -1,6 +1,6 @@
 ---
 title: Deploy a Django application with Hetzner and Dokku
-description: Steps for building a micro-Heroku in 15 minutes.
+description: Steps for building a micro-Heroku in under 30 minutes.
 date: 2024-01-05
 tags:
   - dokku
@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 In [previous](/posts/dokku) [posts](/posts/starting-docker-file) I talked about [Dokku](https://dokku.com), a self-hosted Platform as a Service (PAAS) solution that you can run on Hetzner.
 
-This is a great solution for a single developer, when you want to launch a hobby side project or small business and you don't have a big budget. Here I go through the steps to launching your own micro-PAAS in just 15-20 minutes!
+This is a great solution for a single developer, when you want to launch a hobby side project or small business and you don't have a big budget. Here I go through the steps to launching your own micro-PAAS in under 30 minutes!
 
 ## Prep
 
@@ -34,7 +34,7 @@ To make this project "Dokku-aware" you should have at least an `app.json` and a 
 
 and the `Procfile`:
 
-```
+```bash
   release: ./release.sh
   web: gunicorn -c ./gunicorn.conf.py
 ```
@@ -212,19 +212,19 @@ Next we need to create a PostgreSQL database and link it to our app.
 This will automatically create a runtime environment variable `DATABASE_URL`. In your Django settings, you should therefore ensure that in production your database accesses this value from the environment. Parsing this into the `USER`, `NAME` and other db settings can be a pain, so using [dj_database_url](https://pypi.org/project/dj-database-url/) is recommended:
 
 ```python
-import dj_database_url
+  import dj_database_url
 
-DATABASES['default'] = dj_database_url.config(
-    conn_max_age=600,
-    conn_health_checks=True,
-)
+  DATABASES['default'] = dj_database_url.config(
+      conn_max_age=600,
+      conn_health_checks=True,
+  )
 ```
 
 `dj_database_url.config` assumes the default `DATABASE_URL` environment variable.
 
 ### Set up Redis
 
-If your project is using Redis, for example for caching or as a Celery backend, the process is similar to PostgreSQL: create a database, then link it to your project:
+If your project is using Redis, for example for caching or as a Celery backend, the process is similar to PostgreSQL - create a database, then link it to your project:
 
 ```bash
   ssh dokku@photogram.com redis:create radiofeed
@@ -280,6 +280,12 @@ Go to the top level of your repo in your local terminal. Once you have commmitte
 ```
 
 If all goes well, your site should be deployed. If you are deploying with a Docker image, Dokku will build your image and deploy the container.
+
+This process should be familiar to users of Heroku and other PAAS: to push any subsequent code changes to production, you just need to do:
+
+```bash
+  git push dokku main
+```
 
 ### Set environment variables
 
