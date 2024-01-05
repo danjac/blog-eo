@@ -102,13 +102,13 @@ Make sure to add your SSH key at this stage. Once you've created the project you
 
 You will need these firewalls:
 
-#### Outbound
+#### Inbound
 
 * SSH (Port 22)
 * TCP (Port 80)
 * TCP (Port 443)
 
-#### Inbound
+#### Outbound
 
 * TCP (Port 80)
 * TCP (Port 443)
