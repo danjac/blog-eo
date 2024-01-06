@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Resume - Dan Jacob
-tags: django python resume cv javascript typescript
+tags: django,python,resume,cv,javascript,typescript
 description: Results-driven senior full-stack software developer with over 10 years of industry experience, specializing in Django, Python, and front-end frameworks. Proven track record of successfully delivering complex projects for diverse clients.
 summary: Results-driven senior full-stack software developer with over 10 years of industry experience, specializing in Django, Python, and front-end frameworks. Proven track record of successfully delivering complex projects for diverse clients.
 eleventyNavigation:
