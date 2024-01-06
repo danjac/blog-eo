@@ -296,4 +296,8 @@ a[href].direct-link:focus:visited,
   pre {
     background-color: #505050;
   }
+  .postlist-date,
+  .postlist-item:before {
+    color: var(--lightgray);
+  }
 }
