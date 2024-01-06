@@ -1,7 +1,7 @@
 ---
 title: Deploy a Django application with Hetzner and Dokku
 description: Steps for building a micro-Heroku in under 30 minutes.
-date: 2024-01-05
+date: 2024-01-06
 tags:
   - dokku
   - web development
@@ -17,7 +17,7 @@ This is a great solution for a single developer, when you want to launch a hobby
 
 ## Prep
 
-For our example, we are going to deploy a Django application, `photofeed`. We are going to host our site on the domain `photofeed.com`.
+For our example, we are going to deploy a Django application, `simpleapp`. We are going to host our site on the domain `simpleapp.com`.
 
 To make this project "Dokku-aware" you should have at least an `app.json` and a `Procfile`. For a bare minimum example our `app.json` file looks like this:
 
@@ -94,11 +94,11 @@ The requirements depend on your project. For a typical Django-based application 
 
 This should cost around 5-6 EUR a month. You can scale up to more memory/CPU if needed or purchase a [volume](https://docs.hetzner.com/cloud/volumes/getting-started/creating-a-volume) if you need a much larger disk space (or just go with S3). You can also, for a little extra, make snapshots or add automated backups. Consult the [Hetzner documentation](https://docs.hetzner.com/cloud/servers/getting-started/enabling-backups) for more information on this - for now we just want to get our site up and running.
 
-Make sure to add your SSH key at this stage. Once you've created the project you can add the firewalls.
+Make sure to add your SSH key at this stage.
 
 ![SSH key](/img/hetzner_ssh_key.png)
 
-### Add firewalls
+### Configure firewalls
 
 You will need these firewalls:
 
@@ -142,7 +142,7 @@ Note that you can use the Hetzner DNS service for other needs, e.g. setting up e
 At this point, once the DNS changes have propagated, you should be able to SSH into your new server (you should have your SSH key added to the project as noted earlier):
 
 ```bash
-  ssh root@photofeed.com
+  ssh root@simpleapp.com
 ```
 
 Now you are in the server, you can install Dokku.
@@ -187,10 +187,10 @@ Once the plugins are installed, you can log out of the server. We will do the re
 
 ### Create your Dokku app
 
-The next step is to create your Dokku app. For convenience, this should be the name of your repo, so in our case `photofeed`.
+The next step is to create your Dokku app. For convenience, this should be the name of your repo, so in our case `simpleapp`.
 
 ```bash
-  ssh dokku@photofeed.com apps:create photofeed
+  ssh dokku@simpleapp.com apps:create simpleapp
 ```
 
 Note a couple things:
@@ -205,8 +205,8 @@ The command `apps:create` will create our app, but currently of course there is 
 Next we need to create a PostgreSQL database and link it to our app.
 
 ```bash
-  ssh dokku@photofeed.com postgres:create photofeed
-  ssh dokku@photofeed.com postgres:link photofeed photofeed
+  ssh dokku@simpleapp.com postgres:create simpleapp
+  ssh dokku@simpleapp.com postgres:link simpleapp simpleapp
 ```
 
 This will automatically create a runtime environment variable `DATABASE_URL`. In your Django settings, you should therefore ensure that in production your database accesses this value from the environment. Parsing this into the `USER`, `NAME` and other db settings can be a pain, so using [dj_database_url](https://pypi.org/project/dj-database-url/) is recommended:
@@ -227,8 +227,8 @@ This will automatically create a runtime environment variable `DATABASE_URL`. In
 If your project is using Redis, for example for caching or as a Celery backend, the process is similar to PostgreSQL - create a database, then link it to your project:
 
 ```bash
-  ssh dokku@photofeed.com redis:create photofeed
-  ssh dokku@photofeed.com redis:link photofeed photofeed
+  ssh dokku@simpleapp.com redis:create simpleapp
+  ssh dokku@simpleapp.com redis:link simpleapp simpleapp
 ```
 
 Again, an environment variable `REDIS_URL` is automatically generated, which should be accessed in your production settings:
@@ -240,35 +240,35 @@ Again, an environment variable `REDIS_URL` is automatically generated, which sho
 
 ### Set up LetsEncrypt
 
-In order to set up LetsEncrypt to provide SSL protection for your site, you first need to configure your domain with Dokku. By default a domain is created when you created the app, this will be something like `ubuntu-hel1.photofeed.com`. Clear any default domains with this command:
+In order to set up LetsEncrypt to provide SSL protection for your site, you first need to configure your domain with Dokku. By default a domain is created when you created the app, this will be something like `ubuntu-hel1.simpleapp.com`. Clear any default domains with this command:
 
 ```bash
-  ssh dokku@photofeed.com domains:clear photofeed
+  ssh dokku@simpleapp.com domains:clear simpleapp
 ```
 
 You can now link the domain you want to use with your app:
 
 ```bash
-  ssh dokku@photofeed.com domains:add photofeed photofeed.com
+  ssh dokku@simpleapp.com domains:add simpleapp simpleapp.com
 ```
 
 Now you can setup LetsEncrypt. First add your email address:
 
 ```bash
-  ssh dokku@photofeed.com letsencrypt:set photofeed email admin@photofeed.com
+  ssh dokku@simpleapp.com letsencrypt:set simpleapp email admin@simpleapp.com
 ```
 
 Next enable Letsencrypt:
 
 ```bash
-  ssh dokku@photofeed.com letsencrypt:enable photofeed
+  ssh dokku@simpleapp.com letsencrypt:enable simpleapp
 ```
 
 This will automatically handle nginx configuration. If you want to set up auto-renewal:
 
 
 ```bash
-  ssh dokku@photofeed.com letsencrypt:auto-renew photofeed
+  ssh dokku@simpleapp.com letsencrypt:auto-renew simpleapp
 ```
 
 ## Deploy your code
@@ -280,7 +280,7 @@ Go to the top level of your repo in your local terminal. Once you have commmitte
 
 ```bash
   git checkout main
-  git remote add dokku dokku@photofeed.com:photofeed
+  git remote add dokku dokku@simpleapp.com:simpleapp
   git push dokku main
 ```
 
@@ -299,13 +299,13 @@ This process should be familiar to users of Heroku and other PAAS: to push any s
 Next you will probably want to set some environment variables. As noted, some environment variables such as `DATABASE_URL` are set automatically so we should not touch those. Others you might want to set are:
 
 * `SECRET_KEY`
-* `ALLOWED_HOSTS` e.g. *photofeed.com.*
+* `ALLOWED_HOSTS` e.g. *simpleapp.com.*
 * 3rd party credentials e.g. Sentry or Mailgun
 
 To set a environment variable for example `SECRET_KEY`:
 
 ```bash
-  ssh dokku@photofeed.com config:set --no-restart photofeed SECRET_KEY=my_top_secret_key
+  ssh dokku@simpleapp.com config:set --no-restart simpleapp SECRET_KEY=my_top_secret_key
 ```
 
 The `--no-restart` flag will set the key without restarting the server: you might want to do this if setting a bunch of keys at the start. The environment variable will not take effect until you restart.
@@ -313,7 +313,7 @@ The `--no-restart` flag will set the key without restarting the server: you migh
 Once you are done you can restart the server without needing to deploy again with this command:
 
 ```bash
-  ssh dokku@photofeed.com ps:restart photofeed
+  ssh dokku@simpleapp.com ps:restart simpleapp
 ```
 
 ## Finishing up
@@ -323,7 +323,7 @@ Once you are done you can restart the server without needing to deploy again wit
 Finally you may wish to add a superuser to access the Django admin. In Dokku there is `run` command which allows you to execute arbitrary commands within the running container:
 
 ```bash
-  ssh -t dokku@photofeed.com -- run photofeed ./manage.py createsuperuser
+  ssh -t dokku@simpleapp.com -- run simpleapp ./manage.py createsuperuser
 ```
 
 Note the `-t` flag: we need to run this command with `tty` as it is interactive (Django will query you for username, email etc). You should use this syntax for any interactive commands, for example if you want to run the Python or Django shell.
