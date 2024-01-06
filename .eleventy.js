@@ -10,6 +10,7 @@ module.exports = function (eleventyConfig) {
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("docs");
 
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
@@ -21,7 +22,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
+      "dd LLL yyyy",
     );
   });
 
@@ -49,7 +50,7 @@ module.exports = function (eleventyConfig) {
 
   function filterTagList(tags) {
     return (tags || []).filter(
-      (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1
+      (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1,
     );
   }
 
