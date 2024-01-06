@@ -40,6 +40,7 @@ Based in Finland, UK and Finnish dual citizen.
 * GraphQL
 * Nodejs
 * Nuxt
+* Eleventy
 * Go
 
 ### Frontend
