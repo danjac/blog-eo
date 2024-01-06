@@ -17,7 +17,7 @@ This is a great solution for a single developer, when you want to launch a hobby
 
 ## Prep
 
-For our example, we are going to deploy a Django application, `photogram`. We are going to host our site on the domain `photogram.com`.
+For our example, we are going to deploy a Django application, `photofeed`. We are going to host our site on the domain `photofeed.com`.
 
 To make this project "Dokku-aware" you should have at least an `app.json` and a `Procfile`. For a bare minimum example our `app.json` file looks like this:
 
@@ -92,7 +92,7 @@ The requirements depend on your project. For a typical Django-based application 
 * 4GB RAM
 * 40GB SSD
 
-This should cost around 5-6 EUR a month. You can scale up to more memory/CPU if needed or purchase a [volume]() if you need a much larger disk space (or just go with S3). You can also, for a little extra, make snapshots or add automated backups. Consult the Hetzner documentation for more information on this - for now we just want to get our site up and running.
+This should cost around 5-6 EUR a month. You can scale up to more memory/CPU if needed or purchase a [volume](https://docs.hetzner.com/cloud/volumes/getting-started/creating-a-volume) if you need a much larger disk space (or just go with S3). You can also, for a little extra, make snapshots or add automated backups. Consult the [Hetzner documentation](https://docs.hetzner.com/cloud/servers/getting-started/enabling-backups) for more information on this - for now we just want to get our site up and running.
 
 Make sure to add your SSH key at this stage. Once you've created the project you can add the firewalls.
 
@@ -139,10 +139,10 @@ In your domain registrar (Namecheap in my case) you should have the option to se
 
 Note that you can use the Hetzner DNS service for other needs, e.g. setting up email domains with Mailgun or some other service.
 
-At this point, once the DNS caches have updated, you should be able to SSH into your new server (you should have your SSH key added to the project as noted earlier):
+At this point, once the DNS changes have propagated, you should be able to SSH into your new server (you should have your SSH key added to the project as noted earlier):
 
 ```bash
-  ssh root@photogram.com
+  ssh root@photofeed.com
 ```
 
 Now you are in the server, you can install Dokku.
@@ -173,7 +173,7 @@ This allows you to run Dokku commands remotely from your local terminal and depl
 
 If you want to use some other SSH key you can do so with `dokku ssh-keys:add admin`, for example if you want to allow other developers to be able to access Dokku.
 
-### Add plugins
+### Install plugins
 
 Dokku has a number of plugins (and can even use some Heroku buildpacks). My typical Django project just needs three: PostgreSQL, Redis and LetsEncrypt. While still logged into the server, you can install these now:
 
@@ -187,10 +187,10 @@ Once the plugins are installed, you can log out of the server. We will do the re
 
 ### Create your Dokku app
 
-The next step is to create your Dokku app. For convenience, this should be the name of your repo, so in our case `photogram`.
+The next step is to create your Dokku app. For convenience, this should be the name of your repo, so in our case `photofeed`.
 
 ```bash
-  ssh dokku@photogram.com apps:create photogram
+  ssh dokku@photofeed.com apps:create photofeed
 ```
 
 Note a couple things:
@@ -205,8 +205,8 @@ The command `apps:create` will create our app, but currently of course there is 
 Next we need to create a PostgreSQL database and link it to our app.
 
 ```bash
-  ssh dokku@photogram.com postgres:create radiofeed
-  ssh dokku@photogram.com postgres:link radiofeed radiofeed
+  ssh dokku@photofeed.com postgres:create photofeed
+  ssh dokku@photofeed.com postgres:link photofeed photofeed
 ```
 
 This will automatically create a runtime environment variable `DATABASE_URL`. In your Django settings, you should therefore ensure that in production your database accesses this value from the environment. Parsing this into the `USER`, `NAME` and other db settings can be a pain, so using [dj_database_url](https://pypi.org/project/dj-database-url/) is recommended:
@@ -227,43 +227,48 @@ This will automatically create a runtime environment variable `DATABASE_URL`. In
 If your project is using Redis, for example for caching or as a Celery backend, the process is similar to PostgreSQL - create a database, then link it to your project:
 
 ```bash
-  ssh dokku@photogram.com redis:create radiofeed
-  ssh dokku@photogram.com redis:link radiofeed radiofeed
+  ssh dokku@photofeed.com redis:create photofeed
+  ssh dokku@photofeed.com redis:link photofeed photofeed
 ```
 
-Again, an environment variable `REDIS_URL` is automatically generated, which should be accessed in your production settings.
+Again, an environment variable `REDIS_URL` is automatically generated, which should be accessed in your production settings:
+
+```python
+  import os
+  REDIS_URL = os.environ["REDIS_URL"]
+```
 
 ### Set up LetsEncrypt
 
-In order to set up LetsEncrypt to provide SSL protection for your site, you first need to configure your domain with Dokku. By default a domain is created when you created the app, this will be something like `ubuntu-hel1.photogram.com`. Clear any default domains with this command:
+In order to set up LetsEncrypt to provide SSL protection for your site, you first need to configure your domain with Dokku. By default a domain is created when you created the app, this will be something like `ubuntu-hel1.photofeed.com`. Clear any default domains with this command:
 
 ```bash
-  ssh dokku@photogram.com domains:clear photogram
+  ssh dokku@photofeed.com domains:clear photofeed
 ```
 
 You can now link the domain you want to use with your app:
 
 ```bash
-  ssh dokku@photogram.com domains:add photogram phtogram.com
+  ssh dokku@photofeed.com domains:add photofeed photofeed.com
 ```
 
 Now you can setup LetsEncrypt. First add your email address:
 
 ```bash
-  ssh dokku@photogram.com letsencrypt:set photogram email admin@photogram.com
+  ssh dokku@photofeed.com letsencrypt:set photofeed email admin@photofeed.com
 ```
 
 Next enable Letsencrypt:
 
 ```bash
-  ssh dokku@photogram.com letsencrypt:enable photogram
+  ssh dokku@photofeed.com letsencrypt:enable photofeed
 ```
 
 This will automatically handle nginx configuration. If you want to set up auto-renewal:
 
 
 ```bash
-  ssh dokku@photogram.com letsencrypt:auto-renew photogram
+  ssh dokku@photofeed.com letsencrypt:auto-renew photofeed
 ```
 
 ## Deploy your code
@@ -275,9 +280,11 @@ Go to the top level of your repo in your local terminal. Once you have commmitte
 
 ```bash
   git checkout main
-  git remote add dokku dokku@phtogram.com:photogram
+  git remote add dokku dokku@photofeed.com:photofeed
   git push dokku main
 ```
+
+Note the remote location - it should be `dokku@DOMAIN:APP_NAME`. This is the app you set up earlier with `apps:create`.
 
 If all goes well, your site should be deployed. If you are deploying with a Docker image, Dokku will build your image and deploy the container.
 
@@ -292,13 +299,13 @@ This process should be familiar to users of Heroku and other PAAS: to push any s
 Next you will probably want to set some environment variables. As noted, some environment variables such as `DATABASE_URL` are set automatically so we should not touch those. Others you might want to set are:
 
 * `SECRET_KEY`
-* `ALLOWED_HOSTS` e.g. *photogram.com.*
+* `ALLOWED_HOSTS` e.g. *photofeed.com.*
 * 3rd party credentials e.g. Sentry or Mailgun
 
 To set a environment variable for example `SECRET_KEY`:
 
 ```bash
-  ssh dokku@photogram.com config:set --no-restart photogram SECRET_KEY=my_top_secret_key
+  ssh dokku@photofeed.com config:set --no-restart photofeed SECRET_KEY=my_top_secret_key
 ```
 
 The `--no-restart` flag will set the key without restarting the server: you might want to do this if setting a bunch of keys at the start. The environment variable will not take effect until you restart.
@@ -306,7 +313,7 @@ The `--no-restart` flag will set the key without restarting the server: you migh
 Once you are done you can restart the server without needing to deploy again with this command:
 
 ```bash
-  ssh dokku@photogram.com ps:restart photogram
+  ssh dokku@photofeed.com ps:restart photofeed
 ```
 
 ## Finishing up
@@ -316,7 +323,7 @@ Once you are done you can restart the server without needing to deploy again wit
 Finally you may wish to add a superuser to access the Django admin. In Dokku there is `run` command which allows you to execute arbitrary commands within the running container:
 
 ```bash
-  ssh -t dokku@photogram.com -- run photogram ./manage.py createsuperuser
+  ssh -t dokku@photofeed.com -- run photofeed ./manage.py createsuperuser
 ```
 
 Note the `-t` flag: we need to run this command with `tty` as it is interactive (Django will query you for username, email etc). You should use this syntax for any interactive commands, for example if you want to run the Python or Django shell.
