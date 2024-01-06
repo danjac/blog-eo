@@ -1,10 +1,9 @@
 {
-  "title": "Dan's Blog",
-  "url": "https://danjacob.net/",
-  "language": "en",
-  "description": "Web development, learning Finnish, movie reviews and other ephemera",
+  "title": "Nifulo",
+  "url": "https://nifulo.com",
+  "language": "eo",
+  "description": "Rakontoj, pop-kulturo, sciencfikcio, kaj stranga historio",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://danjacob.net/"
