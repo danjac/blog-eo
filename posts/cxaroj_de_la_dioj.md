@@ -1,5 +1,5 @@
 ---
-title: Ĉaroj de la Dioj
+title: Ĉaroj de la Dioj?
 description: La verkoj de Eric von Däniken kaj ilia kultura heredaĵo
 date: 2024-01-06
 tags:
@@ -9,6 +9,7 @@ tags:
   - komiksoj
 layout: layouts/post.njk
 ---
+{% import "image.njk" as image %}
 
 Kiam mi estis infano, mi malsaniĝis kaj devis resti enlite dum du semajnoj. Bonŝance ni loĝis proksime de biblioteko kaj ĉiutage survoje de laboro mia patrino pruntis librojn de la biblioteko por ke mi ne tute enuiĝu.
 
@@ -18,14 +19,26 @@ Unutage panjo prezentis komikson kun la titolo _The Gods from Outer Space_ (La D
 
 La komikso komencas per la alveno de homaj astronaŭtoj el dista planedo. Ili ĵus alvenis en granda kosmoŝipo al la "Blua Planedo", kiu laŭ la formoj de la kontinentoj sub la nuboj estas evidente nia Tero, sed en la malproksima pasinteco. La estro de la astronaŭtoj estas bela virino, Dais, kiu atestas, ke ili sekvas la planon de la Granda Cerbo sur ilia hejmplanedo.
 
+{{ image.figure(url="/img/erich-von-daniken-gods-from-outer-space-cover-we-are-the-mutants-0.webp", description="La Dioj de Kosmo", source="https://wearethemutants.com/2020/04/30/ancient-astronaut-comics-the-gods-from-outer-space-1978-1982/", attribution="We Are the Mutants") }}
+
 La intrigo de la komikso temas pri la misio de ĉi tiuj eksterteruloj - ili volas evoluigi la lokajn primitivajn homojn al ilia nivelo, kaj instruas niajn praavojn pri la sekretoj de teĥnologio, kiel la mistera monolito en la filmo 2001 - Kosma Odeseo. Oni sugestas, ke niaj antikvaj mitoj, de la Biblio, aŭ la helenoj, egiptoj aŭ indianoj, estas la komunaj memoroj pri tiuj eksterteloj kaj ilia mirakla teĥnologio. Ĉar bona intrigo bezonas friponon, unu el la eksteranoj estis malbonintenca sciencisto, kiu volis krei demonecajn monstrojn per siaj eksperimentoj - la origina Satano.
 
-Von Däniken fakte ne skribis la komikson aŭ ĝian sekvantajn episodojn de la serio (bedaŭrinde troviĝis nur la unua en nia biblioteko). La talentaj verkistoj estis aŭtoro Arnold Mostowicz kaj artisto Bogusław Polch, kaj la serio unue publikiĝis en Pollando. Sed ilia verko baziĝis sur la verkoj de Erich von Däniken, kaj li estis unu el la plej vendataj verkistoj en la Okcidento dum la 70-a jardeko. Lia ĉefa verko estis _Ĉaroj de la Dioj_.
+{{ image.figure(url="/img/gods-from-space-we-are-the-mutants-1.webp", description="Dais kaj ŝiaj kunŝipanoj alvintaj al la \"Blua Planedo\".", source="https://wearethemutants.com/2020/04/30/ancient-astronaut-comics-the-gods-from-outer-space-1978-1982/", attribution="We Are the Mutants") }}
 
-Miaj gepatroj posedis eksempleron de _Ĉaroj de la Dioj_, kiel milionoj da homoj tiutempe. La libro sekvas la saman temon de la komikso, sed la intencita legantaro ne estas infanoj, sed plenkreskuloj, do sen mojosaj kosmoŝipoj kaj belaj eksterterulinoj. Ĝi atestas la arĥeologiajn kaj mitajn restaĵojn de niaj praavuloj ne produktoj de la eterna homa kapablo pri imagado kaj inventado, sed evidento pri la ekzistado de eksterteruloj, kiuj vizitis nin iam dum la pasinteco kaj demonstris ilian miraklan teĥnologion al mirantaj primitivaj kavernloĝantoj. Danke al la verdaj nifuletoj (aŭ belaj astronaŭtinoj) ni lernis konstrui la piramidojn.
+Von Däniken fakte ne skribis la komikson aŭ ĝian sekvantajn episodojn de la serio (bedaŭrinde troviĝis nur la unua en nia biblioteko). La talentaj verkistoj estis aŭtoro Arnold Mostowicz kaj artisto Bogusław Polch, kaj la serio unue publikiĝis en Pollando. Sed ilia verko baziĝis sur la verkoj de Erich von Däniken, kaj li estis unu el la plej vendataj verkistoj en la Okcidento dum la 70-a jardeko. Lia ĉefa verko estis _Ĉaroj de la Dioj?_. (La demandsigno estas ja intenca parto de la titolo).
 
-_Ĉaroj de la Dioj_ nun estas preskaŭ forgesita verko, sed ĝi postlasis spurojn en nia vulgara kulturo. La frenezharulo Georgio Tsoukalos, kiu prezentis la dokumentarian serion "Antikvaj Eksterteruloj" en la Historia Kanalo (kaj famas pro la memeo "Mi ne diras, ke estas eksterteruloj, sed ja estas eksterteruloj") pruntis libere de von Daniken, kaj tiu aperis multfoje en la serio. La filmo _Prometheus_ (Prometeo) de Ridley Scott, antaŭaĵo de _Alien_, sugestas pri homecaj eksterteruloj, kiuj helpis starti nian specon.
+Miaj gepatroj posedis ekzempleron de _Ĉaroj de la Dioj_, kiel milionoj da homoj tiutempe. La libro sekvas la saman temon de la komikso, sed la intencita legantaro ne estas infanoj, sed plenkreskuloj, do sen mojosaj kosmoŝipoj kaj belaj eksterterulinoj. Ĝi atestas la arĥeologiajn kaj mitajn restaĵojn de niaj praavuloj ne produktoj de la eterna homa kapablo pri imagado kaj inventado, sed evidento pri la ekzistado de eksterteruloj, kiuj vizitis nin iam dum la pasinteco kaj demonstris ilian miraklan teĥnologion al mirantaj primitivaj kavernloĝantoj. Danke al la verdaj nifuletoj (aŭ belaj astronaŭtinoj) ni lernis konstrui la piramidojn.
+
+_Ĉaroj de la Dioj_ nun estas preskaŭ forgesita verko, sed ĝi postlasis spurojn en nia vulgara kulturo. La frenezharulo Georgio Tsoukalos, kiu prezentis la dokumentarian serion "Antikvaj Eksterteruloj" en la Historia Kanalo (kaj famas pro la memeo "Mi ne diras, ke estas eksterteruloj, sed ja estas eksterteruloj") pruntis libere de von Daniken, kaj tiu gastis multfoje en la serio. La filmo _Prometheus_ (Prometeo) de Ridley Scott, antaŭaĵo de _Alien_, sugestas pri homecaj eksterteruloj, kiuj helpis starti nian specon.
 
 Sed la verko, kaj ties ideoj, ne estas nur amuza pop-kulturaĵo de la 70-a jardeko. Von Daniken koncentriĝas plejparte pri la arĥeologio kaj mitoj de la sudamerikaj indianoj (la inkaoj kaj majaoj), la mezorientaj civilazacioj de Mezopotamio kaj Egiptio, kaj la orientaj kulturoj de Ĉinio, Hindio, Japanio ktp. Li preskaŭ neniam mencias okcidentajn evidentaĵon. La piramidoj? Konstruitaj aŭ dizajnitaj de eksterteruloj. Stonehenge? Verŝajne homfaritaj. La turo de Babelo? Ankaŭ eksterteruloj. La kavernaj pentraĵoj de Lascaux? Faritaj de homoj. Kaj tiel plu. Blankuloj, kompreneble, ne bezonis la helpon de astronaŭtoj. Nigraj kaj brunaj homoj aliflanke povis fari siajn miraklojn nur danke al nifuloj.
 
-Do _Ĉaroj de la Dioj_ ne estas unika verko, sed sekvas longan kutimon. Okcidentaj esploristoj kiuj malkovris mirindaĵojn en iu ĝangalo aŭ dezerto ne kredis, ke la prapatroj de la lokaj primitivuloj kapablis pri tia inventeco. La solvo estis, ke ia "perdita tribo" de blankuloj - vikingoj aŭ izraelidoj aŭ atlantidanoj - konstruis tiun templon aŭ akvedukton antaŭ ol malaperi de historio. La inventeco de von Daniken (li jam pruvis sian inventencon per fraŭdo de la svisa hotelo, kie li laboris) - estis ĝisdatigi jarcentaĝajn ideojn pri la supereco de blankularo al la mezdudekjarcenta tempanimo pri nifoj kaj ekstertera esplorado.
+{{ image.figure(url="/img/Stone_statue_late_Jomon_period.jpg", description="Japana statuo de la Jomona Epoko, kiun von Daniken atestis eksterterulo en skafandro.", source="https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F", attribution="Wikipedia") }}
+
+Do _Ĉaroj de la Dioj?_ ne estas unika verko, sed sekvas longan tradicion. Okcidentaj esploristoj kiuj malkovris mirindaĵojn en iu ĝangalo aŭ dezerto ne kredis, ke la prapatroj de la lokaj primitivuloj kapablis pri tia inventeco. La solvo estis, ke ia "perdita tribo" de blankuloj - vikingoj aŭ izraelidoj aŭ atlantidanoj - konstruis tiun templon aŭ akvedukton antaŭ ol malaperi de historio. La inventeco de von Daniken (li jam pruvis sian inventencon per fraŭdo de la svisa hotelo, kie li laboris) - estis ĝisdatigi jarcentaĝajn ideojn pri la supereco de blankularo al la mezdudekjarcenta tempanimo pri nifoj kaj ekstertera esplorado.
+
+Krom la implicita rasismo la kerna ideo malkaŝas cinikecon pri la kapablo kaj imagpovo de la homaro, kaj nur la moderna homo kapablas pri inventeco. Laŭ Carl Sagan:
+
+> La populareco de verkado tiel senzorga kiel tiu de von Daniken, kies pricipa teoso estas ke niaj prapatroj estis stultuloj, sobre komentas pri la kredemo kaj malespero de nia tempo. Mi ankaŭ esperas por la daŭra populareco de tiaj libroj, kiel _Ĉaroj de la Dioj?_ en kursoj pri logiko en lernejoj kaj universitatoj, kiel ekzemploj de malzorgema pensado. Mi ne konas novajn librojn tiel plenajn je logikaj kaj faktaj eraroj kiel la verkoj de von Daniken.
+
+

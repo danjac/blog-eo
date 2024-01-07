@@ -1,0 +1,9 @@
+{% macro figure(url, description, source, attribution) %}
+<figure class="image">
+  <img src="{{ url }}" alt="{{ description }}">
+  <figcaption>
+      {{ description }}
+      Fonto: <a href="{{ source }}">{{ attribution }}</a>
+  </figcaption>
+</figure>
+{%- endmacro %}
