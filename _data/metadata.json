@@ -1,20 +1,20 @@
 {
-  "title": "Nifulo",
-  "url": "https://nifulo.com",
+  "title": "Leteroj Elsubteraj",
+  "url": "https://leterojelsubteraj.com",
   "language": "eo",
   "description": "Rakontoj, pop-kulturo, sciencfikcio, kaj stranga historio",
   "feed": {
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://danjacob.net/"
+    "id": "https://leterojelsubteraj.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://danjacob.net/feed/feed.json"
+    "url": "https://leterojelsubteraj.com/feed/feed.json"
   },
   "author": {
     "name": "Dan Jacob",
     "email": "danjac2018@gmail.com",
-    "url": "https://danjacob.net/about-me/"
+    "url": "https://danjacob.net/"
   }
 }

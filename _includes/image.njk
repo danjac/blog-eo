@@ -3,7 +3,7 @@
   <img src="{{ url }}" alt="{{ description }}">
   <figcaption>
       {{ description }}
-      {% if source and attibution -%}
+      {% if source != '' and attibution != '' -%}
       Fonto: <a href="{{ source }}">{{ attribution }}</a>
       {%- endif %}
   </figcaption>
