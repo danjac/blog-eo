@@ -27,7 +27,7 @@ La intrigo de la komikso temas pri la misio de ĉi tiuj eksterteruloj - ili vola
 
 Von Däniken fakte ne skribis la komikson aŭ ĝiajn sekvantajn ĉapitrojn de la serio (bedaŭrinde troviĝis nur la unua en nia biblioteko). La talentaj verkistoj estis aŭtoro Arnold Mostowicz kaj artisto Bogusław Polch, kaj la serio unue publikiĝis en Pollando. Sed ilia verko baziĝis sur la verkoj de Erich von Däniken, kaj li estis unu el la plej vendataj verkistoj en la Okcidento dum la 70-a jardeko. Lia ĉefa verko estis _Ĉu Ĉaroj de la Dioj?_ (La demandsigno estas ja intenca parto de la titolo).
 
-{{ image.figure(url="/img/Chariots_Of_The_Gods.jpg", description="Ĉaroj de la Dioj", source="https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F", attribution="Wikipedia")}}
+{{ image.figure(url="/img/Chariots_Of_The_Gods.jpg", description="Ĉu Ĉaroj de la Dioj? de Erich von Däniken", source="https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F", attribution="Wikipedia")}}
 
 Miaj gepatroj posedis ekzempleron de _Ĉaroj de la Dioj_, kiel milionoj da homoj tiutempe. La libro sekvas la saman temon de la komikso, sed la intencita legantaro ne estas infanoj, sed plenkreskuloj, do sen mojosaj kosmoŝipoj kaj belaj eksterterulinoj. Ĝi atestas la arĥeologiajn kaj mitajn restaĵojn de niaj prapatroj ne produktoj de la eterna homa kapablo pri imagado kaj inventado, sed evidento pri la ekzistado de eksterteruloj, kiuj vizitis nin iam dum la pasinteco kaj demonstris ilian miraklan teĥnologion al mirantaj primitivaj trogloditoj. Danke al la verdaj nifuletoj (aŭ belaj astronaŭtinoj) ni lernis konstrui la piramidojn.
 
