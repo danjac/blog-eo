@@ -25,7 +25,7 @@ La intrigo de la komikso temas pri la misio de ĉi tiuj eksterteruloj - ili vola
 
 {{ image.figure(url="/img/gods-from-space-we-are-the-mutants-1.webp", description="Dais kaj ŝiaj kunŝipanoj alvintaj al la \"Blua Planedo\".", source="https://wearethemutants.com/2020/04/30/ancient-astronaut-comics-the-gods-from-outer-space-1978-1982/", attribution="We Are the Mutants") }}
 
-Von Däniken fakte ne skribis la komikson aŭ ĝiajn sekvantajn ĉapitrojn de la serio (bedaŭrinde troviĝis nur la unua en nia biblioteko). La talentaj verkistoj estis aŭtoro Arnold Mostowicz kaj artisto Bogusław Polch, kaj la serio unue publikiĝis en Pollando. Sed ilia verko baziĝis sur la verkoj de Erich von Däniken, kaj li estis unu el la plej vendataj verkistoj en la Okcidento dum la 70-a jardeko. Lia ĉefa verko estis _Ĉaroj de la Dioj?_. (La demandsigno estas ja intenca parto de la titolo).
+Von Däniken fakte ne skribis la komikson aŭ ĝiajn sekvantajn ĉapitrojn de la serio (bedaŭrinde troviĝis nur la unua en nia biblioteko). La talentaj verkistoj estis aŭtoro Arnold Mostowicz kaj artisto Bogusław Polch, kaj la serio unue publikiĝis en Pollando. Sed ilia verko baziĝis sur la verkoj de Erich von Däniken, kaj li estis unu el la plej vendataj verkistoj en la Okcidento dum la 70-a jardeko. Lia ĉefa verko estis _(Ĉu) Ĉaroj de la Dioj?_. (La demandsigno estas ja intenca parto de la titolo).
 
 {{ image.figure(url="/img/Chariots_Of_The_Gods.jpg", description="Ĉaroj de la Dioj?", source="https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F", attribution="Wikipedia")}}
 
