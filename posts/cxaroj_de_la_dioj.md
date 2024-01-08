@@ -41,7 +41,7 @@ Sed la verko, kaj ties ideoj, ne estas nur amuza pop-kulturaĵo de la 70-a jarde
 
 Do _Ĉaroj de la Dioj?_ ne estas unika verko, sed apartenas al longa tradicio. Okcidentaj esploristoj kiuj malkovris mirindaĵojn en iu ĝangalo aŭ dezerto ne kredis, ke la prapatroj de la lokaj primitivuloj kapablis pri tia inventeco. La solvo estis, ke ia "perdiĝinta tribo" de blankuloj - vikingoj aŭ izraelidoj aŭ atlantidanoj - konstruis tiun templon aŭ akvedukton antaŭ ol malaperi de historio. La inventeco de von Däniken (li jam pruvis sian inventecon per fraŭdo kontraŭ la svisa hotelo, kie li laboris) - estis ĝisdatigi plurjarcentaĝajn ideojn pri la supereco de blankularo al la mezdudekjarcenta tempanimo pri nifoj kaj kosma esplorado.
 
-Krom la implicita rasismo la kerna ideo malkaŝas cinikecon pri la kapablo kaj imagpovo de la homaro, kaj la kredon, ke nur la moderna homo kapablas pri racio kaj inventeco. Laŭ Carl Sagan:
+Krom la implicita rasismo la kerna ideo malkaŝas cinikecon pri la kapablo kaj imagpovo de la homaro, kaj la kredon, ke nur la moderna homo kapablas pri racio kaj inventeco. Laŭ [Carl Sagan](https://eo.wikipedia.org/wiki/Carl_Sagan):
 
 > La populareco de verkaĵoj tiel senzorgaj kiel tiuj de von Däniken, kies precipa tezo estas ke niaj prapatroj estis stultuloj, sobre komentas pri la kredemo kaj malespero de nia tempo. Mi ankaŭ esperas por la daŭra populareco de tiaj libroj, kiel _Ĉaroj de la Dioj?_ en kursoj pri logiko en lernejoj kaj universitatoj, kiel ekzemploj de malzorgema pensado. Mi ne konas novajn librojn tiel plenajn je logikaj kaj faktaj eraroj kiel la verkoj de von Däniken.
 
