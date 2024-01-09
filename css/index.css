@@ -279,17 +279,23 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
-figure.image {
+.image {
   margin: 1px 0;
   padding: 1px 0;
   & img {
     object-fit: scale-down;
     padding-bottom: 1px;
-    max-width: 100%;
-    max-height: 100%;
   }
   & figcaption {
     font-style: italic;
+  }
+}
+
+@media (max-width: 740px) {
+.image {
+  & img {
+    height: 100%;
+    width: 100%;
   }
 }
 
