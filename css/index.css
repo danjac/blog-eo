@@ -292,10 +292,11 @@ a[href].direct-link:focus:visited,
 }
 
 @media (max-width: 740px) {
-.image {
-  & img {
-    height: 100%;
-    width: 100%;
+  .image {
+    & img {
+      height: 100%;
+      width: 100%;
+    }
   }
 }
 
