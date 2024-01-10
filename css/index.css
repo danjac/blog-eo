@@ -283,15 +283,20 @@ a[href].direct-link:focus:visited,
   margin: 1px 0;
   padding: 1px;
   display: grid;
+  grid-template-columns: 1fr;
+  grid-row-gap: 1em;
   justify-items: center;
+  text-align: center;
   & img {
-    object-fit: contain;
+    object-fit: cover;
     flex: auto;
-    margin-bottom: 1rem;
+    height: auto;
+    max-width: 100%;
   }
   & figcaption {
     font-style: italic;
     flex-wrap: wrap;
+    max-width: 100%;
   }
 }
 
