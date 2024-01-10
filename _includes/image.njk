@@ -1,15 +1,8 @@
-{% macro figure(url, description, width, height, source='', attribution='', class='') -%}
-<figure class="image{% if class %} {{ class }}{% endif %}">
+{% macro img(url, description, width, height, class='') -%}
   <img src="{{ url }}"
        alt="{{ description }}"
        loading="lazy"
        width="{{ width }}"
-       height="{{ height }}">
-  <figcaption>
-      {{ description }}
-      {% if source != '' and attibution != '' -%}
-      <strong>Fonto:</strong> <a href="{{ source }}">{{ attribution }}</a>
-      {%- endif %}
-  </figcaption>
-</figure>
+       height="{{ height }}"
+       {% if class %}class="{{ class }}"{% endif %}>
 {%- endmacro %}

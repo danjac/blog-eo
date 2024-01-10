@@ -279,53 +279,28 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
-figure {
-  margin: 1px 0;
-  padding: 1px;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-row-gap: 1em;
-  justify-items: center;
-  text-align: center;
-  & img {
-    object-fit: cover;
-    flex: auto;
-    height: auto;
-    max-width: 100%;
-  }
-  & figcaption {
-    font-style: italic;
-    flex-wrap: wrap;
-    max-width: 100%;
-  }
-}
-
-.wrap {
+img {
+  object-fit: cover;
+  flex: auto;
+  height: auto;
+  max-width: 100%;
   padding: 1rem;
-  margin: 0 20px 0 20px;
-  & + * {
-    text-align: justify;
-    float: none;
-  }
 }
 
 .float-left {
   float: left;
+  padding-left: 0px;
 }
 
 .float-right {
   float: right;
+  padding-right: 0px;
 }
 
 @media (max-width: 740px) {
   .float-left,
   .float-right {
     float: none;
-    margin-right: 0;
-    & + * {
-      text-align: none;
-      float: none;
-    }
   }
 }
 
