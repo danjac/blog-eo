@@ -1,15 +1,19 @@
-{% macro figure(url, description, width, height, source='', attribution='') %}
-<figure class="image">
+{% macro figure(url, description, width, height, source='', attribution='', wrap=false) %}
+<figure class="image{% if wrap %} wrap{% endif %}">
   <img src="{{ url }}"
        alt="{{ description }}"
        loading="lazy"
        width="{{ width }}"
        height="{{ height }}">
   <figcaption>
+      <div>
       {{ description }}
+      </div>
+      <div>
       {% if source != '' and attibution != '' -%}
       Fonto: <a href="{{ source }}">{{ attribution }}</a>
       {%- endif %}
+      </div>
   </figcaption>
 </figure>
 {%- endmacro %}

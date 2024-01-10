@@ -281,13 +281,14 @@ a[href].direct-link:focus:visited,
 
 .image {
   margin: 1px 0;
-  padding: 1px 0;
+  padding: 1px;
   & img {
     object-fit: scale-down;
     padding-bottom: 1px;
   }
   & figcaption {
     font-style: italic;
+    flex-wrap: wrap;
   }
 }
 
@@ -296,6 +297,24 @@ a[href].direct-link:focus:visited,
     & img {
       height: 100%;
       width: 100%;
+    }
+  }
+}
+
+.wrap {
+  float: left;
+  padding: 3px;
+  & figcaption {
+    text-align: center;
+  }
+}
+
+@media (max-width: 740px) {
+  .wrap {
+    float: none;
+    padding: 1px 0px;
+    & figcaption {
+      text-align: left;
     }
   }
 }
