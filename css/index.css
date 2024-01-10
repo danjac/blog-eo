@@ -279,7 +279,7 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
-.image {
+figure {
   margin: 1px 0;
   padding: 1px;
   display: grid;
@@ -301,25 +301,25 @@ a[href].direct-link:focus:visited,
 }
 
 .wrap {
+  padding: 1rem;
+  margin: 0 20px 0 20px;
   & + * {
     text-align: justify;
     float: none;
   }
 }
 
-.wrap-left {
+.float-left {
   float: left;
-  margin-right: 12px;
 }
 
-.wrap-right {
+.float-right {
   float: right;
-  margin-left: 12px;
 }
 
 @media (max-width: 740px) {
-  .wrap-left,
-  .wrap-right {
+  .float-left,
+  .float-right {
     float: none;
     margin-right: 0;
     & + * {
