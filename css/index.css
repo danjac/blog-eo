@@ -301,12 +301,9 @@ a[href].direct-link:focus:visited,
 }
 
 .wrap {
-  & + p {
+  & + * {
     text-align: justify;
     float: none;
-  }
-  & figcaption {
-    max-width: 20em;
   }
 }
 
@@ -325,18 +322,9 @@ a[href].direct-link:focus:visited,
   .wrap-right {
     float: none;
     margin-right: 0;
-    & + p {
+    & + * {
       text-align: none;
       float: none;
-    }
-  }
-  .image {
-    & img {
-      height: 100%;
-      width: 100%;
-    }
-    & figcaption {
-      text-align: center;
     }
   }
 }
