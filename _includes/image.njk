@@ -1,6 +1,7 @@
 {% macro img(url, description, width, height, class='') -%}
   <img src="{{ url }}"
        alt="{{ description }}"
+       title="{{ description }}"
        loading="lazy"
        width="{{ width }}"
        height="{{ height }}"
