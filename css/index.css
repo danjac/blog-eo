@@ -283,7 +283,8 @@ a[href].direct-link:focus:visited,
   margin: 1px 0;
   padding: 1px;
   & img {
-    object-fit: scale-down;
+    object-fit: contain;
+    flex: auto;
     padding-bottom: 1px;
   }
   & figcaption {
@@ -292,29 +293,45 @@ a[href].direct-link:focus:visited,
   }
 }
 
+.wrap {
+  & + p {
+    text-align: justify;
+    float: none;
+  }
+  & figcaption {
+    max-width: 20em;
+  }
+}
+
+.wrap-left {
+  float: left;
+  margin-right: 12px;
+}
+
+.wrap-right {
+  float: right;
+  margin-left: 12px;
+}
+
 @media (max-width: 740px) {
+  .wrap-left,
+  .wrap-right {
+    float: none;
+    margin-right: 0;
+    & + p {
+      text-align: none;
+      float: none;
+    }
+  }
   .image {
+    display: grid;
+    justify-items: center;
     & img {
       height: 100%;
       width: 100%;
     }
-  }
-}
-
-.wrap {
-  float: left;
-  padding: 3px;
-  & figcaption {
-    text-align: center;
-  }
-}
-
-@media (max-width: 740px) {
-  .wrap {
-    float: none;
-    padding: 1px 0px;
     & figcaption {
-      text-align: left;
+      text-align: center;
     }
   }
 }
