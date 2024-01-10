@@ -19,7 +19,7 @@ Unutage panjo prezentis komikson kun la titolo _The Gods from Outer Space_ (La D
 
 {{ image.figure(url="/img/erich-von-daniken-gods-from-outer-space-cover-we-are-the-mutants-0.webp", description="La Dioj de Kosmo", width=800, height=1070, source="https://wearethemutants.com/2020/04/30/ancient-astronaut-comics-the-gods-from-outer-space-1978-1982/", attribution="We Are the Mutants") }}
 
-[La](La) komikso komenciĝas per la alveno de homaj astronaŭtoj el dista planedo. Ilia giganta kosmoŝipo orbitas ĉirkaŭ la "Blua Planedo", kiu laŭ la formoj de la kontinentoj sub la nuboj estas evidente nia Tero, sed en la malproksima pasinteco. La estro de la astronaŭtoj estas bela virino, Ais, kiu atestas, ke ili sekvas la planon de la Granda Cerbo sur ilia hejmplanedo.
+La komikso komenciĝas per la alveno de homaj astronaŭtoj el dista planedo. Ilia giganta kosmoŝipo orbitas ĉirkaŭ la "Blua Planedo", kiu laŭ la formoj de la kontinentoj sub la nuboj estas evidente nia Tero, sed en la malproksima pasinteco. La estro de la astronaŭtoj estas bela virino, Ais, kiu atestas, ke ili sekvas la planon de la Granda Cerbo sur ilia hejmplanedo.
 
 La intrigo de la komikso temas pri la misio de ĉi tiuj eksterteruloj - ili volas evoluigi la lokajn primitivajn homojn al ilia nivelo, kaj instruas niajn praavojn pri la sekretoj de teĥnologio, kiel la mistera monolito en la filmo _2001 - Kosma Odeseo_. Oni sugestas, ke niaj antikvaj mitoj, de la Biblio, aŭ la de helenoj, egiptoj aŭ indianoj, estas la komunaj memoroj pri tiuj eksterteloj kaj ilia mirakla teĥnologio. Ĉar bona intrigo bezonas friponon, unu el la eksterteraj vizitantoj estis malbonintenca sciencisto, kiu volis krei demonecajn monstrojn per siaj eksperimentoj - la origina Satano.
 
