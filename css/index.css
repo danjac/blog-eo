@@ -282,10 +282,12 @@ a[href].direct-link:focus:visited,
 .image {
   margin: 1px 0;
   padding: 1px;
+  display: grid;
+  justify-items: center;
   & img {
     object-fit: contain;
     flex: auto;
-    padding-bottom: 1px;
+    margin-bottom: 1rem;
   }
   & figcaption {
     font-style: italic;
@@ -324,8 +326,6 @@ a[href].direct-link:focus:visited,
     }
   }
   .image {
-    display: grid;
-    justify-items: center;
     & img {
       height: 100%;
       width: 100%;
@@ -349,6 +349,12 @@ a[href].direct-link:focus:visited,
   }
   a[href]:visited {
     color: var(--lightgray);
+  }
+  a[href].post-tag:focus {
+    color: var(--darkgray);
+  }
+  a[href].post-tag:hover {
+    color: var(--darkgray);
   }
 
   pre {
