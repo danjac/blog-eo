@@ -16,7 +16,7 @@ La brita sciencfikcia verkisto [Brian Aldiss](https://eo.wikipedia.org/wiki/Bria
 
 Oni ankaŭ menciu, ke la tipa heroo en la verkoj de Wyndham, ekz. _[The Day of the Triffids](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids)_ (La Tago de la Trifidoj), estas burĝa, brita kaj bonedukita. Ofte liaj efektivaj oponantoj ne estas eksterteruloj aŭ karnvoraj plantoj sed trudemaj aŭ senkapablaj oficiuloj aŭ danĝeraj maldeksteraj agitistoj kaj sindikatestroj, kiuj malhelpas lian penojn pasigi ĝuindan tempon.
 
-  {{ image.img(url="/img/Dayofthetriffids.jpg", description="La Tago de la Trifidoj (1951)", width=220, height=234, class="wrap float-left") }}
+  {{ image.img(url="/img/Dayofthetriffids.jpg", description="La Tago de la Trifidoj (1951)", width=220, height=234, class="float-left") }}
 
 En _La Tago de la Trifidoj_, mistera brila meteoro blindigas preskaŭ la tutan homaron. La protaganisto, Bill Marsen, estis antaŭe jam provizore blindigita de Trifido, genteknike evoluigita karnvora planto. Liaj okuloj estas tial bandaĝitaj dum la nokto de la meteoro. Vekiĝinte en malsaneja lito al tute ŝanĝiĝinta mondo, Bill devas batali kontraŭ tiuj ĉi plantoj, kiuj multobliĝas rapide sen homa regado, kaj grupoj da danĝeraj neblindaj homoj. Unu el tiuj ĉi grupoj katenas neblindulojn al blinduloj por helpi pri furaĝado: oni taksu tion bonintenca, sed ne al nia sendependema heroo. Bill kaj siaj amikoj finfine eskapas ĉiujn ĉi danĝerojn kaj fondas komunumon en iu paca angulo de la angla kamparo.
 
@@ -34,7 +34,7 @@ La plej sukcesa ekzemplo tamen estas la zombia subgenro. Zombioj staras aparte d
 La zombia katastrofo aludas pri la fama citaĵo de [Jean-Paul Sartre](https://eo.wikipedia.org/wiki/Jean-Paul_Sartre) - "la infero estas aliaj homoj". Zombioj multobliĝas per infektado de homaj viktimoj. La herooj travivas ne nur kurante for de la zombioj (oni esperas, ke ili estas la "malrapidaj" zombioj de George Romero, kaj ne la rapidaj infektituloj de la filmo _[28 Days Later](https://en.wikipedia.org/wiki/28_Days_Later)_ (28 Tagojn Poste)), sed ankaŭ pafante aŭ hakante, sen ia morala aŭ leĝa konsekvenco, centojn da ekshomoj - kiuj esperinde inkludas la malican oficejestron, la plendeman klienton, aŭ la ĝeneman najbaron.
 
 
-{{ image.img("/img/Shaun_of_the_Dead_film_poster.jpg", description="Shaun de la Mortuloj (2004)", width=364, height=273, class="wrap float-left") }}
+{{ image.img("/img/Shaun_of_the_Dead_film_poster.jpg", description="Shaun de la Mortuloj (2004)", width=364, height=273, class="float-left") }}
 
 La komedia filmo _[Shaun of the Dead](https://en.wikipedia.org/wiki/Shaun_of_the_Dead)_ (Shaun de la Mortuloj) korinkline mokas la subgenron. La protaganisto havas enuigan laborpostenon en londona butiko, kaj lia koramikino tediĝas pri li kaj lia pigra amiko, kiu nur deboĉadas en loka drinkejo kaj ludadas vidludojn. Rezistante la zombiajn atakojn li iĝas heroo, lia koramikino reamiĝas al li, kaj lia plej bona amiko, kvankam ĉe la finiĝo zombiigita, ankoraŭ scipovas iel ludi vidludojn kun li.
 
