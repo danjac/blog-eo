@@ -284,23 +284,30 @@ img {
   flex: auto;
   height: auto;
   max-width: 100%;
-  padding: 1rem;
+  margin: auto;
+  display: block;
 }
 
 .float-left {
   float: left;
-  padding-left: 0px;
+  padding-right: 1rem;
 }
 
 .float-right {
   float: right;
-  padding-right: 0px;
+  padding-left: 1rem;
 }
 
 @media (max-width: 740px) {
   .float-left,
   .float-right {
     float: none;
+  }
+  .float-left {
+    padding-right: 0px;
+  }
+  .float-right {
+    padding-left: 0px;
   }
 }
 
