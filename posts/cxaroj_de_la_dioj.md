@@ -17,17 +17,17 @@ Mi amegis komiksojn, kaj ĉiutage mi ĝojis kiam panjo donis novan komikson kiam
 
 Unutage panjo prezentis komikson kun la titolo _The Gods from Outer Space_ (La Dioj de Kosmo). Sur la kovrilo flugis nifo, kiu gravuris strangajn simbolojn en andan deklivon per lasero. Apud la titolo estis foto de viro, verŝajne la verkisto, nome Erich von Däniken. Li fumis pipon - en la dudeka jarcento, se oni volis ŝajnigi grava intelektulo, oni nepre fumis pipon. Dum la 70-a jardeko, Sinjoro von Däniken estis laŭ publika laika opinio grava intelektulo, kvankam seriozaj sciencistoj malkonsentis.
 
-{{ image.img(url="/img/erich-von-daniken-gods-from-outer-space-cover-we-are-the-mutants-0.webp", description="La Dioj de Kosmo", width=800, height=1070, source="https://wearethemutants.com/2020/04/30/ancient-astronaut-comics-the-gods-from-outer-space-1978-1982/", attribution="We Are the Mutants") }}
+{{ image.img(url="/img/erich-von-daniken-gods-from-outer-space-cover-we-are-the-mutants-0.webp", description="La Dioj de Kosmo", width=800, height=1070) }}
 
 La komikso komenciĝas per la alveno de homaj astronaŭtoj el dista planedo. Ilia giganta kosmoŝipo orbitas ĉirkaŭ la "Blua Planedo", kiu laŭ la formoj de la kontinentoj sub la nuboj estas evidente nia Tero, sed en la malproksima pasinteco. La estro de la astronaŭtoj estas bela virino, Ais, kiu atestas, ke ili sekvas la planon de ilia nehoma estro, la "Granda Cerbo" sur ilia hejmplanedo.
 
 La intrigo de la komikso temas pri la misio de ĉi tiuj eksterteruloj - ili volas evoluigi la lokajn primitivajn homojn al ilia nivelo, kaj instruas niajn praavojn pri la sekretoj de teĥnologio, kiel la mistera monolito en la filmo _2001 - Kosma Odeseo_. Oni sugestas, ke niaj antikvaj mitoj, de la Biblio, aŭ la de helenoj, egiptoj aŭ indianoj, estas la komunaj memoroj pri tiuj eksterteloj kaj ilia mirakla teĥnologio. Ĉar bona intrigo bezonas friponon, unu el la eksterteraj vizitantoj estis malbonintenca sciencisto, kiu volis krei demonecajn monstrojn per siaj eksperimentoj - la origina Satano.
 
-{{ image.img(url="/img/gods-from-space-we-are-the-mutants-1.webp", description="Ais kaj ŝiaj kunŝipanoj alvintaj al la \"Blua Planedo\".", width=800, height=1095, source="https://wearethemutants.com/2020/04/30/ancient-astronaut-comics-the-gods-from-outer-space-1978-1982/", attribution="We Are the Mutants") }}
+{{ image.img(url="/img/gods-from-space-we-are-the-mutants-1.webp", description="Ais kaj ŝiaj kunŝipanoj alvintaj al la \"Blua Planedo\".", width=800, height=1095) }}
 
 Von Däniken fakte ne skribis la komikson aŭ ĝiajn sekvantajn ĉapitrojn de la serio (bedaŭrinde troviĝis nur la unua en nia biblioteko). La talentaj verkistoj estis aŭtoro Arnold Mostowicz kaj artisto Bogusław Polch, kaj la serio unue publikiĝis en Pollando. Sed ilia verko baziĝis sur la verkoj de Erich von Däniken, kaj li estis unu el la plej vendataj verkistoj en la Okcidento dum la 70-a jardeko. Lia ĉefa verko estis _Ĉu Ĉaroj de la Dioj?_ (La demandsigno estas ja intenca parto de la titolo).
 
-{{ image.img(url="/img/Chariots_Of_The_Gods.jpg", description="Ĉu Ĉaroj de la Dioj?", width=210, height=350, source="https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F", attribution="Wikipedia", class="float-left")}}
+{{ image.img(url="/img/Chariots_Of_The_Gods.jpg", description="Ĉu Ĉaroj de la Dioj?", width=210, height=350, class="float-left")}}
 
 Miaj gepatroj posedis ekzempleron de _Ĉaroj de la Dioj_, kiel milionoj da homoj tiutempe. La libro sekvas la saman temon de la komikso, sed la intencita legantaro ne estas infanoj, sed plenkreskuloj, do sen mojosaj kosmoŝipoj kaj belaj eksterterulinoj. Ĝi atestas la arĥeologiajn kaj mitajn restaĵojn de niaj prapatroj ne produktoj de la eterna homa kapablo pri imagado kaj inventado, sed evidento pri la ekzistado de eksterteruloj, kiuj vizitis nin iam dum la pasinteco kaj demonstris ilian miraklan teĥnologion al mirantaj primitivaj trogloditoj. Danke al la verdaj nifuletoj (aŭ belaj astronaŭtinoj) ni lernis konstrui la piramidojn.
 
@@ -46,3 +46,8 @@ Krom la implicita rasismo la kerna ideo malkaŝas cinikecon pri la kapablo kaj i
 > La populareco de verkaĵoj tiel senzorgaj kiel tiuj de von Däniken, kies precipa tezo estas ke niaj prapatroj estis stultuloj, sobre komentas pri la kredemo kaj malespero de nia tempo. Mi ankaŭ esperas por la daŭra populareco de tiaj libroj, kiel _Ĉaroj de la Dioj_ en kursoj pri logiko en lernejoj kaj universitatoj, kiel ekzemploj de malzorgema pensado. Mi ne konas novajn librojn tiel plenajn je logikaj kaj faktaj eraroj kiel la verkoj de von Däniken.
 
 _Ĉaroj de la Dioj_ sukcesis, ĉar ĝi satigas parton de la homa menso, kiu deziras misteron kaj dubas pri la atestoj de la establita scienco kaj la instancoj. Eble la homoj de la 70-a jardeko estis naivaj, sed ne pli naivaj ol la nuna generacio, kiu facile kredas je konspiroj, pseŭdoscienco, fantomoj, "naturaj" medikamentoj ktp. disvastigata ne per la verkoj de konviktita fraŭdisto, sed per la interreto. La vortoj de Carl Sagan tiom ĝustas hodiaŭ kiom hieraŭ - ĉi ĉio komentas pri la kredemo kaj malespero de nia tempo.
+
+**Bildfontoj**
+
+* [Wikipedia](https://wikipedia.org)
+* [We Are the Mutants](https://wearethemutants.com/)

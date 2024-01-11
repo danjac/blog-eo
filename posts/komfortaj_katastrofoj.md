@@ -43,3 +43,8 @@ Plej ofte ĉe la konkludo de la verko, la heroo ne staras sole sed kuniĝas kun 
 La sukceso de ĉi-tiu genro, aparte de la ekcitaj specialaj efikoj aŭ la timigaj situacioj, ŝuldas eble al la ĉiutagaj revoj de homoj, kiuj frustriĝas pri siaj laboraj, monaj aŭ familiaj problemoj, kaj sonĝas pri giganta katastrofo kiu renversas civilizacion, por ke la subuloj iĝu la superuloj. Eble post la kolapso oni vivos en mezepoka vilaĝo sen elektro kaj manĝos hundojn kaj katojn, almenaŭ oni ne devos finigi tiun elspezoraporton antaŭ mardo.
 
 Tamen en la nuna jardeko, la "komforta katastrofo" ne estas tiel populara, kiel en pasintaj jardekoj. Eble ĉar ni jam spertas realajn katastrofojn - tutmondan pandemion, brutalajn militojn, ekologian kolapsadon kaj klimatan ŝanĝiĝon, kaj la reviviĝon de faŝismo, kiu leviĝas, kiel nemortigebla zombio, el sia tombo. Miliarduloj fosigas bunkrojn en Nov-Zelando, esperante travivi komforte la venontan finiĝon de civilizacio kiel iliaj fikciaj figurantoj en _2012_. Por ni ceteraj, realaj katastrofoj, bedaŭrinde, malofte komfortigas.
+
+**Bildfontoj**
+
+* [Wikipedia](https://wikipedia.org)
+* [Entertainment Weekly](https://ew.com/)
