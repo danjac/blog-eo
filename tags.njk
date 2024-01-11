@@ -15,9 +15,10 @@ eleventyComputed:
   title: Kradvorto “{{ tag }}”
 permalink: /tags/{{ tag | slug }}/
 ---
+{% import "postslist.njk" as postslist %}
+
 <h1>Kradvorto “{{ tag }}”</h1>
 
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
+{{ postslist.postslist(collections[tag]) }}
 
 <p><a href="{{ '/tags/' | url }}">Ĉiuj kradvortoj</a>.</p>

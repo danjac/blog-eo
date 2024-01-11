@@ -6,7 +6,10 @@ eleventyNavigation:
   order: 2
 ---
 
+{% import "postslist.njk" as postslist %}
+
 <h1>Arĥivo</h1>
 
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+{{ postslist.postslist(collections.posts) }}
+
+

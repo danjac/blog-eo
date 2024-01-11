@@ -187,16 +187,24 @@ blockquote {
   padding: 0;
 }
 .postlist-item {
-  display: flex;
-  flex-wrap: wrap;
   align-items: baseline;
   counter-increment: start-from -1;
   line-height: 1.8;
+  padding-bottom: 1rem;
 }
+
+.postlist-item:has(.postlist-description) {
+  padding-top: 1rem;
+  border-bottom: 1px dotted var(--lightgray);
+}
+
+.postlist-item p {
+  flex-wrap: wrap;
+}
+
 .postlist-item:before {
   display: inline-block;
   pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
   line-height: 100%;
   text-align: right;
 }
@@ -209,8 +217,7 @@ blockquote {
   word-spacing: -0.5px;
 }
 .postlist-link {
-  padding-left: 0.25em;
-  padding-right: 0.25em;
+  padding-right: 0.5rem;
   text-underline-position: from-font;
   text-underline-offset: 0;
   text-decoration-thickness: 1px;
