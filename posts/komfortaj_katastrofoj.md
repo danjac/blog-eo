@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 La brita sciencfikcia verkisto [Brian Aldiss](https://eo.wikipedia.org/wiki/Brian_W._Aldiss), en sia [historio](https://archive.org/details/billionyearspree0000aldi) pri la genro, priskribis la "Komfortan Katastrofon" (angle: _Cosy Catastrophe_), precipe pri la samnacia aŭtoro [John Wyndham](https://en.wikipedia.org/wiki/John_Wyndham):
 
-> La esenco de la komforta katastrofo estas, ke la heroo pasigas ĝuindan tempon (junulino, senkostaj luksaj ĉambroj ĉe la hotelo Savoy, senpage disponeblaj aŭtoj) dum ĉiuj aliaj formortas.
+> La esenco de la komforta katastrofo estas, ke la heroo pasigas ĝuindan tempon (per junulino, senkostaj luksaj ĉambroj ĉe la hotelo Savoy, senpage disponeblaj aŭtoj) dum ĉiuj aliaj formortas.
 
 Oni ankaŭ menciu, ke la tipa heroo en la verkoj de Wyndham, ekz. _[The Day of the Triffids](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids)_ (La Tago de la Trifidoj), estas burĝa, brita kaj bonedukita. Ofte liaj efektivaj oponantoj ne estas eksterteruloj aŭ karnvoraj plantoj sed trudemaj aŭ senkapablaj oficiuloj aŭ danĝeraj maldeksteraj agitistoj kaj sindikatestroj, kiuj malhelpas lian penojn pasigi ĝuindan tempon.
 
