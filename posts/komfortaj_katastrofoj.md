@@ -1,7 +1,7 @@
 ---
 title: Komfortaj Katastrofoj
 description: Kial ni revas pri la finiĝo de la mondo?
-date: 2024-01-12
+date: 2024-01-10
 tags:
   - sciencfikcio
   - filmoj
