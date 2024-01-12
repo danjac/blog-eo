@@ -7,6 +7,7 @@ tags:
   - sciencfikcio
   - pseŭdohistorio
   - komiksoj
+  - eksterteruloj
 layout: layouts/post.njk
 ---
 {% import "image.njk" as image %}
