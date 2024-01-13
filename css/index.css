@@ -286,6 +286,15 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
+figure {
+  display: grid;
+  text-align: center;
+  justify-content: center;
+  & img {
+    padding-bottom: 1em;
+  }
+}
+
 img {
   object-fit: cover;
   flex: auto;

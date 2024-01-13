@@ -49,7 +49,7 @@ En 1899 la inventisto [Nikola Tesla](https://eo.wikipedia.org/wiki/Nikola_Tesla)
 
 Dum la jardekoj post la dua mondmilito astronomoj kaj astrofizikistoj precipe en Usono kaj Sovetunio serĉadis eksterterajn signalojn, danke al la disvolviĝo de pli potencaj raditeleskopoj ekzemple de Arecibo en Porto-Riko. Jerry Ehrman laboris por tia programo ĉe la Universitato de Ohio.
 
-{{ image.img("/img/Arecibo_Observatory_Aerial_View.jpg", description="La Observatorio de Arecibo Fonto: Wikipedia", width=757, height=600) }}
+{{ image.img("/img/Arecibo_Observatory_Aerial_View.jpg", description="La Observatorio de Arecibo Fonto: Wikipedia", width=757, height=600, figure=true) }}
 
 En 1984 la _[SETI Institute](https://en.wikipedia.org/wiki/SETI_Institute)_ (La Instituto pri SEI) estis fondita de pluraj sciencistoj kaj aliaj personoj, inkluzive de [Carl Sagan](https://eo.wikipedia.org/wiki/Carl_Sagan) kaj fondinto de Microsoft [Paul Allen](https://en.wikipedia.org/wiki/Paul_Allen). Registaroj kaj privataj organizaĵoj foje helpis pri la serĉado, danke al la publika interesiĝo pri eksterteruloj, nutrata de sciencfikciaj filmoj kaj verkoj. Sed dum la vivdaŭro de SEI oni malkovris neniajn evidentaĵojn pri eksterteruloj, krom iujn ĉagrenajn indikojn, kiel la _Wow!_-signalon, spite al la milionoj da dolaroj elspezitaj je la projekto.
 
@@ -57,7 +57,7 @@ En 1984 la _[SETI Institute](https://en.wikipedia.org/wiki/SETI_Institute)_ (La 
 
 Ĉe la komenciĝo de la interreto, projekto _[SETI@home](https://eo.wikipedia.org/wiki/SETI@home)_(SEI hejme) estis lanĉita ĉe la Universitato Berkley en Kalifornio. Helpe de softvaro, kiun oni povis elŝuti en hejmkomputilojn, privataj individuoj kontribuis al la analizado de datumoj kolektitaj de la teleskopoj kaj riceviloj tra la mondo. Krome, ĝi helpis plivastigi publikan interesiĝon pri SEI.
 
-Post 25 jaroj tamen SETI@home ne sukcesis.
+Post 25 jaroj SETI@home tamen ne sukcesis.
 
 ## La Paradokso de Fermi
 
@@ -83,7 +83,19 @@ Du apartaj tezoj ekzamindas.
 
 ### La Tero Estas Bestoĝardeno
 
+La _Zoo hypothesis_ aŭ Bestoĝardena Hipotezo sugestas, ke la Tero estas iel apartigita de galaksiaj civilizacioj. Eble oni supozas, ke ni ne estas preta por kontakti aliajn: aŭ ni estas tiel malmaturaj, ke tiu kontakto destruus nian socion, aŭ ni estas tro danĝeraj aŭ detruemaj al aliaj.
+
+La populara sciencifikcia serio _Star Trek_ (Stela Vojaĝo) proponas la "Unuan Direktivon": la Federacio ne rajtas perturbi la disvolviĝadon de pli primitivaj socioj (kompreble multaj epizodoj temas pri kazoj, kiam kapitanoj Kirk aŭ Picard devas trakti pri la direktivo, foje ignorante ĝin).
+
+Do la eksterteruloj ne respondas al niaj signaloj (kvankam ili certe aŭskultas kaj gvatas nin zorgeme), kaj per sia progresinta teĥnologio blokas signalojn al la Tero.
+
+Tio estas iom optimisma hipotezo: kiam ni maturiĝos, espere ne detruinte sin aŭ nian planedon, estontece nin bonvenigos galaksia komunumo.
+
+La dua hipotezo estas multe pli maloptimisma.
+
 ### La Malhela Arbaro
+
+Samtempe kiam Tesla eksperimentis pri la komunikado kun marsanoj, la verkisto H.G. Wells, la "avo de sciencfikcio" publikigis la verkon _War of the Worlds_ (La Milito de la Mondoj), kiu temas pri invado de Tero fare de tiuj marsanoj. Laŭ Wells, oni eraras supozi, ke eksterteruloj estas morale progresemaj kaj bonintencaj: se ili estus eĉ iom kiel homoj, ili fakte serioze minacus nian specon. Wells komparas la marsanoj al la britaj koloniistoj, kiuj murdis la tutan indiĝenan popolon de Tasmanio.
 
 **Bildfontoj**:
 

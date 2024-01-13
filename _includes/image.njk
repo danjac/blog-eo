@@ -1,4 +1,7 @@
-{% macro img(url, description, width, height, class='') -%}
+{% macro img(url, description, width, height, class='', figure=false) -%}
+{% if figure -%}
+<figure>
+{%- endif %}
   <img src="{{ url }}"
        alt="{{ description }}"
        title="{{ description }}"
@@ -6,4 +9,10 @@
        width="{{ width }}"
        height="{{ height }}"
        {% if class %}class="{{ class }}"{% endif %}>
+{% if figure -%}
+  <figcaption>
+  <em>{{ description }}</em>
+  </figcaption>
+</figure>
+{%- endif %}
 {%- endmacro %}
