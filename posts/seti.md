@@ -19,7 +19,7 @@ Jerry Ehrman, profesoro ĉe la universitato de Ohio, Usono, eble trovis la unuan
 
 {{ image.img("/img/wow.webp", "La Wow!-signalo Fonto: NPR", width=800, height=600) }}
 
-La profesoro estis voluntulo en la universitata programo pri SETI: _Search for Extraterrestrial Intelligence_ aŭ la **Serĉado pri Ekstertera Intelekto (SEI)**. Tiu-ĉi serĉado havas longan historion en la moderna epoko.
+La profesoro estis voluntulo en la universitata programo pri SETI: _Search for Extraterrestrial Intelligence_ aŭ la **Serĉado pri Ekstertera Intelekto (SEI)**. Tiu-ĉi serĉado havas interesan historion en la moderna epoko.
 
 
 ## La Formulo de Drake
@@ -37,7 +37,7 @@ _N = R* X f~p~ X n~e~ X f~l~ X f~i~ X f~c~ X L_
 * **f~c~** = la frakcio de tiaj planedoj, sur kiuj evoluis civilizacio, kiu kapablas pri dissendado de riceveblaj signaloj
 * **L** = la tempodaŭro, dum kiu tiaj civilizacioj dissendas riceveblajn signalojn en la spacon
 
-Kiam Drake inventis la formulon, oni ne scias ekzakte pri la tuta kvanto da steloj en nia galaksio, kaj oni detektis la unuan ekstersunsisteman planedon nur en 1992. Dum la lastaj tridek jaroj nia scio pri planedoj kreskas ĉiusemajne. Estas multaj kandidatoj pri planedoj aŭ lunoj kiuj eble subtenas vivon (_n~e~_) sed oni ankoraŭ ne trovis nedisputeblajn signojn pri vivo, ekzemple la atmosferajn ŝanĝiĝon rezulte de la naturaj procezoj de vivo (ekzemple la plantoj de Tero konvertas karbondioksidon al oksigeno, aŭ bestoj aŭ homaj industriaj procezoj faras la inversan konvertadon): la plej grava cetero de la formulo.
+Kiam Drake inventis la formulon, oni ne scias ekzakte pri la tuta kvanto da steloj en nia galaksio, kaj oni detektis la unuan ekstersunsisteman planedon nur en 1992. Dum la lastaj tridek jaroj nia scio pri eksteraj planedoj kreskas ĉiusemajne. Estas multaj kandidatoj pri planedoj aŭ lunoj kiuj eble subtenas vivon (_n~e~_) sed oni ankoraŭ ne trovis nedisputeblajn signojn pri vivo, ekzemple la atmosferajn ŝanĝiĝon rezulte de la naturaj procezoj de vivo (ekzemple la plantoj de Tero konvertas karbondioksidon al oksigeno, aŭ bestoj aŭ homaj industriaj procezoj faras la inversan konvertadon): la plej grava cetero de la formulo.
 
 Plue, ni trovas planedojn, sen ekvivalentoj en nia sunsistemo: ekzemple, en nia sunsistemoj ĉiuj "gasgigantoj" kiel Jupitero aŭ Neptuno orbitas malproksime de la Suno, sed en aliaj stelsistemoj oftas gigantoj proksimaj al sia suno. Ankaŭ troviĝas "akvoplanedoj": tute kovrita de akvo, sen kontinentoj aŭ insuloj. Tiaj planedoj verŝajne abundas je vivo, kiel en la junaj oceanoj de Tero, eĉ intelekta vivo kiel teraj delfenoj kaj balenoj - sed kiel intelekto, eĉ pli inteligenta ol ni, kiuj vivas subakve disvolvos teĥnologion kapablan dissendi interstelajn signalojn?
 
@@ -45,7 +45,7 @@ Tamen, ni jam scias, ke la galaksio abundas je planedoj, kaj la samaj ĥemiaj ka
 
 ## La Serĉado
 
-En 1899 la inventisto [Nikola Tesla](https://eo.wikipedia.org/wiki/Nikola_Tesla), laborante en sia laboratorio en Kolorado, Usono, detektis signalon evidente de Marso. Li jam asertis ke lia sendrata dissendilon povas komuniki kun marsanoj. Tamen, hodiaŭ oni scias, ke bedaŭrinde Marso estas tute senviva, kvankam ĝi eble havis la kondiĉojn por vivo antaŭ milionoj da jaroj. Tesla verŝajne ricevis naturajn signalojn, eble de la magnetosfero de Jupitero. Aliaj samtempaj geniuloj kiel [Marconi](https://eo.wikipedia.org/wiki/Guglielmo_Marconi) ankaŭ asertis ricevajn marsanajn signalojn, sed ili ankaŭ verŝajne devenis de naturaj fontoj. Sed ĉi tiuj fruaj eksperimentoj jam elmontris la du plej persistemajn problemojn pri SEI: la despera sopirado komuniki kun nehomaj intelektoj spite al evidentaĵoj, kaj la malfacileco distingi naturajn kaj artefaritajn signalojn.
+En 1899 la inventisto [Nikola Tesla](https://eo.wikipedia.org/wiki/Nikola_Tesla), laborante en sia laboratorio en Kolorado, Usono, detektis signalon evidente de Marso. Li jam asertis ke lia sendrata dissendilon povas komuniki kun marsanoj. Tamen, hodiaŭ oni scias, ke bedaŭrinde Marso estas tute senviva, kvankam ĝi eble havis la kondiĉojn por vivo antaŭ milionoj da jaroj. Tesla verŝajne ricevis naturajn signalojn, eble de la magnetosfero de Jupitero. Aliaj samtempaj geniuloj kiel [Marconi](https://eo.wikipedia.org/wiki/Guglielmo_Marconi) ankaŭ asertis ricevajn marsanajn signalojn, sed ili ankaŭ verŝajne devenis de naturaj fontoj. Sed ĉi tiuj fruaj eksperimentoj jam elmontris la plej persisteman problemon pri SEI: kvankam malfacilas distingi naturajn kaj artefaritajn fontojn de signaloj, sed ankaŭ nia avida espero trovi ian evidentaĵon pri ekstertera intelekto nubigas nian objektivecon.
 
 Dum la jardekoj post la dua mondmilito astronomoj kaj astrofizikistoj precipe en Usono kaj Sovetunio serĉadis eksterterajn signalojn, danke al la disvolviĝo de pli potencaj raditeleskopoj ekzemple de Arecibo en Porto-Riko. Jerry Ehrman laboris por tia programo ĉe la Universitato de Ohio.
 
@@ -53,7 +53,7 @@ Dum la jardekoj post la dua mondmilito astronomoj kaj astrofizikistoj precipe en
 
 En 1984 la _[SETI Institute](https://en.wikipedia.org/wiki/SETI_Institute)_ (La Instituto pri SEI) estis fondita de pluraj sciencistoj kaj aliaj personoj, inkluzive de [Carl Sagan](https://eo.wikipedia.org/wiki/Carl_Sagan) kaj fondinto de Microsoft [Paul Allen](https://en.wikipedia.org/wiki/Paul_Allen). Registaroj kaj privataj organizaĵoj foje helpis pri la serĉado, danke al la publika interesiĝo pri eksterteruloj, nutrata de sciencfikciaj filmoj kaj verkoj. Sed dum la vivdaŭro de SEI oni malkovris neniajn evidentaĵojn pri eksterteruloj, krom iujn ĉagrenajn indikojn, kiel la _Wow!_-signalon, spite al la milionoj da dolaroj elspezitaj je la projekto.
 
-## SETI@home
+### SETI@home
 
 Ĉe la komenciĝo de la interreto, projekto _[SETI@home](https://eo.wikipedia.org/wiki/SETI@home)_(SEI hejme) estis lanĉita ĉe la Universitato Berkley en Kalifornio. Helpe de softvaro, kiun oni povis elŝuti en hejmkomputilojn, privataj individuoj kontribuis al la analizado de datumoj kolektitaj de la teleskopoj kaj riceviloj tra la mondo. Krome, ĝi helpis plivastigi publikan interesiĝon pri SEI.
 
@@ -79,21 +79,22 @@ Respondoj al la demando Fermi inkludas:
 6. Civilizacioj dissendas signalojn en la spacon dum tre mallonga tempo.
 7. Eksterteraj estaĵoj tiom strangas, ke homoj nek agnoskus nek komprenus ĝin.
 
-Du apartaj tezoj ekzamindas.
+Du interesaj tezoj ekzamindas.
 
 ### La Malhela Arbaro
 
 Samtempe kiam Tesla eksperimentis pri la komunikado kun marsanoj, la verkisto H.G. Wells, la "avo de sciencfikcio" publikigis la verkon _War of the Worlds_ (La Milito de la Mondoj), kiu temas pri invado de Tero fare de tiuj marsanoj. Laŭ Wells, oni supozas erare, ke eksterteruloj estas morale progresemaj kaj bonintencaj: se ili estus eĉ iom homecaj, ili fakte serioze minacus nian specon. Wells komparas la marsanojn al la britaj koloniistoj, kiuj murdis la tutan indiĝenan popolon de Tasmanio.
 
+{{ image.img("/img/independence-day.webp", description="La detruo de la Blanka Domo el la Filmo Sendependeca Tago (1995) Fonto: Variety",
+width=681, height=383, figure=true) }}
+
 La fama brita sciencisto Stephen Hawking ankaŭ avertis pri senzorga komunikado kun eksterteraj civilizacioj: oni ne supozu, ke ili bonintencas al ni. Eble ili konsideros nin danĝeraj. En la filmo _Contact_ (Kontakto), la eksterteruloj respondas per resendi televidan signalon, kiun ni dissendis en la kosmon antaŭ 80 jaroj: Adolf Hitler ĉe la komenca ceremonio de la Olimikludoj en Berlino, 1938 - eble ne la plej bona ekzemplo pri homaro, kiun oni deziras prezenti al alia civilizacio.
 
 Neorganikaj eskterteruloj estas unu danĝero - robotoj, kiuj pro malamo al organikuloj aŭ simple pro programado de delonge forpasintaj kreintoj, detruas aŭ sorbas ĉiujn aliajn specojn, kiujn ili renkontas. Ekzemploj en sciencfikcio inkludas la kiborgajn _Borgojn_ de _Star Trek_ aŭ la robotajn _Berzerkerojn_ de la verkoj far de la sciencfikcia aŭtoro Fred Saberhagen.
 
-La serio _la Tri-Korpa Problemo_ de la ĉina sciencfikcia verkisto Liu Cixin temas pri speco, kiu loĝas en nia kosma najbarsistemo, Alfa Centaŭro. Ili detektas signalojn de Tero kaj intenas invadi nin, ĉar ilia propra malstabila planedo detruiĝos. La serio enkondukas la terminon pri la "Malhela Arbaro". Pro la danĝeroj de predemaj tiaj specoj, saĝaj civilizacioj kaŝas sin kaj evitas la elsendadon de malkaŝantaj signaloj.
+La serio _[la Tri-Korpa Problemo](https://eo.wikipedia.org/wiki/La_tri-korpa_problemo_(libro))_ de la ĉina sciencfikcia verkisto Liu Cixin temas pri speco, kiu loĝas en nia kosma najbarsistemo, Alfa Centaŭro. Ili detektas signalojn de Tero kaj intenas invadi nin, ĉar ilia propra malstabila planedo detruiĝos. La serio enkondukas la terminon pri la "Malhela Arbaro". Pro la danĝeroj de predemaj tiaj specoj, saĝaj civilizacioj kaŝas sin kaj evitas la elsendadon de malkaŝantaj signaloj, kiel bestoj, kiuj kaŝas sin en nokta arbaro.
 
-Do la maloptimisma konkludo de tiu-ĉi tezo estas ke aliaj civilizacioj apartenas al tri grupoj - la predantoj, kiuj konkeras aŭ detruas aliajn; iliaj jam mortintaj aŭ mortontoj viktimoj; kaj tiuj, kiuj kaŝas sin, kiel bestoj en nokta arbaro.
-
-Estas tamen pli optimisma tezo.
+Oni proponis tamen pli optimisman tezon.
 
 ### Nia Tero Estas Bestoĝardeno
 
@@ -109,3 +110,4 @@ Tio estas iom optimisma hipotezo: kiam ni maturiĝos, esperinde ne detruinte sin
 
 * [NPR](https://www.npr.org/sections/krulwich/2010/05/28/126510251/aliens-found-in-ohio-the-wow-signal)
 * [Wikipedia](https://wikipedia.org)
+* [Variety](https://variety.com/video/independence-day-white-house-blown-up-roland-emmerich/)
