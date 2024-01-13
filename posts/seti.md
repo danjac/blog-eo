@@ -35,7 +35,7 @@ _N = R* X f~p~ X n~e~ X f~l~ X f~i~ X f~c~ X L_
 * **f~l~** = la frakcio de planedoj, sur kiuj jam vivo evoluis
 * **f~i~** = la frakcio de planedoj, sur kiuj jam intelekta vivo evoluis
 * **f~c~** = la frakcio de planedoj, sur kiuj evoluis civilizacio, kiu kapablas pri la elsendado de riceveblaj signaloj
-* **L** = la daŭro de tempo, dum kiu tiaj civilizacioj elsendas riceveblajn signalojn en la spacon
+* **L** = la tempodaŭro, dum kiu tiaj civilizacioj elsendas riceveblajn signalojn en la spacon
 
 
 
