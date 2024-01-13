@@ -81,21 +81,29 @@ Respondoj al la demando Fermi inkludas:
 
 Du apartaj tezoj ekzamindas.
 
-### La Tero Estas Bestoĝardeno
+### La Malhela Arbaro
 
-La _Zoo hypothesis_ aŭ Bestoĝardena Hipotezo sugestas, ke la Tero estas iel apartigita de galaksiaj civilizacioj. Eble oni supozas, ke ni ne estas preta por kontakti aliajn: aŭ ni estas tiel malmaturaj, ke tiu kontakto destruus nian socion, aŭ ni estas tro danĝeraj aŭ detruemaj al aliaj.
+Samtempe kiam Tesla eksperimentis pri la komunikado kun marsanoj, la verkisto H.G. Wells, la "avo de sciencfikcio" publikigis la verkon _War of the Worlds_ (La Milito de la Mondoj), kiu temas pri invado de Tero fare de tiuj marsanoj. Laŭ Wells, oni supozas erare, ke eksterteruloj estas morale progresemaj kaj bonintencaj: se ili estus eĉ iom homecaj, ili fakte serioze minacus nian specon. Wells komparas la marsanojn al la britaj koloniistoj, kiuj murdis la tutan indiĝenan popolon de Tasmanio.
+
+La fama brita sciencisto Stephen Hawking ankaŭ avertis pri senzorga komunikado kun eksterteraj civilizacioj: oni ne supozu, ke ili bonintencas al ni. Eble ili konsideros nin danĝeraj. En la filmo _Contact_ (Kontakto), la eksterteruloj respondas per resendi televidan signalon, kiun ni dissendis en la kosmon antaŭ 80 jaroj: Adolf Hitler ĉe la komenca ceremonio de la Olimikludoj en Berlino, 1938 - eble ne la plej bona ekzemplo pri homaro, kiun oni deziras prezenti al alia civilizacio.
+
+Neorganikaj eskterteruloj estas unu danĝero - robotoj, kiuj pro malamo al organikuloj aŭ simple pro programado de delonge forpasintaj kreintoj, detruas aŭ sorbas ĉiujn aliajn specojn, kiujn ili renkontas. Ekzemploj en sciencfikcio inkludas la kiborgajn _Borgojn_ de _Star Trek_ aŭ la robotajn _Berzerkerojn_ de la verkoj far de la sciencfikcia aŭtoro Fred Saberhagen.
+
+La serio _la Tri-Korpa Problemo_ de la ĉina sciencfikcia verkisto Liu Cixin temas pri speco, kiu loĝas en nia kosma najbarsistemo, Alfa Centaŭro. Ili detektas signalojn de Tero kaj intenas invadi nin, ĉar ilia propra malstabila planedo detruiĝos. La serio enkondukas la terminon pri la "Malhela Arbaro". Pro la danĝeroj de predemaj tiaj specoj, saĝaj civilizacioj kaŝas sin kaj evitas la elsendadon de malkaŝantaj signaloj.
+
+Do la maloptimisma konkludo de tiu-ĉi tezo estas ke aliaj civilizacioj apartenas al tri grupoj - la predantoj, kiuj konkeras aŭ detruas aliajn; iliaj jam mortintaj aŭ mortontoj viktimoj; kaj tiuj, kiuj kaŝas sin, kiel bestoj en nokta arbaro.
+
+Estas tamen pli optimisma tezo.
+
+### Nia Tero Estas Bestoĝardeno
+
+La _Zoo hypothesis_ aŭ Bestoĝardena Hipotezo sugestas, ke la Tero estas iel apartigita de galaksiaj civilizacioj. Eble oni supozu, ke ni ne estas preta por kontakti aliajn: aŭ ni estas tiel malmaturaj, ke tiu kontakto destruus nian socion, aŭ ni estas tro danĝeraj aŭ detruemaj al aliaj.
 
 La populara sciencifikcia serio _Star Trek_ (Stela Vojaĝo) proponas la "Unuan Direktivon": la Federacio ne rajtas perturbi la disvolviĝadon de pli primitivaj socioj (kompreble multaj epizodoj temas pri kazoj, kiam kapitanoj Kirk aŭ Picard devas trakti pri la direktivo, foje ignorante ĝin).
 
-Do la eksterteruloj ne respondas al niaj signaloj (kvankam ili certe aŭskultas kaj gvatas nin zorgeme), kaj per sia progresinta teĥnologio blokas signalojn al la Tero.
+Do la eksterteruloj ne respondas al niaj signaloj (kvankam ili certe aŭskultas kaj gvatas nin zorgeme), kaj ili aŭ komunikas per alia maniero aŭ blokas siajn signalojn de teraj riceviloj.
 
-Tio estas iom optimisma hipotezo: kiam ni maturiĝos, espere ne detruinte sin aŭ nian planedon, estontece nin bonvenigos galaksia komunumo.
-
-La dua hipotezo estas multe pli maloptimisma.
-
-### La Malhela Arbaro
-
-Samtempe kiam Tesla eksperimentis pri la komunikado kun marsanoj, la verkisto H.G. Wells, la "avo de sciencfikcio" publikigis la verkon _War of the Worlds_ (La Milito de la Mondoj), kiu temas pri invado de Tero fare de tiuj marsanoj. Laŭ Wells, oni eraras supozi, ke eksterteruloj estas morale progresemaj kaj bonintencaj: se ili estus eĉ iom kiel homoj, ili fakte serioze minacus nian specon. Wells komparas la marsanoj al la britaj koloniistoj, kiuj murdis la tutan indiĝenan popolon de Tasmanio.
+Tio estas iom optimisma hipotezo: kiam ni maturiĝos, esperinde ne detruinte sin aŭ nian planedon, estontece nin bonvenigos galaksia komunumo.
 
 **Bildfontoj**:
 
