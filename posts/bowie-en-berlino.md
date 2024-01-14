@@ -25,7 +25,7 @@ Bowie kompreneble ne parolis pri si mem, sed pri sia publika alipersono, Ziggy S
 
 Post la morto de Ziggy Stardust, Bowie translokiĝis al Los-Anĝeleso, Usono, kie li registris du albumojn, _Young Americans_ (Junaj Usonanoj) kaj _Station to Station_ (De Stacio al Stacio). Plue li rolis en filmo, ironie nomita _The Man Who Fell to Earth_ (La Viro, kiu Falis al la Tero). Malgraŭ periodo de kreema fekundeco kaj komerca sukceso, Bowie serioze ekdependiĝis de kokaino. Laŭ siaj vortoj, Bowie vivis en urbo, famaĉa pro sia kulturo de drog-nutrata ekceso, pri kio li malmulte memoris. Li decidis translokiĝi reen al Eŭropo por sobriĝi. Krome li estis inventinta novan alipersonon, _The Thin White Duke_ (La Maldika Blanka Duko), senemocia, faŝisisteca aristokrato, kiu spegulis la kavan animon de Bowie dum ĉi tiu periodo de emocia aparteco. Nun loĝante en Berlino, kiun Bowie de longe admiris pro sia dekadenca reputacio kaj famaj artistoj, La Maldika Blanka Duko kviete emeritiĝis.
 
-## Ekzilitaj Kunlaborantoj: Iggy Pop kaj Brian Eno
+## Kunlaborantoj: Iggy Pop kaj Brian Eno
 
 {{ media.img("/img/Iggy-and-Bowie-696x442.jpg", "Iggy Pop kaj David Bowie en Berlino, 1977. Fonto: NME", width=696, height=442, figure=true) }}
 
@@ -51,7 +51,7 @@ La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME
 
 Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Internulo) (1979) estis produktita en Svislando kaj Novjorko. Ĝi iras en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko ekz. medorientaj melodioj. Ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, kvankam hodiaŭ oni taksas ĝin subestimata.
 
-{{ media.img("/img/Hansa2.jpg", "Registraj studioj Hansa, Berlino", width=800, height=597, figure=true) }}
+{{ media.img("/img/Hansa2.jpg", "Registraj studioj Hansa, Berlino. Fonto: tipBerlin", width=800, height=597, figure=true) }}
 
 
 ## La Ekzilo Finiĝas
