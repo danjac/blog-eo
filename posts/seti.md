@@ -81,7 +81,7 @@ Respondoj al la paradokso de Fermi inkludas:
 
 Do la formulo de Drake ankoraŭ validas, kvankam oni ne estu tro optimismaj pri la kvantoj da taŭgaj planedoj kaj la vivdaŭro de civilizacioj. Oni ankaŭ supozas, ke ekstertera intelekto havas la necesajn rimedojn, tempon aŭ motivon por interstela komunikado.
 
-Ekzemple sciencistoj kredas, ke abundas "akvoplanedoj", tio estas planedoj, tute kovrita de akvo, sen insuloj kaj kontinentoj. Intelekto certe evoluiĝas sur tiaj planedoj - kiel la delfenoj kaj balenoj aŭ eĉ polpoj de la Tero - sed kiel tia intelekto disvolvus industrion en medio, kie oni ne eĉ povas ekbruligi fajron?
+Ekzemple sciencistoj kredas, ke abundas "akvoplanedoj", tio estas planedoj, tute kovritaj de akvo, sen insuloj kaj kontinentoj. Intelekto certe evoluiĝas sur tiaj planedoj - kiel la delfenoj kaj balenoj aŭ eĉ polpoj de la Tero - sed kiel tia intelekto disvolvus industrion en medio, kie oni ne eĉ povas ekbruligi fajron?
 
 Oni ankaŭ memoru, ke nia civilizacio disvolvis teĥnologion por elsendi signalojn nur dum la lasta jarcento. Modernaj homoj ekzistas dum 300 miloj da jaroj, do la frakcio de la tempo, kiam ni kapablas pri interstela komunikado estas nur 0,03% de nia speca vivdaŭro.
 
