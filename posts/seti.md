@@ -1,7 +1,7 @@
 ---
 title: La serĉado pri ekstertera intelekto
 description: Ĉu ni estas solaj en la universo?
-date: 2024-01-13
+date: 2024-01-14
 tags:
   - kosmo
   - sciencfikcio
