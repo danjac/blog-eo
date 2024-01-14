@@ -24,7 +24,7 @@ La komikso komenciĝas per la alveno de homaj astronaŭtoj el dista planedo. Ili
 
 La intrigo de la komikso temas pri la misio de ĉi tiuj eksterteruloj - ili volas evoluigi la lokajn primitivajn homojn al ilia nivelo, kaj instruas niajn praavojn pri la sekretoj de teĥnologio, kiel la mistera monolito en la filmo _2001 - Kosma Odeseo_. Oni sugestas, ke niaj antikvaj mitoj, de la Biblio, aŭ la de helenoj, egiptoj aŭ indianoj, estas la komunaj memoroj pri tiuj eksterteloj kaj ilia mirakla teĥnologio. Ĉar bona intrigo bezonas friponon, unu el la eksterteraj vizitantoj estis malbonintenca sciencisto, kiu volis krei demonecajn monstrojn per siaj eksperimentoj - la origina Satano.
 
-{{ image.img(url="/img/gods-from-space-we-are-the-mutants-1.webp", description="Ais kaj ŝiaj kunŝipanoj alvintaj al la \"Blua Planedo\" Fonto: We Are the Mutants", width=800, height=1095) }}
+{{ image.img(url="/img/gods-from-space-we-are-the-mutants-1.webp", description="Ais kaj ŝiaj kunŝipanoj alvintaj al la \"Blua Planedo\" Fonto: We Are the Mutants", width=800, height=1095, figure=true) }}
 
 Von Däniken fakte ne skribis la komikson aŭ ĝiajn sekvantajn ĉapitrojn de la serio (bedaŭrinde troviĝis nur la unua en nia biblioteko). La talentaj verkistoj estis aŭtoro Arnold Mostowicz kaj artisto Bogusław Polch, kaj la serio unue publikiĝis en Pollando. Sed ilia verko baziĝis sur la verkoj de Erich von Däniken, kaj li estis unu el la plej vendataj verkistoj en la Okcidento dum la 70-a jardeko. Lia ĉefa verko estis _Ĉu Ĉaroj de la Dioj?_ (La demandsigno estas ja intenca parto de la titolo).
 
@@ -38,7 +38,7 @@ Kvankam nun preskaŭ forgesita, _Ĉaroj de la Dioj_ postlasis spurojn en nia vul
 
 Sed la verko, kaj ties ideoj, ne estas nur amuza pop-kulturaĵo de la 70-a jardeko. Von Däniken koncentriĝas plejparte pri la arĥeologio kaj mitoj de la sudamerikaj indianoj (la inkaoj kaj majaoj), la mezorientaj civilazacioj de Mezopotamio kaj Egiptio, kaj la orientaj kulturoj de Ĉinio, Hindio, Japanio ktp. Li preskaŭ neniam mencias okcidentajn evidentaĵon. La piramidoj? Konstruitaj aŭ dizajnitaj de eksterteruloj. Stonehenge? Verŝajne homfaritaj. La turo de Babelo? Ankaŭ eksterteruloj. La kavernaj pentraĵoj de Lascaux? Faritaj de homoj. Kaj tiel plu. Blankuloj, kompreneble, ne bezonis la helpon de astronaŭtoj. Neblankuloj aliflanke povis fari siajn miraklojn nur danke al nifuloj.
 
-{{ image.img(url="/img/Stone_statue_late_Jomon_period.jpg", description="Japana statuo de la Jomona Epoko, kiun von Däniken atestis eksterterulo en skafandro. Fonto: Wikipedia", width=400, height=528) }}
+{{ image.img(url="/img/Stone_statue_late_Jomon_period.jpg", description="Japana statuo de la Jomona Epoko, kiun von Däniken atestis eksterterulo en skafandro. Fonto: Wikipedia", width=400, height=528, figure=true) }}
 
 Do _Ĉaroj de la Dioj_ ne estas unika verko, sed apartenas al longa tradicio. Okcidentaj esploristoj kiuj malkovris mirindaĵojn en iu ĝangalo aŭ dezerto ne kredis, ke la prapatroj de la lokaj primitivuloj kapablis pri tia inventeco. La solvo estis, ke ia "perdiĝinta tribo" de blankuloj - vikingoj aŭ izraelidoj aŭ atlantidanoj - konstruis tiun templon aŭ akvedukton antaŭ ol malaperi de historio. La inventeco de von Däniken (li jam pruvis sian inventecon per fraŭdo kontraŭ la svisa hotelo, kie li laboris) - estis ĝisdatigi plurjarcentaĝajn ideojn pri la supereco de blankularo al la mezdudekjarcenta tempanimo pri nifoj kaj kosma esplorado.
 
@@ -47,8 +47,3 @@ Krom la implicita rasismo la kerna ideo malkaŝas cinikecon pri la kapablo kaj i
 > La populareco de verkaĵoj tiel senzorgaj kiel tiuj de von Däniken, kies precipa tezo estas ke niaj prapatroj estis stultuloj, sobre komentas pri la kredemo kaj malespero de nia tempo. Mi ankaŭ esperas por la daŭra populareco de tiaj libroj, kiel _Ĉaroj de la Dioj_ en kursoj pri logiko en lernejoj kaj universitatoj, kiel ekzemploj de malzorgema pensado. Mi ne konas novajn librojn tiel plenajn je logikaj kaj faktaj eraroj kiel la verkoj de von Däniken.
 
 _Ĉaroj de la Dioj_ sukcesis, ĉar ĝi satigas parton de la homa menso, kiu deziras misteron kaj dubas pri la atestoj de la establita scienco kaj la instancoj. Eble la homoj de la 70-a jardeko estis naivaj, sed ne pli naivaj ol la nuna generacio, kiu facile kredas je konspiroj, pseŭdoscienco, fantomoj, "naturaj" medikamentoj ktp. disvastigata ne per la verkoj de konviktita fraŭdisto, sed per la interreto. La vortoj de Carl Sagan tiom ĝustas hodiaŭ kiom hieraŭ - ĉi ĉio komentas pri la kredemo kaj malespero de nia tempo.
-
-**Bildfontoj**
-
-* [Wikipedia](https://wikipedia.org)
-* [We Are the Mutants](https://wearethemutants.com/)

@@ -290,6 +290,7 @@ figure {
   display: grid;
   text-align: center;
   justify-content: center;
+  max-width: 100%;
   & img {
     padding-bottom: 1em;
   }

@@ -112,10 +112,3 @@ La populara sciencifikcia serio _[Star Trek](https://eo.wikipedia.org/wiki/Star_
 Do la eksterteruloj ne respondas al niaj signaloj (kvankam ili certe aŭskultas kaj gvatas nin zorgeme): ili aŭ komunikas per alia nekonata maniero aŭ blokas siajn signalojn de teraj riceviloj.
 
 Tio estas iom optimisma hipotezo: kiam ni maturiĝos, esperinde ne detruinte sin aŭ nian planedon, estontece nin bonvenigos la galaksia komunumo.
-
-**Bildfontoj**:
-
-* [NASA/Jet Propulsion Laboratory](https://voyager.jpl.nasa.gov/golden-record/golden-record-cover/)
-* [NPR](https://www.npr.org/sections/krulwich/2010/05/28/126510251/aliens-found-in-ohio-the-wow-signal)
-* [Wikipedia](https://wikipedia.org)
-* [Variety](https://variety.com/video/independence-day-white-house-blown-up-roland-emmerich/)

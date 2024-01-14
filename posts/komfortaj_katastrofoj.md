@@ -29,7 +29,7 @@ La katastrofo aŭ pli precize katastrofaro - tertremegoj, vulkanegoj, ŝturmegoj
 
 La plej sukcesa ekzemplo tamen estas la zombia subgenro. Zombioj staras aparte de aliaj hororaj monstroj. Vampiroj kaj luphomoj estas solecaj noktaj estaĵoj, kiuj loĝas en antikvaj kasteloj aŭ eliras nur dum la plena luno. Serimurdisto terurigas stultajn adoleksulojn en tendaro aŭ antaŭurba domo, sed estas nur unu (kvankam ofte senmorta) serimurdisto. Zombioj tamen minacas ne nur malgrandan grupon da homoj, sed reprezentas la disfalon de la tuta civilizacio. Kvankam la legendo aŭ mito pri zombioj originas en Haitio, la moderna fenomeno komenciĝis en 1968 per la filmo _[Night of the Living Dead](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)_ (La Nokto de la Vivantaj Mortuloj) far de George Romero kaj ankoraŭ daŭras en televida serio kiu mem ŝajnas senmorta, _[The Walking Dead](https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series))_ (La Marŝantaj Mortuloj).
 
-{{ image.img(url="/img/walkingdead.jpg", description="La Marŝantaj Mortuloj Fonto: Entertainment Weekly/AMC", width=800, height=533 )}}
+{{ image.img(url="/img/walkingdead.jpg", description="La Marŝantaj Mortuloj Fonto: Entertainment Weekly/AMC", width=800, height=533, figure=true )}}
 
 La zombia katastrofo aludas pri la fama citaĵo de [Jean-Paul Sartre](https://eo.wikipedia.org/wiki/Jean-Paul_Sartre) - "la infero estas aliaj homoj". Zombioj multobliĝas per infektado de homaj viktimoj. La herooj travivas ne nur kurante for de la zombioj (oni esperas, ke ili estas la "malrapidaj" zombioj de George Romero, kaj ne la rapidaj infektituloj de la filmo _[28 Days Later](https://en.wikipedia.org/wiki/28_Days_Later)_ (28 Tagojn Poste)), sed ankaŭ pafante aŭ hakante, sen ia morala aŭ leĝa konsekvenco, centojn da ekshomoj - kiuj esperinde inkludas la malican oficejestron, la plendeman klienton, aŭ la ĝeneman najbaron.
 
@@ -43,8 +43,3 @@ Plej ofte ĉe la konkludo de la verko, la heroo ne staras sole sed kuniĝas kun 
 La sukceso de ĉi-tiu genro, aparte de la ekcitaj specialaj efikoj aŭ la timigaj situacioj, ŝuldas eble al la ĉiutagaj revoj de homoj, kiuj frustriĝas pri siaj laboraj, monaj aŭ familiaj problemoj, kaj sonĝas pri giganta katastrofo kiu renversas civilizacion, por ke la subuloj iĝu la superuloj. Eble post la kolapso oni vivos en mezepoka vilaĝo sen elektro kaj manĝos hundojn kaj katojn, almenaŭ oni ne devos finigi tiun elspezoraporton antaŭ mardo.
 
 Tamen en la nuna jardeko, la "komforta katastrofo" ne estas tiel populara, kiel en pasintaj jardekoj. Eble ĉar ni jam spertas realajn katastrofojn - tutmondan pandemion, brutalajn militojn, ekologian kolapsadon kaj klimatan ŝanĝiĝon, kaj la reviviĝon de faŝismo, kiu leviĝas, kiel nemortigebla zombio, el sia tombo. Miliarduloj fosigas bunkrojn en Nov-Zelando, esperante travivi komforte la venontan finiĝon de civilizacio kiel iliaj fikciaj figurantoj en _2012_. Por ni ceteraj, realaj katastrofoj, bedaŭrinde, malofte komfortigas.
-
-**Bildfontoj**
-
-* [Wikipedia](https://wikipedia.org)
-* [Entertainment Weekly](https://ew.com/)
