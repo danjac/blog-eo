@@ -51,7 +51,7 @@ Bowie ankaŭ laboris kun la muzika pioniero Brian Eno, kiu antaŭe membris en la
 
 Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo" aŭ laŭ la vortoj de Bowie mem, la Triptiko. La unua albumo de la "Berlina estis. _Low_ (Malalta).
 
-{{ media.img("/img/Hansa2.jpg", "Registraj studioj Hansa, Berlino. Fonto: tipBerlin", width=800, height=597, figure=true) }}
+{{ media.img("/img/Hansa2.jpg", "Registrejo Hansa, Berlino. Fonto: tipBerlin", width=800, height=597, figure=true) }}
 
 {{ media.img("/img/Low_(album).jpg", "Low (1976). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
@@ -63,7 +63,7 @@ La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME
 
 {{ media.img("/img/Bowie-lodger.jpg", "La Luanto (1979). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
-Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis produktita en Svislando kaj Novjorko. Ĝi iras en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko ekz. medorientaj melodioj. Ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, kvankam hodiaŭ oni taksas ĝin subestimata.
+Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Ĝi iris en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko ekz. medorientaj melodioj. Kvankam ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
 
 
 ## Heredaĵo
