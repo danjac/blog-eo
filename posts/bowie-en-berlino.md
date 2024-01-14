@@ -39,13 +39,18 @@ Post la morto de Ziggy Stardust kaj la eldono de la albumo _Diamond Dogs_ (Diama
 
 ## Kunlaborantoj: Iggy Pop kaj Brian Eno
 
-{{ media.img("/img/Iggy-and-Bowie-696x442.jpg", "Iggy Pop kaj David Bowie en Berlino, 1977. Fonto: NME", width=696, height=442, figure=true) }}
 
-Bowie aĉetis apartamenton en Hauptstraße, okcidenta Berlino, kaj loĝis tie dum du jaroj. Li apenaŭ ornamis la ĉambrojn, kiuj restis malplenaj je mebloj dum lia leĝado. Sed li havis samĉambranon - la faman punkrokiston, Iggy Pop, kiu poste luis propran apartamenton en la sama konstruaĵo. La du muzikistoj foje aperis kune sur la estrado.
+{{ media.img("/img/brian_eno.jpg", "Brian Eno, 1977. Fonto: Ritva Saarikko/Wikipedia", width=234, height=333, class="float-right")}}
 
-{{ media.img("/img/hauptstrasse.jpg", "Apartamento de Bowie en Hauptstrasse, Berlino. Fonto: tipBerlin", width=800, height=534, figure=true)}}
+Bowie aĉetis apartamenton en Hauptstraße, okcidenta Berlino, kaj loĝis tie dum du jaroj. Li apenaŭ ornamis la ĉambrojn, kiuj restis malplenaj je mebloj dum lia leĝado. Sed li havis samĉambranon - la faman punkrokiston, Iggy Pop, kiu poste luis propran apartamenton en la sama konstruaĵo. La du muzikistoj foje aperis kune sur la estrado. Unu rakonto pri la rilato inter la du rok-dioj temas pri okazo, kiam Bowie ĉagreniĝis, kiam Iggy Pop multfoje ŝtelis manĝaĵojn el lia fridujo, kvazaŭ ili estis malriĉaj studentoj en universitata apartamento. Dum tiu periodo Iggy verkis _Lust for Life_ (Avido pri Vivo), unu el siaj plej konataj kaj estimataj albumoj.
 
-Bowie ankaŭ laboris kun la muzika pioniero Brian Eno, kiu antaŭe membris en la bando Roxy Music sed nun laboris kun nova ondo de germanaj grupoj, eksperimentantaj pri elektronika muziko, ekzemple Kraftwerk kaj Tangerine Dream. Tiuj grupoj, uzante la plej novajn sentezilojn kaj aliajn inventemajn teĥnikojn, profunde influis ne nur la verkojn de Eno kaj Bowie tiutempe sed ankaŭ multajn artistojn dum la sekvanta jardeko.
+
+
+
+Bowie ankaŭ laboris kun la muzika pioniero [Brian Eno](https://eo.wikipedia.org/wiki/Brian_Eno), kiu antaŭe membris en la bando Roxy Music sed nun laboris kun nova ondo de germanaj grupoj, eksperimentantaj pri elektronika muziko, ekzemple Kraftwerk kaj Tangerine Dream. Tiuj grupoj, uzante la plej novajn sentezilojn kaj aliajn inventemajn teĥnikojn, profunde influis ne nur la verkojn de Eno kaj Bowie tiutempe sed ankaŭ multajn artistojn dum la sekvanta jardeko.
+
+
+{{ media.img("/img/Iggy-and-Bowie-696x442.jpg", "Iggy Pop kaj David Bowie. Fonto: NME", width=696, height=442, figure=true) }}
 
 ## La Berlina Triologo
 
@@ -61,10 +66,7 @@ _Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere e
 
 La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME_ kaj _Melody Maker_ deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun iam Bowie iam kantis germane ("Helden").
 
-{{ media.img("/img/Bowie-lodger.jpg", "La Luanto (1979). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
-
 Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Ĝi iris en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko ekz. medorientaj melodioj. Kvankam ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
-
 
 ## Heredaĵo
 
