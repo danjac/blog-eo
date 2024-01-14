@@ -83,7 +83,7 @@ Do la formulo de Drake ankoraŭ validas, kvankam oni ne estu tro optimismaj pri 
 
 Ekzemple sciencistoj kredas, ke abundas "akvoplanedoj", tio estas planedoj, tute kovritaj de akvo, sen insuloj kaj kontinentoj. Intelekto certe evoluiĝas sur tiaj planedoj - kiel la delfenoj kaj balenoj aŭ eĉ polpoj de la Tero - sed kiel tia intelekto disvolvus industrion en medio, kie oni ne eĉ povas ekbruligi fajron?
 
-Oni ankaŭ memoru, ke nia civilizacio disvolvis teĥnologion por elsendi signalojn nur dum la lasta jarcento. Modernaj homoj ekzistas dum 300 miloj da jaroj, do la frakcio de la tempo, kiam ni kapablas pri interstela komunikado estas nur 0,03% de nia speca vivdaŭro.
+Oni ankaŭ memoru, ke nia civilizacio disvolvis teĥnologion por elsendi signalojn nur dum la lasta jarcento. Modernaj homoj ekzistas dum 300 miloj da jaroj, do la frakcio de la tempo, kiam ni kapablas pri interstela komunikado, estas nur 0,03% de la vivdaŭro de nia speco.
 
 Finfine, oni erare supozas, ke ekstertera intelekto, la produkto de tute malsama evoluado, havas la samajn celojn kiel la niajn. Eble interstela komunikado ne interesas ilin aŭ ili fokusiĝas pri pli gravaj prioritatoj.
 
