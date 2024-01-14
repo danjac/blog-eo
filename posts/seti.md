@@ -9,7 +9,7 @@ tags:
   - scienco
 layout: layouts/post.njk
 ---
-{% import "image.njk" as image %}
+{% import "media.njk" as media %}
 
 Je la 18-a de aŭgusto 1977, sidante ĉe sia kuireja tablo, Jerry Ehrman legis printaĵon. Ĉe unu flanko de la papero estis listo da hazardaspektaj numbroj kaj literoj. Sed meze de la nombroj li rimarkis vertikalan vicon da literoj: **6EQUJ5**.
 
@@ -17,7 +17,7 @@ Jerry prenis skribilon kaj ĉirkaŭmarkis ĉi-tiun vicon per ruĝa inko. Li anka
 
 Jerry Ehrman, profesoro ĉe la universitato de Ohio, Usono, eble trovis la unuan evidentaĵon pri ektertera intelekto.
 
-{{ image.img("/img/wow.webp", "La Wow!-signalo Fonto: NPR", width=800, height=600) }}
+{{ media.img("/img/wow.webp", "La Wow!-signalo Fonto: NPR", width=800, height=600) }}
 
 La profesoro estis voluntulo en la universitata programo pri SETI: _Search for Extraterrestrial Intelligence_ aŭ la **Serĉado pri Ekstertera Intelekto (SEI)**. Tiu-ĉi serĉado havas interesan historion en la moderna epoko.
 
@@ -47,7 +47,7 @@ En 1899 la inventisto [Nikola Tesla](https://eo.wikipedia.org/wiki/Nikola_Tesla)
 
 Dum la jardekoj post la dua mondmilito astronomoj kaj astrofizikistoj precipe en Usono kaj Sovetunio serĉadis eksterterajn signalojn, danke al la disvolviĝo de pli potencaj raditeleskopoj ekzemple de Arecibo en Porto-Riko. Jerry Ehrman laboris por tia programo ĉe la Universitato de Ohio.
 
-{{ image.img("/img/Arecibo_Observatory_Aerial_View.jpg", description="La Observatorio de Arecibo Fonto: Wikipedia", width=757, height=600, figure=true) }}
+{{ media.img("/img/Arecibo_Observatory_Aerial_View.jpg", description="La Observatorio de Arecibo Fonto: Wikipedia", width=757, height=600, figure=true) }}
 
 En 1984 la _[SETI Institute](https://en.wikipedia.org/wiki/SETI_Institute)_ (La Instituto pri SEI) estis fondita de pluraj sciencistoj kaj aliaj personoj, inkluzive de [Carl Sagan](https://eo.wikipedia.org/wiki/Carl_Sagan) kaj fondinto de Microsoft [Paul Allen](https://en.wikipedia.org/wiki/Paul_Allen). Registaroj kaj privataj organizaĵoj foje helpis pri la serĉado, danke al la publika interesiĝo pri eksterteruloj, nutrata de sciencfikciaj filmoj kaj verkoj. Sed dum la vivdaŭro de SEI oni malkovris neniajn evidentaĵojn pri eksterteruloj, krom iujn ĉagrenajn indikojn, kiel la _Wow!_-signalon, spite al la milionoj da dolaroj elspezitaj je la projekto.
 
@@ -67,7 +67,7 @@ Kial do la universo silentas, krom la naturaj fonaj signaloj de steloj kaj inter
 
 La sciencisto [Enrico Fermi](https://eo.wikipedia.org/wiki/Enrico_Fermi) starigis la demandon: se la kondiĉoj por vivo abundas en la galaksio, kaj nia ekzisto pruvas tiajn kondiĉojn, kaj la galaksio sufiĉe aĝas, ke civilizacioj certe jam aperu multfoje dum ĝia vivdaŭro, kie estas la evidentaĵoj? Ni jam ricevus signalojn aŭ eĉ eksterterajn sondilojn. Ekzemple [Voyager 1 kaj 2](https://eo.wikipedia.org/wiki/Voyager_2), lanĉitaj en 1977, jam eliris el nia sunsistemo. Eksterteruloj eble elsendis similajn robotajn kurierojn. Eĉ se ni estas ĉi-momente solaj, la universo devas esti tombejo, plena je la signaloj kaj sondiloj de delonge formortintaj civilizacioj.
 
-{{ image.img("/img/record-diagram.jpg", description="La Ora Disko sur ambaŭ Voyager-sondiloj, kiu enhavas informojn pri nia planedo. Fonto: NASA", figure=true) }}
+{{ media.img("/img/record-diagram.jpg", description="La Ora Disko sur ambaŭ Voyager-sondiloj, kiu enhavas informojn pri nia planedo. Fonto: NASA", figure=true) }}
 
 Respondoj al la paradokso de Fermi inkludas:
 
