@@ -43,7 +43,7 @@ Tamen, ni jam scias, ke la galaksio abundas je planedoj, kaj la samaj ĥemiaj ka
 
 ## La Serĉado
 
-En 1899 la inventisto [Nikola Tesla](https://eo.wikipedia.org/wiki/Nikola_Tesla), laborante en sia laboratorio en Kolorado, Usono, detektis signalon evidente de Marso. Li jam asertis ke lia sendrata dissendilon povas komuniki kun marsanoj. Tamen, hodiaŭ oni scias, ke bedaŭrinde Marso estas tute senviva, kvankam ĝi eble havis la kondiĉojn por vivo antaŭ milionoj da jaroj. Tesla verŝajne ricevis naturajn signalojn, eble de la magnetosfero de Jupitero. Aliaj samtempaj geniuloj kiel [Marconi](https://eo.wikipedia.org/wiki/Guglielmo_Marconi) ankaŭ asertis ricevajn marsanajn signalojn, sed ili ankaŭ verŝajne devenis de naturaj fontoj. Sed ĉi tiuj fruaj eksperimentoj jam elmontris la plej persisteman problemon pri SEI: kvankam malfacilas distingi naturajn kaj artefaritajn fontojn de signaloj, sed ankaŭ nia avida espero trovi ian evidentaĵon pri ekstertera intelekto konfuzas nian objektivecon.
+En 1899 la inventisto [Nikola Tesla](https://eo.wikipedia.org/wiki/Nikola_Tesla), laborante en sia laboratorio en Kolorado, Usono, detektis signalon evidente de Marso. Li jam asertis ke lia sendrata dissendilon povas komuniki kun marsanoj. Tamen, hodiaŭ oni scias, ke bedaŭrinde Marso estas verŝajne tute senviva, kvankam ĝi eble havis la kondiĉojn por vivo antaŭ milionoj da jaroj. Tesla verŝajne ricevis naturajn signalojn, eble de la magnetosfero de Jupitero. Aliaj samtempaj geniuloj kiel [Marconi](https://eo.wikipedia.org/wiki/Guglielmo_Marconi) ankaŭ asertis ricevajn marsanajn signalojn, sed ili ankaŭ verŝajne devenis de naturaj fontoj. Sed ĉi tiuj fruaj eksperimentoj jam elmontris la plej persisteman problemon pri SEI: ne nur malfacilas distingi naturajn kaj artefaritajn fontojn de signaloj, sed ankaŭ nia avida espero trovi ian evidentaĵon pri ekstertera intelekto konfuzas nian objektivecon.
 
 Dum la jardekoj post la dua mondmilito astronomoj kaj astrofizikistoj precipe en Usono kaj Sovetunio serĉadis eksterterajn signalojn, danke al la disvolviĝo de pli potencaj raditeleskopoj ekzemple de Arecibo en Porto-Riko. Jerry Ehrman laboris por tia programo ĉe la Universitato de Ohio.
 
@@ -53,7 +53,7 @@ En 1984 la _[SETI Institute](https://en.wikipedia.org/wiki/SETI_Institute)_ (La 
 
 ### SETI@home
 
-Ĉe la komenciĝo de la interreto, projekto _[SETI@home](https://eo.wikipedia.org/wiki/SETI@home)_ (SEI hejme) estis lanĉita ĉe la Universitato Berkley en Kalifornio. Helpe de softvaro, kiun oni povis elŝuti en hejmkomputilojn, privataj individuoj kontribuis al la analizado de datumoj kolektitaj de la teleskopoj kaj riceviloj tra la mondo. Krome, ĝi helpis plivastigi publikan interesiĝon pri SEI.
+Ĉe la komenciĝo de la interreto, projekto _[SETI@home](https://eo.wikipedia.org/wiki/SETI@home)_ (SEI hejme) estis lanĉita ĉe la Universitato Berkley en Kalifornio. Helpe de softvaro, kiun oni povis elŝuti en hejmkomputilojn, privataj individuoj kontribuis al la analizado pri datumoj kolektitaj de la teleskopoj kaj riceviloj tra la mondo. Krome, ĝi helpis plivastigi publikan interesiĝon pri SEI.
 
 Post 25 jaroj SETI@home tamen ne sukcesis.
 
@@ -61,7 +61,7 @@ Post 25 jaroj SETI@home tamen ne sukcesis.
 
 Nia galaksio konsistas el miliardaj da steloj, kaj la universo abundas je galaksioj, similaj al la nia. Plue oni jam malkovris, ke planedoj ankaŭ abundas.
 
-Se oni akceptas la formulon de Drake, estus tre malverŝajne, ke ni estas solaj en la universo. La universo aĝas miliardojn da jaroj, kaj malnombreblaj civilizacioj eble evoluiĝis kaj formortis, antaŭ ol niaj unuĉelaj prapatroj aperis en la koto de nia juna planedo. Kvankam jam delonge formortinte, iliaj signaloj ankoraŭ transpasas interstelan spacon kaj pli ol malpli frue trafos la Teron.
+Se oni akceptus la formulon de Drake, estus tre malverŝajne, ke ni estas solaj en la universo. La universo aĝas miliardojn da jaroj, kaj malnombreblaj civilizacioj eble evoluiĝis kaj formortis, antaŭ ol niaj unuĉelaj prapatroj aperis en la koto de nia juna planedo. Kvankam jam delonge formortinte, iliaj signaloj ankoraŭ transpasus interstelan spacon kaj pli ol malpli frue trafos la Teron.
 
 Kial do la universo silentas, krom la naturaj fonaj signaloj de steloj kaj interstela polvo?
 
@@ -85,7 +85,7 @@ Ekzemple sciencistoj kredas, ke abundas "akvoplanedoj", tio estas planedoj, tute
 
 Oni ankaŭ memoru, ke nia civilizacio disvolvis teĥnologion por elsendi signalojn nur dum la lasta jarcento. Modernaj homoj ekzistas dum 300 miloj da jaroj, do la frakcio de la tempo, kiam ni kapablas pri interstela komunikado estas nur 0,03% de nia speca vivdaŭro.
 
-Finfine, oni erare supozas, ke ekstertera intelekto, la produkto de tute malsama evoluado, havas la samajn celojn kiel la niajn. Eble interstela komunikado ne interesas ilin aŭ ili fokusiĝas pri pli gravajn problemojn.
+Finfine, oni erare supozas, ke ekstertera intelekto, la produkto de tute malsama evoluado, havas la samajn celojn kiel la niajn. Eble interstela komunikado ne interesas ilin aŭ ili fokusiĝas pri pli gravaj prioritatoj.
 
 Du interesaj tezoj tamen elstaras.
 
@@ -93,21 +93,25 @@ Du interesaj tezoj tamen elstaras.
 
 Samtempe kiam Tesla eksperimentis pri la komunikado kun marsanoj, la verkisto [H.G. Wells](https://eo.wikipedia.org/wiki/Herbert_Wells), la "avo de sciencfikcio" publikigis la verkon _[War of the Worlds](https://eo.wikipedia.org/wiki/La_milito_de_la_mondoj)_ (La Milito de la Mondoj), kiu temas pri invado de Tero fare de tiuj marsanoj. Laŭ Wells, oni supozas erare, ke eksterteruloj estas morale progresemaj kaj bonintencaj: se ili estus eĉ iom homecaj, ili fakte serioze minacus nian specon. En la enkonduko al sia romano, Wells komparas la marsanojn al la britaj koloniistoj, kiuj murdis la tutan indiĝenan popolon de Tasmanio.
 
-La fama brita sciencisto [Stephen Hawking](https://eo.wikipedia.org/wiki/Stephen_Hawking) ankaŭ avertis pri senzorga komunikado kun eksterteraj civilizacioj: oni ne supozu, ke ili bonintencas al ni. Eble ili konsideros nin danĝeraj: niaj radiaj kaj televidaj signaloj libere eskapis en la kosmon dum la pasinta jarcento, kaj ili ne prezentas flatan bildon pri homaro. En la romano _[Contact](https://en.wikipedia.org/wiki/Contact_(novel))_ (Kontakto) far de Carl Sagan (kaj en la samnoma filmo), la eksterteruloj resendis unu el la plej fruaj televidaĵoj - la parolon de Adolf Hitler ĉe la komenca ceremonio de la Olimpiaj Ludoj en 1938. Nun eksteruloj en stelsistemoj distance de preskaŭ 90 lumjaroj povas spekti la diktatoron per sufiĉe potenca ricevilo.
+La fama brita sciencisto [Stephen Hawking](https://eo.wikipedia.org/wiki/Stephen_Hawking) avertis sammaniere pri senzorga komunikado kun eksterteraj civilizacioj:
 
-La serio _[la Tri-Korpa Problemo](https://eo.wikipedia.org/wiki/La_tri-korpa_problemo_(libro))_ de la ĉina sciencfikcia verkisto Liu Cixin temas pri speco, kiu loĝas en nia najbara sistemo, Alfa Centaŭro. Ili detektas signalojn de Tero kaj intencas invadi nin, ĉar ilia propra malstabila planedo detruiĝos kaj ili bezonas novan hejmon. La serio enkondukas la terminon pri la "Malhela Arbaro". Pro la danĝeroj de predemaj tiaj specoj, saĝaj civilizacioj kaŝas sin kaj evitas la elsendadon de malkaŝantaj signaloj, kiel bestoj, kiuj kaŝas sin en nokta arbaro.
+> Se la eksteruloj vizitus nin, la rezulto estus simila, kiam Kolumbo alteriĝis en Ameriko, kio ne montriĝis bone por la indiĝenaj amerikanoj.
+
+Eble ili konsiderus nin danĝeraj: niaj radiaj kaj televidaj signaloj libere eskapis en la kosmon dum la pasinta jarcento, kaj ili ne prezentas flatan bildon pri homaro. En la romano _[Contact](https://en.wikipedia.org/wiki/Contact_(novel))_ (Kontakto) far de Carl Sagan (kaj en la samnoma filmo), la eksterteruloj resendis unu el la plej fruaj televidaĵoj - la parolon de Adolf Hitler ĉe la komenca ceremonio de la Olimpiaj Ludoj en 1938. Bedaŭrinde nun eksteruloj en stelsistemoj distance de preskaŭ 90 lumjaroj povas spekti la diktatoron per sufiĉe potenca ricevilo.
+
+La serio _[la Tri-Korpa Problemo](https://eo.wikipedia.org/wiki/La_tri-korpa_problemo_(libro))_ de la ĉina sciencfikcia verkisto Liu Cixin temas pri speco, kiu loĝas en nia najbara sistemo, Alfa Centaŭro. Ili detektas signalojn de Tero kaj intencas invadi nin, ĉar ilia propra malstabila planedo detruiĝos kaj ili bezonas novan hejmon. La serio enkondukas la terminon pri la "Malhela Arbaro". Pro la danĝeroj de tiaj predemaj specoj, saĝaj civilizacioj kaŝas sin kaj evitas la elsendadon de indikemaj signaloj, kiel bestoj, kiuj kaŝas sin en nokta arbaro.
 
 Oni proponis tamen pli optimisman tezon.
 
 ### Nia Tero Estas Bestoĝardeno
 
-La _Zoo hypothesis_ aŭ Bestoĝardena Hipotezo sugestas, ke la Tero estas iel apartigita de galaksiaj civilizacioj. Eble oni supozu, ke ni ne estas preta por kontakti aliajn: aŭ ni estas tiel malmaturaj, ke tiu kontakto destruus nian socion, aŭ ni estas tro danĝeraj aŭ detruemaj al aliaj.
+La _Zoo hypothesis_ aŭ Bestoĝardena Hipotezo sugestas, ke la Tero estas iel apartigita de galaksiaj civilizacioj. Ili konkludis, ke ni ne pretas por kontaktado kun aliaj specoj: aŭ ni estas tiel malmaturaj, ke tiu kontakto destruus nian socion, aŭ ni estas tro danĝeraj aŭ detruemaj al aliaj.
 
-La populara sciencifikcia serio _[Star Trek](https://eo.wikipedia.org/wiki/Star_Trek)_ (Stela Vojaĝo) proponas la "Unuan Direktivon": la Federacio ne rajtas perturbi la disvolviĝadon de pli primitivaj socioj (kompreneble multaj epizodoj temas pri kazoj, kiam kapitanoj Kirk aŭ Picard devas trakti pri la direktivo, foje ignorante ĝin).
+La populara sciencifikcia serio _[Star Trek](https://eo.wikipedia.org/wiki/Star_Trek)_ (Stela Vojaĝo) proponas la "Unuan Direktivon": la Federacio ne rajtas perturbi la disvolviĝadon de pli primitivaj socioj (kompreneble en multaj epizodoj kapitanoj Kirk aŭ Picard devas trakti pri la direktivo, foje ignorante ĝin).
 
-Do la eksterteruloj ne respondas al niaj signaloj (kvankam ili certe aŭskultas kaj gvatas nin zorgeme), kaj ili aŭ komunikas per alia maniero aŭ blokas siajn signalojn de teraj riceviloj.
+Do la eksterteruloj ne respondas al niaj signaloj (kvankam ili certe aŭskultas kaj gvatas nin zorgeme): ili aŭ komunikas per alia nekonata maniero aŭ blokas siajn signalojn de teraj riceviloj.
 
-Tio estas iom optimisma hipotezo: kiam ni maturiĝos, esperinde ne detruinte sin aŭ nian planedon, estontece nin bonvenigos galaksia komunumo.
+Tio estas iom optimisma hipotezo: kiam ni maturiĝos, esperinde ne detruinte sin aŭ nian planedon, estontece nin bonvenigos la galaksia komunumo.
 
 **Bildfontoj**:
 
