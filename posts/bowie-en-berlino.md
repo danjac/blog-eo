@@ -37,7 +37,7 @@ Bowie ankaŭ laboris kun la muzika pioniero Brian Eno, kiu antaŭe membris en la
 
 ## La Berlina Triologo
 
-Bowie kaj Eno kune registris en 1976 la unuan albumon de la "Berlina Trilogo", _Low_ (Malalta).
+Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo." La unua albumo de la "Berlina estis. _Low_ (Malalta).
 
 {{ media.img("/img/Low_(album).jpg", "Low (1976). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
@@ -45,15 +45,17 @@ _Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere e
 
 {{ media.img("/img/Heroes.png", "Heroes (1977). Fonto: Wikipedia", width=180, height=160, class="float-right") }}
 
-La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME_ kaj _Melody Maker_ deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, sed pli tradcia kaj malpli eksperimenta.
+La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME_ kaj _Melody Maker_ deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn.
 
-Kvankam la lastaj du albumoj estis registritaj en la Berlina [studio](studio)
+{{ media.img("/img/Bowie-lodger.jpg", "La Internulo (1979). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
+Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Internulo) (1979) estis produktita en Svislando kaj Novjorko. Ĝi iras en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko ekz. medorientaj melodioj. Ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, kvankam hodiaŭ oni taksas ĝin subestimata.
+
+{{ media.img("/img/Hansa2.jpg", "Registraj studioj Hansa, Berlino", width=800, height=597, figure=true) }}
 
 
 ## La Ekzilo Finiĝas
 
-## Heredaĵo
 
 
 
