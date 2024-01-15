@@ -75,7 +75,7 @@ Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de
 
 ## Heredaĵo
 
-La tri jaroj en Berlino estis malgranda epizodo en la vivo de David Bowie, sed la verkoj kiuj publikiĝis dum tiu periodo montriĝis tre influa kaj estimata, kvankam ili ne komerce ne tiom sukcesis, kiom liaj antaŭaj kaj postaj periodoj. Pli junaj artistoj, kiel Joy Division kaj Gary Numan konsideris la kantojn de la "Triptiko" aparte granda influo.
+La tri jaroj en Berlino estis mallonga epizodo en la vivo de David Bowie, sed la verkoj kiuj publikiĝis dum tiu periodo montriĝis tre influa kaj estimata, kvankam ili ne komerce ne tiom sukcesis, kiom liaj antaŭaj kaj postaj periodoj. Pli junaj artistoj, kiel Joy Division kaj Gary Numan konsideris la kantojn de la "Triptiko" aparte granda influo.
 
 Krom la arta influo de lia adoptita urbo, la jaroj en Berlino donis al Bowie iom da paco kaj stabileco post la freneza vivo de ekseso en Los-Anĝeleso.
 
