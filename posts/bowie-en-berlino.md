@@ -49,7 +49,7 @@ Bowie aĉetis apartamenton en Hauptstraße, okcidenta Berlino, kaj loĝis tie du
 
 Li kaj Bowie estis arestitaj pro narkotaĵoj en Usono en 1976 dum li partoprenis en la turneo de Bowie _Station to Station_ kaj kiel Bowie, li venis al Berlino por resaniĝi post longa periodo da ekceso kaj turneado.
 
-La du muzikistoj foje aperis kune sur la estrado kaj foje kunlaboris: ekzemple la kanto de Bowie _China Girl_ (Ĉinino) estis skribita helpe de Iggy Pop. Unu rakonto pri la rilato inter la du rok-dioj temas pri okazoj, kiam Iggy Pop ĉagrenis Bowie, ŝtelante multfoje manĝaĵojn de lia fridujo. Dum tiu periodo Iggy priverkis _Lust for Life_ (Avido pri Vivo) kaj _Idiot_ (Stultulo), elbe siajn plej konatajn kaj estimatajn albumojn.
+La du muzikistoj foje aperis kune sur la estrado kaj foje kunlaboris: ekzemple la kanto de Bowie _China Girl_ (Ĉinino) estis skribita helpe de Iggy Pop. Unu rakonto pri la rilato inter la du rok-dioj temas pri okazoj, kiam Iggy Pop ĉagrenis Bowie, ŝtelante multfoje manĝaĵojn de lia fridujo. Dum tiu periodo Iggy prilaboris _Lust for Life_ (Avido pri Vivo) kaj _Idiot_ (Stultulo), elbe siajn plej konatajn kaj estimatajn albumojn.
 
 Bowie ankaŭ laboris kun la muzika pioniero [Brian Eno](https://eo.wikipedia.org/wiki/Brian_Eno), kiu antaŭe membris en la bando Roxy Music sed nun laboris kun nova ondo de germanaj grupoj, eksperimentantaj pri elektronika muziko, ekzemple [Kraftwerk](https://eo.wikipedia.org/wiki/Kraftwerk) kaj [Tangerine Dream](https://eo.wikipedia.org/wiki/Tangerine_Dream). Tiuj grupoj, uzante la plej novajn sentezilojn kaj aliajn inventemajn teĥnikojn, profunde influis ne nur la verkojn de Eno kaj Bowie tiutempe sed ankaŭ multajn artistojn dum la sekvanta jardeko.
 
