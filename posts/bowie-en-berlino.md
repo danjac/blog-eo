@@ -51,16 +51,16 @@ Li kaj Bowie estis arestitaj pro drogoj en Usono en 1976 dum li partoprenis en l
 
 La du muzikistoj foje aperis kune sur la estrado kaj foje kunlaboris: ekzemple la kanto de Bowie _China Girl_ (Ĉinino) estis skribita helpe de Iggy Pop. Unu rakonto pri la rilato inter la du rok-dioj temas pri okazoj, kiam Iggy Pop ĉagrenis Bowie, ŝtelante multfoje manĝaĵojn de lia fridujo, kvazaŭ ili estis malriĉaj studentoj en universitata apartamento. Dum tiu periodo Iggy priverkis _Lust for Life_ (Avido pri Vivo) kaj _Idiot_ (Stultulo), elbe siajn plej konatajn kaj estimatajn albumojn.
 
-Bowie ankaŭ laboris kun la muzika pioniero [Brian Eno](https://eo.wikipedia.org/wiki/Brian_Eno), kiu antaŭe membris en la bando Roxy Music sed nun laboris kun nova ondo de germanaj grupoj, tiam kromnomataj _Krautrock_ ("Brasika Roko" - la vorto _Kraut_ signifas "germanon" anglaslange), kiuj eksperimentis pri elektronika muziko, ekzemple [Kraftwerk](https://eo.wikipedia.org/wiki/Kraftwerk) kaj [Tangerine Dream](https://eo.wikipedia.org/wiki/Tangerine_Dream). Tiuj grupoj, uzante la plej novajn sentezilojn kaj aliajn inventemajn teĥnikojn, profunde influis ne nur la verkojn de Eno kaj Bowie tiutempe sed ankaŭ multajn artistojn dum la sekvanta jardeko.
+Bowie ankaŭ laboris kun la muzika pioniero [Brian Eno](https://eo.wikipedia.org/wiki/Brian_Eno), kiu antaŭe membris en la bando Roxy Music sed nun laboris kun nova ondo de germanaj grupoj, eksperimentantaj pri elektronika muziko, ekzemple [Kraftwerk](https://eo.wikipedia.org/wiki/Kraftwerk) kaj [Tangerine Dream](https://eo.wikipedia.org/wiki/Tangerine_Dream). Tiuj grupoj, uzante la plej novajn sentezilojn kaj aliajn inventemajn teĥnikojn, profunde influis ne nur la verkojn de Eno kaj Bowie tiutempe sed ankaŭ multajn artistojn dum la sekvanta jardeko.
 
 
 {{ media.img("/img/Iggy-and-Bowie-696x442.jpg", "Iggy Pop kaj David Bowie. Fonto: NME", width=696, height=442, figure=true) }}
 
 ## La Berlina Triologo
 
-Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo" aŭ laŭ la vortoj de Bowie mem, la Triptiko. La unua albumo de la "Berlina estis. _Low_ (Malalta).
-
 {{ media.img("/img/Hansa2.jpg", "Registrejo Hansa, Berlino. Fonto: tipBerlin", width=800, height=597, figure=true) }}
+
+Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo" aŭ laŭ la vortoj de Bowie mem, la Triptiko. La unua el la "Berlinaj albumoj" estis. _Low_ (Malalta).
 
 {{ media.img("/img/Low_(album).jpg", "Low (1976). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
