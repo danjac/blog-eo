@@ -68,9 +68,10 @@ _Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere e
 
 {{ media.img("/img/Heroes.png", "Heroes (1977). Fonto: Wikipedia", width=180, height=160, class="float-right") }}
 
-La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME_ kaj _Melody Maker_ deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden").
+La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME_ kaj _Melody Maker_ deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden"). La gitaristo [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) de [King Crimson](https://en.wikipedia.org/wiki/King_Crimson) ankaŭ kontribuis al la albumo.
 
-Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Ĝi iris en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko ekz. medorientaj melodioj. Kvankam ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
+
+Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Ĝi iris en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko kaj la albumo intermiksas ekz. medorientajn kaj afrikajn melodiojn. Kvankam ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
 
 ## Heredaĵo
 
