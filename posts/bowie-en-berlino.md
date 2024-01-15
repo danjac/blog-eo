@@ -22,14 +22,14 @@ layout: layouts/post.njk
 
 _Heroes_ (Herooj), David Bowie
 
-De 1976 ĝis 1979, [David Bowie](https://eo.wikipedia.org/wiki/David_Bowie) registris tri albumojn: _Low_ (Malalta), _Heroes_ (Herooj) kaj _Lodger_ (La Luanto). Ĉi tiuj verkoj apartis pro tio, ke li faris ilin dum sia ekzilo en okcidenta Berlino. Kial brita artisto, kiu antaŭe loĝis en Los-Anĝeleso, troviĝis en la mezeŭropa urbo, tiam dividita per la fifama Muro?
+De 1976 ĝis 1979, [David Bowie](https://eo.wikipedia.org/wiki/David_Bowie) eldonis tri albumojn: _Low_ (Malalta), _Heroes_ (Herooj) kaj _Lodger_ (La Luanto). Ĉi tiuj verkoj apartis pro tio, ke li faris ilin dum sia ekzilo en okcidenta Berlino. Kial brita artisto, kiu antaŭe loĝis en Los-Anĝeleso, troviĝis en la mezeŭropa urbo, tiam dividita per la fifama Muro?
 
 
 ## La Morto de Ziggy Stardust
 
 {{ media.img("/img/ZiggyStardust.jpg", "La Leviĝo kaj la Falo de Ziggy Stardust kaj la Araneoj de Marso. Fonto: Wikipedia", height=220, width=220, class="float-right") }}
 
-Ĉe koncerto en Londono en julio, 1973, la stranga ŝminkita estaĵo sur la estrado, aspektanta kiel eksterterulo falinta al la Tero, anoncis al la ŝokita aŭskultaro:
+Ĉe koncerto en Londono en julio, 1973, stranga ŝminkita estaĵo sur la estrado, aspektanta kiel eksterterulo falinta al la Tero, anoncis al la ŝokita aŭskultaro:
 
 > El ĉiuj spektakloj dum ĉi tiu turneo, ni aparte memoros ĉi tiun spektaklon plej longe, ĉar ne nur estas la lasta spektaklo de la turneo, ĝi estas la lasta spektaklo, kiun ni iam faros.
 
