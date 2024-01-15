@@ -45,9 +45,9 @@ Post la morto de Ziggy Stardust kaj la eldono de la albumo _Diamond Dogs_ (Diama
 
 {{ media.img("/img/brian_eno.jpg", "Brian Eno, 1977. Fonto: Ritva Saarikko/Wikipedia", width=234, height=333, class="float-right")}}
 
-Bowie aĉetis apartamenton en Hauptstraße, okcidenta Berlino, kaj loĝis tie dum du jaroj. Li apenaŭ ornamis la ĉambrojn, kiuj restis malplenaj je mebloj dum lia loĝado. Sed li havis samĉambranon - la faman punkrokiston kaj eksmembron de la bando la Stooges, [Iggy Pop](https://eo.wikipedia.org/wiki/Iggy_Pop), kiu poste luis propran apartamenton en la sama konstruaĵo.
+Bowie aĉetis apartamenton en Hauptstraße, okcidenta Berlino, kaj loĝis tie dum tri jaroj. Li apenaŭ ornamis la ĉambrojn, kiuj restis malplenaj je mebloj dum lia loĝado. Sed li havis samĉambranon - la faman punkrokiston kaj eksmembron de la bando la Stooges, [Iggy Pop](https://eo.wikipedia.org/wiki/Iggy_Pop), kiu poste luis propran apartamenton en la sama konstruaĵo.
 
-Li kaj Bowie estis arestitaj pro drogoj en Usono en 1976 dum li partoprenis en la turneo de Bowie _Station to Station_ kaj kiel Bowie, li venis al Berlino por resaniĝi post longa periodo da ekceso kaj turneado.
+Li kaj Bowie estis arestitaj pro narkotaĵoj en Usono en 1976 dum li partoprenis en la turneo de Bowie _Station to Station_ kaj kiel Bowie, li venis al Berlino por resaniĝi post longa periodo da ekceso kaj turneado.
 
 La du muzikistoj foje aperis kune sur la estrado kaj foje kunlaboris: ekzemple la kanto de Bowie _China Girl_ (Ĉinino) estis skribita helpe de Iggy Pop. Unu rakonto pri la rilato inter la du rok-dioj temas pri okazoj, kiam Iggy Pop ĉagrenis Bowie, ŝtelante multfoje manĝaĵojn de lia fridujo, kvazaŭ ili estis malriĉaj studentoj en universitata apartamento. Dum tiu periodo Iggy priverkis _Lust for Life_ (Avido pri Vivo) kaj _Idiot_ (Stultulo), elbe siajn plej konatajn kaj estimatajn albumojn.
 
@@ -68,10 +68,10 @@ _Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere e
 
 {{ media.img("/img/Heroes.png", "Heroes (1977). Fonto: Wikipedia", width=180, height=160, class="float-right") }}
 
-La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj revuoj _NME_ kaj _Melody Maker_ deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden"). La gitaristo [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) de [King Crimson](https://en.wikipedia.org/wiki/King_Crimson) ankaŭ kontribuis al la albumo.
+La dua kunlaboro kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj muzikrevuoj NME kaj Melody Maker deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden"). La gitaristo [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) de [King Crimson](https://en.wikipedia.org/wiki/King_Crimson) ankaŭ kontribuis al la albumo.
 
 
-Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Ĝi iris en alia direkto, sen la elektronikaj influoj de _Heroes_ kaj _Low_. Estas ankaŭ influo de la "tutmonda" muziko pri kiu Brian Eno interesiĝis dum la sekvanta jardeko kaj la albumo intermiksas ekz. medorientajn kaj afrikajn melodiojn. Kvankam ĝi ne tiom sukcesis kiel la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
+Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Per ĉi tiu albumo Bowie kaj Eno iris alidirekten, sen la fortaj elektronikaj influoj de _Heroes_ kaj _Low_. Krome iom de la "tutmonda" muziko aŭdiĝas, pri kiu Brian Eno interesiĝos dum la sekvanta jardeko, kaj la albumo intermiksas ekz. mezorientajn kaj afrikajn melodiojn. Kvankam ĝi ne tiom sukcesis kiom la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
 
 ## Heredaĵo
 
