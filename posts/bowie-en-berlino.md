@@ -15,14 +15,14 @@ layout: layouts/post.njk
 > And the guns shot above our heads
 > And we kissed, as though nothing could fall_
 
-> _Mi memoras
-> Starante apud la Muro
-> Kaj super niaj kapoj, la pafiloj pafadis
-> Kaj ni kisis, kvazaŭ povus fali nenio_
+> _Mi povas memori
+> Starante, apud la Muro
+> Kaj la pafiloj pafadis super niajn kapojn
+> Kaj ni kisis, kvazaŭ nenio povus fali_
 
 _Heroes_ (Herooj), David Bowie
 
-De 1976 ĝis 1979, [David Bowie](https://eo.wikipedia.org/wiki/David_Bowie) registris tri albumojn: _Low_ (Malalta), _Heroes_ (Herooj) kaj _Lodger_ (La Luanto). Ĉi tiuj verkoj apartis pro tio, ke li faris ilin dum sia ekzilo en okcidenta Berlino. Kial brita artisto, kiu antaŭe loĝis en Los-Anĝeleso, troviĝis en la mezeŭropa urbo, tiam dividita per la famaĉa Muro?
+De 1976 ĝis 1979, [David Bowie](https://eo.wikipedia.org/wiki/David_Bowie) registris tri albumojn: _Low_ (Malalta), _Heroes_ (Herooj) kaj _Lodger_ (La Luanto). Ĉi tiuj verkoj apartis pro tio, ke li faris ilin dum sia ekzilo en okcidenta Berlino. Kial brita artisto, kiu antaŭe loĝis en Los-Anĝeleso, troviĝis en la mezeŭropa urbo, tiam dividita per la fifama Muro?
 
 
 ## La Morto de Ziggy Stardust
@@ -60,7 +60,7 @@ Bowie ankaŭ laboris kun la muzika pioniero [Brian Eno](https://eo.wikipedia.org
 
 {{ media.img("/img/Hansa2.jpg", "Registrejo Hansa, Berlino. Fonto: tipBerlin", width=800, height=597, figure=true) }}
 
-Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo" aŭ laŭ la vortoj de Bowie mem, la Triptiko. La unua el la "Berlinaj albumoj" estis. _Low_ (Malalta).
+Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo" aŭ laŭ la vortoj de Bowie mem, la **Triptiko**. La unua el la "Berlinaj albumoj" estis. _Low_ (Malalta).
 
 {{ media.img("/img/Low_(album).jpg", "Low (1976). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
