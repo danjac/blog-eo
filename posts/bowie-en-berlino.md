@@ -64,7 +64,7 @@ Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte noma
 
 {{ media.img("/img/Low_(album).jpg", "Low (1976). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
-_Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere eksperimentas pri elektronikaj kaj fonaj avangardaj sonoj, danke al la kreemo de Eno kaj la novaj instrumentoj de la periodo. La kovrilo de la albumo fakte bildigas Bowie en la filmo _The Man Who Fell to Earth_. Kvankam la kompanio RCA unue rifuzis publikigi la albumon pro timo pri komerca malsukceso, ĝi fine ne nur komerce sukcesis, sed hodiaŭ estas konsiderata unu el la plej bonaj verkoj de Bowie.
+_Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere eksperimentas pri elektronikaj kaj fonaj avangardaj sonoj, danke al la kreemo de Eno kaj la novaj instrumentoj de la periodo. La kovrilo de la albumo fakte bildigas Bowie en la filmo _The Man Who Fell to Earth_. Kvankam la eldona kompanio RCA unue rifuzis publikigi la albumon pro timo pri komerca malsukceso, ĝi fine ne nur komerce sukcesis, sed hodiaŭ estas konsiderata unu el la plej bonaj verkoj de Bowie.
 
 {{ media.img("/img/Heroes.png", "Heroes (1977). Fonto: Wikipedia", width=180, height=160, class="float-right") }}
 
@@ -78,7 +78,7 @@ La tri jaroj en Berlino estis mallonga epizodo en la vivo de David Bowie, sed la
 
 Krom la arta influo de lia adoptita urbo, la jaroj en Berlino donis al Bowie iom da paco kaj stabileco post la freneza vivo de ekseso en Los-Anĝeleso.
 
-{{ media.img("/img/david_bowie_strasse.jpg", "David Bowie Strasse, Berlin. Fonto tipBerlin", width=800, width=581, figure=true) }}
+{{ media.img("/img/david_bowie_strasse.jpg", "David Bowie Strasse, Berlin. Fonto: tipBerlin", width=800, width=581, figure=true) }}
 
 
 
