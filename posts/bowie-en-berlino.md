@@ -1,7 +1,7 @@
 ---
 title: Bowie en Berlino
 description: La duko en ekzilo
-date: 2024-01-16
+date: 2024-01-17
 tags:
   - muziko
   - kulturo
