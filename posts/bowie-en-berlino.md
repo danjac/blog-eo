@@ -49,7 +49,7 @@ Bowie aĉetis apartamenton en Hauptstraße, en la okcidentberlina kvartalo Schö
 
 Ili estis arestitaj samtempe pro narkotaĵoj en Usono en 1976 dum Iggy Pop partoprenis en la turneo de Bowie _Station to Station_ kaj kiel Bowie, li venis al Berlino por resaniĝi post longa periodo da ekceso kaj turneado.
 
-La du muzikistoj foje aperis kune sur la estrado kaj foje kunlaboris: ekzemple la kanto de Bowie _China Girl_ (Ĉinino) estis skribita helpe de Iggy Pop. Laŭ unu rakonto Bowie iam ĉagreniĝis, kiam sia samapartamentano ŝtelis liajn manĝaĵojn el la fridujo. Dum tiu periodo Iggy prilaboris la albumojn _Lust for Life_ (Avido pri Vivo) kaj _Idiot_ (Stultulo), eble siajn plej konatajn kaj estimatajn verkojn.
+La du muzikistoj foje kunlaboris: ekzemple la kanto de Bowie _China Girl_ (Ĉinino) estis skribita helpe de Iggy Pop. Laŭ unu rakonto Bowie iam ĉagreniĝis, kiam sia samapartamentano ŝtelis liajn manĝaĵojn el la fridujo. Dum tiu periodo Iggy prilaboris la albumojn _Lust for Life_ (Avido pri Vivo) kaj _Idiot_ (Stultulo), eble siajn plej konatajn kaj estimatajn verkojn.
 
 Bowie ankaŭ laboris kun la muzika pioniero [Brian Eno](https://eo.wikipedia.org/wiki/Brian_Eno), kiu antaŭe membris en la bando Roxy Music sed nun laboris kun nova ondo de germanaj grupoj, eksperimentantaj pri elektronika muziko, ekzemple [Kraftwerk](https://eo.wikipedia.org/wiki/Kraftwerk) kaj [Tangerine Dream](https://eo.wikipedia.org/wiki/Tangerine_Dream). Tiuj grupoj, uzante la plej novajn sentezilojn kaj aliajn inventemajn teĥnikojn, profunde influis ne nur la verkojn de Eno kaj Bowie tiutempe sed multajn artistojn dum la sekvanta jardeko.
 
@@ -68,7 +68,7 @@ _Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere e
 
 {{ media.img("/img/Heroes.png", "Heroes (1977). Fonto: Wikipedia", width=180, height=160, class="float-right") }}
 
-  La dua kunlaboraĵo kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj muzikrevuoj NME kaj Melody Maker deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden"). La gitaristo [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) de [King Crimson](https://en.wikipedia.org/wiki/King_Crimson) ankaŭ kontribuis al la albumo. La kanto _Neuköln_, la nomo de berlina kvartalo, eble plej rekte aludas al Berlino.
+  La dua kunlaboraĵo kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj muzikrevuoj NME kaj Melody Maker deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden"). La gitaristo [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) de [King Crimson](https://en.wikipedia.org/wiki/King_Crimson) ankaŭ kontribuis al la albumo. La kanto _Neuköln_, la nomo de berlina kvartalo, eble plej rekte aludas al la urbo.
 
 Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Per ĉi tiu albumo Bowie kaj Eno iris alidirekten, sen la fortaj elektronikaj influoj de _Heroes_ kaj _Low_. Krome iom de la "tutmonda" muziko aŭdiĝas, pri kiu Brian Eno interesiĝos dum la sekvanta jardeko, kaj la albumo intermiksas ekz. mezorientajn kaj afrikajn melodiojn. Kvankam ĝi ne tiom sukcesis kiom la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
 
@@ -79,7 +79,3 @@ La tri jaroj en Berlino estis mallonga epizodo en la vivo de David Bowie, sed la
 Krom la arta influo de lia adoptita urbo, la jaroj en Berlino donis al Bowie iom da paco kaj stabileco post la freneza vivo de ekseso en Los-Anĝeleso.
 
 {{ media.img("/img/david_bowie_strasse.jpg", "David Bowie Strasse, Berlin. Fonto: tipBerlin", width=800, width=581, figure=true) }}
-
-
-
-
