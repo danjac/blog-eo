@@ -17,7 +17,7 @@ layout: layouts/post.njk
 
 > _Mi povas memori
 > Starante, apud la Muro
-> Kaj la pafiloj pafadis super niajn kapojn
+> Kaj la pafiloj pafadis super niaj kapoj
 > Kaj ni kisis, kvazaŭ nenio povus fali_
 
 _Heroes_ (Herooj), David Bowie
@@ -35,19 +35,19 @@ De 1976 ĝis 1979, [David Bowie](https://eo.wikipedia.org/wiki/David_Bowie) eldo
 
 {{ media.img("/img/Man_who_fell_to_earth.jpg", "La viro, kiu falis al la Tero. Fonto: Wikipedia", width=250, height=369, class="float-left") }}
 
-Bowie kompreneble ne parolis pri si mem, sed pri sia publika alipersono, Ziggy Stardust, kiu naskiĝis (aŭ falis al la Tero) en 1971. La juna fanoj tamen ne komprenis tion, kvankam lia morto estis profetita en la albumo de 1972, _The Rise and Fall of Ziggy Stardust and the Spiders from Mars_ (La Leviĝo kaj la Falo de Ziggy Stardust kaj la Araneoj de Marso). Sed Bowie laciĝis pri Ziggy, kaj estis jam de longe la tempo reinventi sin.
+Bowie kompreneble ne parolis pri si mem, sed pri sia publika alipersono, Ziggy Stardust, kiu naskiĝis (aŭ falis al la Tero) en 1971. La juna fanoj tamen ne komprenis tion, kvankam lia morto estis profetita en la albumo de 1972, _The Rise and Fall of Ziggy Stardust and the Spiders from Mars_ (La Leviĝo kaj la Falo de Ziggy Stardust kaj la Araneoj de Marso). Sed Bowie laciĝis pri Ziggy, kaj jam de longe tempis reinventi sin.
 
 
-Post la morto de Ziggy Stardust kaj la eldono de la albumo _Diamond Dogs_ (Diamantaj Hundoj) en Londono en 1974, Bowie translokiĝis al Los-Anĝeleso, Usono, kie li registris du albumojn, _Young Americans_ (Junaj Usonanoj) kaj _Station to Station_ (De Stacio al Stacio). Plue li rolis en filmo, ironie nomita _[The Man Who Fell to Earth](https://en.wikipedia.org/wiki/The_Man_Who_Fell_to_Earth)_ (La Viro, kiu Falis al la Tero). Malgraŭ periodo de kreema fekundeco kaj komerca sukceso, Bowie serioze ekdependiĝis de kokaino. Laŭ siaj vortoj, Bowie vivis en urbo, fifama pro sia kulturo de drog-nutrata ekceso, pri kio li malmulte memoris. Li decidis translokiĝi reen al Eŭropo por sobriĝi. Krome li estis inventinta novan alipersonon, _The Thin White Duke_ (La Maldika Blanka Duko), senemocia, faŝismeca aristokrato, kiu spegulis la kavan animon de Bowie dum ĉi tiu periodo de emocia aparteco. Nun loĝante en Berlino, kiun Bowie de longe admiris pro sia dekadenca reputacio kaj famaj artistoj, La Maldika Blanka Duko kviete emeritiĝis.
+Post la morto de Ziggy Stardust kaj la eldono de la albumo _Diamond Dogs_ (Diamantaj Hundoj) en Londono en 1974, Bowie translokiĝis al Los-Anĝeleso, Usono, kie li eldonis du albumojn, _Young Americans_ (Junaj Usonanoj) kaj _Station to Station_ (De Stacio al Stacio). Plue li rolis en filmo, ironie nomita _[The Man Who Fell to Earth](https://en.wikipedia.org/wiki/The_Man_Who_Fell_to_Earth)_ (La Viro, kiu Falis al la Tero). Malgraŭ periodo de kreema fekundeco kaj komerca sukceso, Bowie serioze ekdependiĝis de kokaino. Laŭ siaj vortoj, Bowie vivis en urbo, fifama pro sia kulturo de drog-nutrata ekceso, pri kio li malmulte memoris. Li decidis translokiĝi reen al Eŭropo por sobriĝi. Krome li estis inventinta novan alipersonon, _The Thin White Duke_ (La Maldika Blanka Duko), senemocia, faŝismeca aristokrato, kiu spegulis la kavan animon de Bowie dum ĉi tiu periodo de emocia aparteco. Nun loĝante en Berlino, kiun Bowie de longe admiris pro sia dekadenca reputacio kaj famaj artistoj, La Maldika Blanka Duko kviete emeritiĝis.
 
 ## Kunlaborantoj: Iggy Pop kaj Brian Eno
 
 
 {{ media.img("/img/brian_eno.jpg", "Brian Eno, 1977. Fonto: Ritva Saarikko/Wikipedia", width=234, height=333, class="float-right")}}
 
-Bowie aĉetis apartamenton en Hauptstraße, en la okcidentberlina kvartalo Schöneberg, kaj loĝis tie dum tri jaroj. Li apenaŭ ornamis la ĉambrojn, kiuj restis malplenaj je mebloj dum lia loĝado. En la sama apartamento iomtempe loĝis la fama punkrokisto kaj eksmembro de la bando la Stooges, [Iggy Pop](https://eo.wikipedia.org/wiki/Iggy_Pop). Li poste luis propran apartamenton en la sama konstruaĵo.
+Bowie aĉetis apartamenton en Hauptstraße, en la okcidentberlina kvartalo Schöneberg, kaj loĝis tie dum tri jaroj. Li apenaŭ ornamis la ĉambrojn, kiuj restis malplenaj je mebloj dum lia loĝado. En la sama apartamento iomtempe loĝis la fama punkrokisto kaj eksmembro de la bando la Stooges, [Iggy Pop](https://eo.wikipedia.org/wiki/Iggy_Pop). Iggy Pop poste luis propran apartamenton en la sama konstruaĵo.
 
-Ili estis arestitaj samtempe pro narkotaĵoj en Usono en 1976 dum Iggy Pop partoprenis en la turneo de Bowie _Station to Station_ kaj kiel Bowie, li venis al Berlino por resaniĝi post longa periodo da ekceso kaj turneado.
+En 1976 ili estis arestitaj samtempe pro narkotaĵoj en Usono dum Iggy Pop partoprenis en la turneo _Station to Station_ de Bowie kaj li ankaŭ venis al Berlino por resaniĝi post longa periodo da ekceso kaj turneado.
 
 La du muzikistoj foje kunlaboris: ekzemple la kanto de Bowie _China Girl_ (Ĉinino) estis skribita helpe de Iggy Pop. Laŭ unu rakonto Bowie iam ĉagreniĝis, kiam sia samapartamentano ŝtelis liajn manĝaĵojn el la fridujo. Dum tiu periodo Iggy prilaboris la albumojn _Lust for Life_ (Avido pri Vivo) kaj _Idiot_ (Stultulo), eble siajn plej konatajn kaj estimatajn verkojn.
 
@@ -60,15 +60,15 @@ Bowie ankaŭ laboris kun la muzika pioniero [Brian Eno](https://eo.wikipedia.org
 
 {{ media.img("/img/Hansa2.jpg", "Registrejo Hansa, Berlino. Fonto: tipBerlin", width=800, height=597, figure=true) }}
 
-Bowie kaj Eno kune registris tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo" aŭ laŭ la vorto de Bowie mem, la **Triptiko**. La unua el la "Berlinaj albumoj" estis _Low_ (Malalta).
+Bowie kaj Eno kune eldonis tri albumojn de 1976 ĝis 1979, kiujn oni ofte nomas la "Berlina Triologo" aŭ laŭ la vorto de Bowie mem, la **Triptiko**. La unua el la "Berlinaj albumoj" estis _Low_ (Malalta).
 
 {{ media.img("/img/Low_(album).jpg", "Low (1976). Fonto: Wikipedia", width=180, height=160, class="float-left") }}
 
-_Low_ elmontras tiujn influojn de la germana elektronika sceno, kaj sammaniere eksperimentas pri elektronikaj kaj fonaj avangardaj sonoj, danke al la kreemo de Eno kaj la novaj instrumentoj de la periodo. La kovrilo de la albumo fakte bildigas Bowie en la filmo _The Man Who Fell to Earth_. Kvankam la eldonejo RCA unue rifuzis publikigi la albumon pro timo pri komerca malsukceso, ĝi fine ne nur komerce sukcesis, sed hodiaŭ estas konsiderata unu el la plej bonaj verkoj de Bowie.
+_Low_ elmontras influojn de la germana elektronika sceno, kaj sammaniere eksperimentas pri elektronikaj kaj fonaj avangardaj sonoj, danke al la kreemo de Eno kaj la novaj instrumentoj de la periodo. La kovrilo de la albumo fakte bildigas Bowie en la antaŭemenciita filmo _The Man Who Fell to Earth_. Kvankam la eldonejo RCA unue rifuzis publikigi la albumon pro timo pri komerca malsukceso, ĝi fine ne nur komerce sukcesis, sed hodiaŭ estas konsiderata unu el la plej bonaj verkoj de Bowie.
 
 {{ media.img("/img/Heroes.png", "Heroes (1977). Fonto: Wikipedia", width=180, height=160, class="float-right") }}
 
-  La dua kunlaboraĵo kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj muzikrevuoj NME kaj Melody Maker deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, kaj havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden"). La gitaristo [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) de [King Crimson](https://en.wikipedia.org/wiki/King_Crimson) ankaŭ kontribuis al la albumo. La kanto _Neuköln_, la nomo de berlina kvartalo, eble plej rekte aludas al la urbo.
+  La dua kunlaboraĵo kun Eno, _Heroes_ (Herooj) plie sukcesis: la britaj muzikrevuoj NME kaj Melody Maker deklaris la albumon la plej bona de 1977. _Heroes_ havas similajn elektronikajn influojn kiel la antaŭa albumo, sed ankaŭ havas pli tradiciajn rok-kantojn. Ĝi enhavas la faman samnoman kanton, kiun Bowie iam kantis germane ("Helden"). La gitaristo [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) de [King Crimson](https://en.wikipedia.org/wiki/King_Crimson) ankaŭ kontribuis al la albumo. La kanto _Neuköln_, la nomo de berlina kvartalo, eble plej rekte aludas al la urbo.
 
 Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de la triliogio, _Lodger_ (La Luanto) (1979) estis fakte produktita en Svislando kaj Novjorko. Per ĉi tiu albumo Bowie kaj Eno iris alidirekten, sen la fortaj elektronikaj influoj de _Heroes_ kaj _Low_. Krome iom de la "tutmonda" muziko aŭdiĝas, pri kiu Brian Eno interesiĝos dum la sekvanta jardeko, kaj la albumo intermiksas ekz. mezorientajn kaj afrikajn melodiojn. Kvankam ĝi ne tiom sukcesis kiom la aliaj du "berlinaj" albumoj, hodiaŭ oni tamen taksas ĝin subestimata.
 
@@ -76,6 +76,6 @@ Kvankam la lastaj du albumoj estis registritaj en la Berlina studio, la lasta de
 
 La tri jaroj en Berlino estis mallonga epizodo en la vivo de David Bowie, sed la verkoj kiuj publikiĝis dum tiu periodo montriĝis tre influa kaj estimata, kvankam ili ne komerce ne tiom sukcesis, kiom liaj antaŭaj kaj postaj periodoj. Pli junaj artistoj, kiel Joy Division kaj Gary Numan konsideris la kantojn de la "Triptiko" aparte granda influo.
 
-Krom la arta influo de lia adoptita urbo, la jaroj en Berlino donis al Bowie iom da paco kaj stabileco post la freneza vivo de ekseso en Los-Anĝeleso.
+Krom la arta influo de lia adoptita urbo, la jaroj en Berlino donis al Bowie iom da paco kaj stabileco post la freneza kaj eksesa vivo en Los-Anĝeleso.
 
 {{ media.img("/img/david_bowie_strasse.jpg", "David Bowie Strasse, Berlin. Fonto: tipBerlin", width=800, width=581, figure=true) }}
