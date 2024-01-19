@@ -24,5 +24,6 @@ En 1882 usona kongresano el ŝtato Minasoto Ignatius Donnelly eldonis strangan l
 
 Laŭ Donnolly, en sia libro _The Antidiluvian World_ (la Antaŭdiluva Mondo), Atlantido estis kontinento, kiu situis meze de la Atlanta Oceano. Sur tiu insulo homaro disvolvis la unuan civilizacion. Post ia katastrofo, la insulo kaj civilizatio detruiĝis, kvankam la travivintoj elmigris al Afriko, Ameriko kaj Eŭropo, kaj fondis la antikvajn civilizatiojn de Egiptujo, Meksiko ktp. Niaj dioj kaj mitoj eĥas realajn eventojn kaj personojn de Atlantido.
 
-La verko de Donnolly spegulas la sintenojn kaj ideojn de la 19-a jarcento pri rasoj kaj gentoj. La "mastraj rasoj" devenis de Atlantido, kaj poste enmiksiĝis kun la malpli inteligentaj rasoj de aliaj kontinentoj. Kvankam li estis politike progresema, tiuj ideoj bedaŭrinde daŭros ĝis nia epoko, kaj estis popularaj inter la naziaj estroj, ekz. Heinrich Himmler.
+La verko de Donnolly spegulas la sintenojn kaj ideojn de la 19-a jarcento pri rasoj kaj gentoj. La "mastraj rasoj" devenis de Atlantido, kaj poste enmiksiĝis kun la malpli inteligentaj rasoj de aliaj kontinentoj.
+
 
