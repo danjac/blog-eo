@@ -24,6 +24,37 @@ En 1882 usona kongresano el ŝtato Minasoto Ignatius Donnelly eldonis strangan l
 
 Laŭ Donnolly, en sia libro _The Antidiluvian World_ (la Antaŭdiluva Mondo), Atlantido estis kontinento, kiu situis meze de la Atlanta Oceano. Sur tiu insulo homaro disvolvis la unuan civilizacion. Post ia katastrofo, la insulo kaj civilizatio detruiĝis, kvankam la travivintoj elmigris al Afriko, Ameriko kaj Eŭropo, kaj fondis la antikvajn civilizatiojn de Egiptujo, Meksiko ktp. Niaj dioj kaj mitoj eĥas realajn eventojn kaj personojn de Atlantido.
 
-La verko de Donnolly spegulas la sintenojn kaj ideojn de la 19-a jarcento pri rasoj kaj gentoj. La "mastraj rasoj" devenis de Atlantido, kaj poste enmiksiĝis kun la malpli inteligentaj rasoj de aliaj kontinentoj.
+La verko naskis longan intereson pri la perdita kontinento, kiu daŭras ĝis hodiaŭ, en pluraj filmoj, komiksoj kaj eĉ vidludoj, ekzemple en la serio _Tomb Raider_ (Tomborabistino). En siaj rakontoj J.R.R Tolkein, verkinto de _Hobito_ kaj _La Mastro de la Ringoj_, priskribas la falon de Númenor, insulo meze de la oceano. Post la inundego kiu detruas la insulon, la travivintoj elmigras al Meza-Tero kaj fondas la homajn regnojn.
+
+Oni konsideru la Antaŭdiluvan Mondon la naskiĝon de moderna pseŭdohistorio, specife la ideo, ke iam ekzistis altnivela tutmonda civilizacio dum la neolitika epoko, kiu influis la pli junajn civilizatiojn de la Bronza Epoko, ekzemple la egiptojn kaj sumerojn. La ideo ne estas tute sensenca. En 1994 arĥeologoj malkovris [Göbekli Tepe](https://eo.wikipedia.org/wiki/G%C3%B6bekli_Tepe), kolekton de ŝtonpilieroj, konstruitaj kaj gravuritaj antaŭ proksimume 12.000 jaroj - dum la lasta Glaciepoko! Oni supozis ke tiam estis nur migrantaj triboj, sen organizado kaj motivoj por konstrui grandajn templojn kaj aliajn konstruaĵojn, ĝis la invento de agrikulturo ebligis pli altnivelajn sociojn kaj sufiĉe grandajn populaciojn.
+
+Do ĉu eblas, ke ekzistas Atlantido? Eble ne la insulo aŭ kontinento, kiun priskribas Donnolly kaj Platono, sed ia antikva malaperinta civilizacio? La urbo Trojo estis nur legendo, ĝis Heinrich Schliemann malkovris ĝiajn ruinojn en 1871. Se Atlantido ekzistas, kiuj estas la plej eblaj kandidatoj? Ni rigardu iujn el ili.
+
+https://en.wikipedia.org/wiki/Location_hypotheses_of_Atlantis
+
+## Orienta Mediteraneo
+
+En 1600 aKr la insulo Thera aŭ Santorini ekplodis, kiam la vulkano erupciis. La erupcio kaŭzis cunamon, kiu detruis setlejojn sur najbaraj insuloj. Eble la detruado sufiĉis, por faligi la minoan civilizacion.
+
+## Okidenta Mediteraneo
+
+## Nigra Maro
+
+## Altanta Oceano
+
+## Britujo kaj Irlando
+
+## Norda Maro
+
+## Skandinavio
+
+## Norda/Suda Ameriko
+
+## Antarktiko
+
+
+
+
+
 
 
