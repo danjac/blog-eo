@@ -46,7 +46,7 @@ Okultuloj tamen inventis siajn teoriojn pri Lemurio, precipe la ukraina mediumo 
 
 ## Taŭgaj Kandidatoj
 
-Do ĉu eblas, ke ekzistas Atlantido? Eble ne la insulo aŭ kontinento, kiun priskribas Donnolly kaj Platono, sed ia antikva malaperinta civilizacio? La urbo Trojo estis nur legendo, ĝis Heinrich Schliemann malkovris ĝiajn ruinojn en 1871. Se Atlantido ekzistus, kiu estus la plej taŭga loko? Ni rigardu iujn el la pli eblaj kandidatoj.
+Do ĉu eblas, ke ekzistas Atlantido? Eble ne precize la insulo aŭ kontinento, kiun priskribas Donnolly kaj Platono, sed ia antikva malaperinta civilizacio? La urbo Trojo estis nur legendo, ĝis Heinrich Schliemann malkovris ĝiajn ruinojn en 1871. Se Atlantido ekzistus, kiu estus la plej taŭga loko? Ni rigardu iujn el la pli eblaj kandidatoj.
 
 https://en.wikipedia.org/wiki/Location_hypotheses_of_Atlantis
 
@@ -69,6 +69,8 @@ La Nigra Maro estas malproksima de la Atlanta Oceano, sed en iuj aspektoj eble t
 La "Okulo de la Saĥaro" aŭ Riŝat en Maŭritanio estas interesa kandidato. Platono skribis, ke la urbo ĉe la centro de Atlantido konsistas el samcentraj cirklaj kanaloj. De orbito, la strukturo aspektas giganta okulo. Geologoj kredas, ke estas tute natura fenomeno. Certe antaŭ 9000 jaroj homoj vivis tie kaj troviĝis evidentaĵoj pri homaj loĝejoj kaj iloj. La saĥaro tiutempe ne estis seka dezerto, sed fekunda stepo, taŭga loko por civilizacio.
 
 Alia loko estas la Azoroj aŭ la Kanarioj, kiujn iuj taksas la pintoj de pli granda sinkinta insulo. Ne estas tamen sufiĉe da evidentaĵoj por subteni la teorion.
+
+## Fantaziaj Kandidatoj
 
 ### Norda Eŭropo
 
