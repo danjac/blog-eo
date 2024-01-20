@@ -55,7 +55,7 @@ La verko naskis longan intereson pri la perdita kontinento, kiu daŭras ĝis hod
 
 Oni konsideru la Antaŭdiluvan Mondon la naskiĝon de moderna pseŭdohistorio, specife la ideo, ke iam ekzistis altnivela tutmonda civilizacio dum la neolitika epoko, kiu influis la pli junajn civilizatiojn de la Bronza Epoko, ekzemple la egiptojn kaj sumerojn. La ideo ne estas tute galimatia. En 1994 arĥeologoj malkovris [Göbekli Tepe](https://eo.wikipedia.org/wiki/G%C3%B6bekli_Tepe), kolekton de ŝtonpilieroj en Turkujo, konstruitaj kaj gravuritaj per kompleksaj figuroj pri bestoj kaj homoj antaŭ proksimume 12.000 jaroj - dum la lasta Glaciepoko! Oni supozis ke tiam eksistis nur migrantaj triboj, sen organizado, populacio kaj motivoj por konstrui grandajn templojn kaj aliajn konstruaĵojn, ĝis la invento de agrikulturo ebligis sufiĉe grandajn populaciojn por subteni altnivelajn civilizatiojn. Verŝajne eksistas multe da ankoraŭ malkaŝotaj evidentaĵoj kiel Göbekli Tepe, kiuj cedos pli da sekretoj pri malaperintaj neolitikaj civilizacioj.
 
-{{ media.img("/img/Göbekli_Tepe.jpg", "Göbekli_Tepe. Fonto: wikipedia", width=800, height=600, figure=true) }}
+{{ media.img("/img/Göbekli_Tepe.jpg", "Göbekli Tepe. Fonto: Wikipedia", width=800, height=600, figure=true) }}
 
 ## Azia Atlantido: Lemurio
 
@@ -69,33 +69,36 @@ Okultuloj tamen inventis siajn teoriojn pri Lemurio, precipe la ukraina mediumo 
 
 ### Kredeblaj Kandidatoj
 
-Do ĉu eblas, ke ekzistas Atlantido? Eble ne precize la insulo aŭ kontinento, kiun priskribas Donnolly kaj Platono, sed ia antikva malaperinta civilizacio? La urbo Trojo estis nur legendo, ĝis Heinrich Schliemann malkovris ĝiajn ruinojn en 1871. Se Atlantido ekzistus, kiu estus la plej taŭga loko? Ni rigardu iujn el la pli eblaj kandidatoj.
-
-https://en.wikipedia.org/wiki/Location_hypotheses_of_Atlantis
+Do ĉu eblas, ke ekzistas Atlantido? Eble ne precize la insulo aŭ kontinento, kiun priskribas Donnolly kaj Platono, sed ia antikva malaperinta civilizacio? La urbo Trojo estis nur legendo, ĝis [Heinrich Schliemann](https://eo.wikipedia.org/wiki/Heinrich_Schliemann) malkovris ĝiajn ruinojn en 1871. Se Atlantido ekzistus, kiu estus la plej taŭga loko? Ni rigardu iujn el la pli eblaj kandidatoj.
 
 #### Mediteraneo
 
-En 1600 aKr la insulo Thera aŭ Santorini ekplodis, kiam la vulkano erupciis. La erupcio kaŭzis cunamon, kiu detruis setlejojn sur najbaraj insuloj. Eble la detruado sufiĉis, por faligi la minoan civilizacion.
+En 1600 aKr la insulo [Santorino](https://eo.wikipedia.org/wiki/Santorino) (tiam nomite Thera) detruiĝis, kiam ties vulkano erupciis. La erupcio kaŭzis cunamon, kiu detruis setlejojn sur najbaraj insuloj. Eble la detruado sufiĉis, por faligi la minoan civilizacion.
 
-Iuj arĥeologoj kredas, ke eblaj kandidatoj en ĉi tiu regiono estas alia efektiva historia loko en orienta Mediteraneo: ekzemple Trojo aŭ Kreto.
+Alia kandidato en la orienta Mediteraneo estas Trojo, kiu estis detruita de la grekoj post la fama sieĝo. Sed estis pli granda katastrofo kiu pli eble postlasis mitojn kaj spurojn pri malaparinta civilizacio.
 
-Je la fino de la Bronza Epoko ĉirkaŭ 1200 aKr, la civilizacioj de la regiono tute kolapsis (krom Egiptujo). Estas multaj tezoj pri la disfalo, ekzemple natura klimatoŝanĝiĝado. Unu kaŭzo aŭ rezulto de la disfalo estis misteraj "Maraj Popoloj", kiuj invadis la marbordojn de la bronzepokaj marbordoj kaj detruis la urbojn kaj regnojn. Eble Platono iom sciis pri tiu Bronzepoka Kolapso, sed pro manko de skribitaj registroj de tiu tempo nur eraris pri la dato kaj loko. Ĉar Egiptujo estis la sola regno, kiu pluvivis post la disfalo, rakontoj pri tio ankaŭ iuforme prezerviĝis tie.
+Je la fino de la Bronza Epoko ĉirkaŭ 1200 aKr, la civilizacioj de la regiono tute [kolapsis](https://eo.wikipedia.org/wiki/Bronzepoka_kolapso) (krom Egiptujo). Estas multaj tezoj pri la disfalo, ekzemple natura klimatoŝanĝiĝado. Unu kaŭzo aŭ rezulto de la disfalo estis misteraj "Maraj Popoloj", kiuj invadis la marbordojn de la bronzepokaj marbordoj kaj detruis la urbojn kaj regnojn. Eble Platono iom sciis pri tiu Bronzepoka Kolapso, sed pro manko de skribitaj registroj de tiu tempo nur eraris pri la dato kaj loko. Ĉar Egiptujo estis la sola regno, kiu pluvivis post la disfalo, rakontoj pri tio ankaŭ iaforme persistis tie.
 
 Laŭ iuj teorioj eblaj lokoj en okcidenta Mediteraneo estas Hispanujo, Malto aŭ Sardinujo. Ne surprizas, ke apogantoj de tiaj teorioj devenas mem de tiuj lokoj, eble por allogi scivolemajn turistojn.
 
 #### Nigra Maro
 
-La Nigra Maro estas malproksima de la Atlanta Oceano, sed en iuj aspektoj eble taŭgas kiel kandidato por Atlantido. Dum la lasta Glaciepoko la maro estis seka ebeno.  Oni iam trovas evidentaĵoj pri homoj, kiuj prosperis sur ties fekunda grundo. Kiam la glaĉeroj fandiĝis je la fino de la Glaciepoko, la ebeno inundiĝis kaj la loĝantoj fuĝis al Eŭropo kaj Mezoriento.
+La Nigra Maro estas malproksima de la Atlanta Oceano, sed en iuj aspektoj eble taŭgas kiel kandidato por Atlantido. Ĝis 5500 aKr. la maro estis seka ebenaĵo.  Oni iam trovas evidentaĵoj pri homoj, kiuj prosperis sur ties fekunda grundo. Kiam la marnivelo leviĝis, la ebeno inundiĝis kaj la loĝantoj fuĝis al Eŭropo kaj Mezoriento.
 
 #### Altanta Oceano
 
-La "Okulo de la Saĥaro" aŭ Riŝat en Maŭritanio estas interesa kandidato. Platono skribis, ke la urbo ĉe la centro de Atlantido konsistas el samcentraj cirklaj kanaloj. De orbito, la strukturo aspektas giganta okulo, kiu konistas el ringoj, similaj al la cirklaj kanaloj de la Platona Atlantido. Geologoj kredas, ke estas tute natura fenomeno. Certe antaŭ 9000 jaroj homoj vivis tie kaj troviĝis evidentaĵoj pri homaj loĝejoj kaj iloj. La saĥaro tiutempe ne estis seka dezerto, sed fekunda stepo, taŭga loko por civilizacio.
+{{ media.img("/img/richat.jpg", "Riŝat", width=220, height=121, class="float-left") }}
+
+La "Okulo de la Saharo" aŭ Riŝat en [Maŭritanio](https://eo.wikipedia.org/wiki/Ma%C5%ADritanio) estas interesa kandidato. Platono skribis, ke la urbo ĉe la centro de Atlantido konsistas el samcentraj cirklaj kanaloj. De orbito, la strukturo aspektas giganta okulo, kiu konistas el ringoj, similaj al la cirklaj kanaloj de la Platona Atlantido. Geologoj kredas, ke estas tute natura fenomeno. Certe antaŭ 9000 jaroj homoj vivis tie kaj troviĝis evidentaĵoj pri homaj loĝejoj kaj iloj. Saharo tiutempe ne estis seka dezerto, sed fekunda stepo, taŭga loko por civilizacio.
 
 Alia loko estas la Azoroj aŭ la Kanarioj, kiujn iuj taksas la pintoj de pli granda sinkinta insulo. Ne estas tamen sufiĉe da evidentaĵoj por subteni la teorion.
 
 #### Norda Eŭropo
 
-Kiel la Nigra Maro, iam ekzistis seka regiono en la Norda Maro, nun tute subakva, Doggerland. Ni scias, ke iam ĉirkaŭ 6200 aKr tiu tero estis inundigita de cunamo post disfalo de la norvega marbordo. Foje fiŝkaptboatoj ĉerpas evidentaĵojn pri homoj, kiuj vivis sur Doggerland, ekzemple sagpintojn.
+{{ media.img("/img/doggerland.png", "Doggerland", width=250, height=275, class="float-right") }}
+
+Kiel la Nigra Maro, iam ekzistis seka regiono en la Norda Maro, nun tute subakva, [Doggerland](https://eo.wikipedia.org/wiki/Doggerland). Ni scias, ke iam ĉirkaŭ 6200 aKr tiu tero estis inundigita de cunamo post disfalo de la norvega marbordo. Foje fiŝkaptboatoj ĉerpas evidentaĵojn pri homoj, kiuj vivis sur Doggerland, ekzemple sagpintojn.
+
 
 Iuj libroj tezas, ke Atlantido ekzistis ie en la Britaj Insuloj, ekzemple en Irlando aŭ Kornvalo. La teoriojn eble subtenas lokaj mitoj, sed estas neniaj evidentaĵoj pri Atlantido malgraŭ la abundeco de prahistoriaj konstruaĵoj kaj arĥeologiaj fosejoj tra la insuloj.
 
