@@ -110,13 +110,16 @@ Pli nekredeblajn kandidatojn proponas pseŭdohistoriistoj, ofte sen iaj evidenta
 
 #### Amerikoj
 
+{{ media.img("/img/bimini.jpg", "Insulo Bimini", width=220, height=220, class="float-right") }}
+
 Ek de Kolombo renvenis de sia vojaĝo kun informoj pri la Nova Mondo, oni ofte kredas ke la Atlantido de Platono estis fakte en Norda aŭ Suda Ameriko. La aztekoj kaj majaoj konstruis piramidojn, similajn al tiuj de Egiptujo: ĉu tio ne evidentas, ke Atlantido troviĝis sur la orienta amerika marbordo, aŭ ties travivintoj migris tien?
 
 Pli lastatempe oni malkovris la "Vojo de Bimini": subakvaj kolonoj proksime al la Bahamoj. La kalkŝtonaj pilieroj aspektas artefaritaj, kaj rapide teorio naskiĝis, ke la kolonoj estis evidentaĵo, ke Atlantido situis en la Karbeo. La pozicio de Bimini en la "Bermuda Triangolo" certe helpas pri ĝia populareco en la pseŭdosciencia kaj okultisma komunumoj. Malfeliĉe la pilieroj montriĝis tute naturaj.
 
+
 #### Antarktiko
 
-Eble la malplej ebla kaj plej fantazia loko de Atlantido estas la sudpolusa kontinento Antarktiko. Antarktiko, la lasta kontinento, kiun homaro malkovris, delonge okupas la imagon de verkistoj, ekzemple _The Mountains of Madness_ (La Montoj de Frenezo) de H.P. Lovecraft, kie esploristoj malkovras eksterterajn terurojn. La mapo de Piri Reis, 16-jarcenta turka navigisto, montras (laŭ kelkaj kredantoj) la marbordon de Antarktiko, do oni supozas ke iuj sciis ties ekzisto antaŭ ĝia malkovro en la 19-a jarcento. Laŭ randeca teorio, la krusto de la Tero moviĝas rapide super la suba lafo, do Antarktiko iam troviĝis pli norde, so estis varma kaj fekunda kontinento, sur kiu homa civilizacio prosperis. Tiun teorion apogas interalie la pseŭdohistoria famulo Graham Hancock.
+Eble la malplej ebla kaj plej fantazia loko de Atlantido estas la sudpolusa kontinento Antarktiko. Antarktiko, la lasta kontinento, kiun homaro malkovris, delonge okupas la imagon de verkistoj kaj esploristoj. La mapo de [Piri Reis](https://eo.wikipedia.org/wiki/Mapo_de_Piri_Reis), 16-jarcenta turka navigisto, montras (laŭ kelkaj kredantoj) la marbordon de Antarktiko, do oni supozas ke iuj sciis ties ekzisto antaŭ ĝia malkovro en la 19-a jarcento. Laŭ randeca teorio, la krusto de la Tero moviĝas rapide super la suba lafo, do Antarktiko iam troviĝis pli norde, so estis varma kaj fekunda kontinento, sur kiu homa civilizacio prosperis. Tiun teorion apogas interalie la pseŭdohistoria famulo [Graham Hancock](https://eo.wikipedia.org/wiki/Graham_Hancock).
 
 ## Konkludo
 
