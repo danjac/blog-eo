@@ -44,13 +44,15 @@ En 1864 zoologo Philip Sclater hipotezis pri dua "malaperinta kontinento", kiu t
 
 Okultuloj tamen inventis siajn teoriojn pri Lemurio, precipe la ukraina mediumo Helena Blavacki, la fondinto de la Teozofa Societo. Ŝi skribis, ke Lemurio estis la hejmo de la "radikaj" rasoj, inkluzive de (kompreneble) la arjoj. Post intermiksado kun la "subaj" rasoj, la civilizacio dekandenciĝis kaj detruiĝis. Tia pensado estis bedaŭrinde tipa eŭropcentreca opiniado de la 19-a jarcento.
 
-## Taŭgaj Kandidatoj
+## Atlantidaj Kandidatoj
+
+### Kredeblaj Kandidatoj
 
 Do ĉu eblas, ke ekzistas Atlantido? Eble ne precize la insulo aŭ kontinento, kiun priskribas Donnolly kaj Platono, sed ia antikva malaperinta civilizacio? La urbo Trojo estis nur legendo, ĝis Heinrich Schliemann malkovris ĝiajn ruinojn en 1871. Se Atlantido ekzistus, kiu estus la plej taŭga loko? Ni rigardu iujn el la pli eblaj kandidatoj.
 
 https://en.wikipedia.org/wiki/Location_hypotheses_of_Atlantis
 
-### Mediteraneo
+#### Mediteraneo
 
 En 1600 aKr la insulo Thera aŭ Santorini ekplodis, kiam la vulkano erupciis. La erupcio kaŭzis cunamon, kiu detruis setlejojn sur najbaraj insuloj. Eble la detruado sufiĉis, por faligi la minoan civilizacion.
 
@@ -60,20 +62,30 @@ Je la fino de la Bronza Epoko ĉirkaŭ 1200 aKr, la civilizacioj de la regiono t
 
 Laŭ iuj teorioj eblaj lokoj en okcidenta Mediteraneo estas Hispanujo, Malto aŭ Sardinujo. Ne surprizas, ke apogantoj de tiaj teorioj devenas mem de tiuj lokoj, eble por allogi scivolemajn turistojn.
 
-### Nigra Maro
+#### Nigra Maro
 
-La Nigra Maro estas malproksima de la Atlanta Oceano, sed en iuj aspektoj eble taŭgas kiel kandidato por Atlantido. Dum la lasta Glaciepoko la maro estis seka ebeno.  Oni iam trovas evidentaĵoj pri homoj, kiuj prosperis sur ties fekunda tero. Kiam la glaĉeroj fandiĝis je la fino de la Glaciepoko, la ebeno inundiĝis kaj la loĝantoj fuĝis al Eŭropo kaj Mezoriento.
+La Nigra Maro estas malproksima de la Atlanta Oceano, sed en iuj aspektoj eble taŭgas kiel kandidato por Atlantido. Dum la lasta Glaciepoko la maro estis seka ebeno.  Oni iam trovas evidentaĵoj pri homoj, kiuj prosperis sur ties fekunda grundo. Kiam la glaĉeroj fandiĝis je la fino de la Glaciepoko, la ebeno inundiĝis kaj la loĝantoj fuĝis al Eŭropo kaj Mezoriento.
 
-### Altanta Oceano
+#### Altanta Oceano
 
-La "Okulo de la Saĥaro" aŭ Riŝat en Maŭritanio estas interesa kandidato. Platono skribis, ke la urbo ĉe la centro de Atlantido konsistas el samcentraj cirklaj kanaloj. De orbito, la strukturo aspektas giganta okulo. Geologoj kredas, ke estas tute natura fenomeno. Certe antaŭ 9000 jaroj homoj vivis tie kaj troviĝis evidentaĵoj pri homaj loĝejoj kaj iloj. La saĥaro tiutempe ne estis seka dezerto, sed fekunda stepo, taŭga loko por civilizacio.
+La "Okulo de la Saĥaro" aŭ Riŝat en Maŭritanio estas interesa kandidato. Platono skribis, ke la urbo ĉe la centro de Atlantido konsistas el samcentraj cirklaj kanaloj. De orbito, la strukturo aspektas giganta okulo, kiu konistas el ringoj, similaj al la cirklaj kanaloj de la Platona Atlantido. Geologoj kredas, ke estas tute natura fenomeno. Certe antaŭ 9000 jaroj homoj vivis tie kaj troviĝis evidentaĵoj pri homaj loĝejoj kaj iloj. La saĥaro tiutempe ne estis seka dezerto, sed fekunda stepo, taŭga loko por civilizacio.
 
 Alia loko estas la Azoroj aŭ la Kanarioj, kiujn iuj taksas la pintoj de pli granda sinkinta insulo. Ne estas tamen sufiĉe da evidentaĵoj por subteni la teorion.
 
-## Fantaziaj Kandidatoj
+#### Norda Eŭropo
 
-### Norda Eŭropo
+Kiel la Nigra Maro, iam ekzistis seka regiono en la Norda Maro, nun tute subakva, Doggerland. Ni scias, ke iam ĉirkaŭ 6200 aKr tiu tero estis inundigita de cunamo post disfalo de la norvega marbordo. Foje fiŝkaptboatoj ĉerpas evidentaĵojn pri homoj, kiuj vivis sur Doggerland, ekzemple sagpintojn.
 
-### Amerikoj
+Iuj libroj tezas, ke Atlantido ekzistis ie en la Britaj Insuloj, ekzemple en Irlando aŭ Kornvalo. La teoriojn eble subtenas lokaj mitoj, sed estas neniaj evidentaĵoj pri Atlantido malgraŭ la abundeco de prahistoriaj konstruaĵoj kaj arĥeologiaj fosejoj tra la insuloj.
 
-### Antarktiko
+Malpli kredeblaj kandidatoj situas en Skandinavio: en 1679 Olaus Rudbeck skribis, ke Atlantido situas en la sveda urbo Uppsala, proksima de la ĉefurbo Stokholmo.
+
+### Fantaziaj Kandidatoj
+
+Pli nekredeblajn kandidatojn proponas pseŭdohistoriistoj, ofte sen iaj evidentaĵoj aŭ pro geologiaj aŭ arĥeologiaj teorioj, kiujn la plejmulte de sciencistoj ne kredas.
+
+#### Amerikoj
+
+#### Antarktiko
+
+## Konkludo
