@@ -38,7 +38,7 @@ Pro tiuj detaloj kaj la influo de Platono sur la okcidentaj intelektoj, de longa
 {{ media.img("/img/atlantis_map.jpg", "Mapo de Atlantido, 1669. Fonto: Wikipedia", width=440, height=293, figure=true) }}
 
 
-La plej elstaraj ekzemploj estas la _Utopio_ de [Thomas More](https://eo.wikipedia.org/wiki/Thomas_More) kaj _Nova Atlantido_ de [Francis Bacon](https://eo.wikipedia.org/wiki/Francis_Bacon) en la 15-a kaj 16-a jarcentoj, kiu, kiel la dialogoj de Platono, temis kaj pri metaforaj lokoj por la diskutado pri filozofaj kaj politikaj temoj, kaj pri fantaziaj priskriboj pri mirinda, sed eble reala, loko.
+La plej elstaraj ekzemploj estas la _Utopio_ de [Thomas More](https://eo.wikipedia.org/wiki/Thomas_More) kaj _Nova Atlantido_ de [Francis Bacon](https://eo.wikipedia.org/wiki/Francis_Bacon) en la 15-a kaj 16-a jarcentoj, kiu, kiel la dialogoj de Platono, estis kaj metafora diskutado pri filozofaj kaj politikaj temoj, kaj fantaziaj priskriboj pri mirindaj, eble realaj, lokoj.
 
 
 ## Altantido en la Moderna Epoko
