@@ -1,5 +1,5 @@
 ---
-title: Altantido
+title: Atlantido
 description: La perdita kontinento ĉiam retroviĝas
 date: 2024-01-21
 tags:
