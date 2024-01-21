@@ -59,7 +59,7 @@ La ideo ne estas tute galimatia. En 1994 arĥeologoj malkovris [Göbekli Tepe](h
 
 {{ media.img("/img/Göbekli_Tepe.jpg", "Göbekli Tepe. Fonto: Wikipedia", width=800, height=600, figure=true) }}
 
-## Azia Atlantido: Lemurio
+## La Azia Atlantido: Lemurio
 
 En 1864 zoologo Philip Sclater hipotezis pri dua "malaperinta kontinento", kiu troviĝis inter Afriko kaj Azio. Sclater miris, kial ostoj de lemuroj troviĝis en Barato kaj Madagaskaro, sed ne en Afriko. Do laŭ lia teorio, ekzistis kontinento inter Madagaskaro kaj la barata marbordo, kie la praparencoj de lemuroj vivis, kaj tiu kontinento sinkis sub la Baratan oceanon. Li nomis la kontinenton ["Lemurio"](https://eo.wikipedia.org/wiki/Lemurio_\(kontinento\)) pro tiuj lemuraj ostoj. La teorio estis malpruvita en la 20-a jarcento post la malkovro pri Kontinenta Drivo: Madagaskaro iam apartenis al la barata subkontinento, sed apartiĝis kaj drivis al la orientafrika marbordo.
 
