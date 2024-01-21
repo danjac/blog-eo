@@ -41,7 +41,7 @@ Pro tiuj detaloj kaj la influo de Platono sur la okcidentaj intelektoj, de longa
 La plej elstaraj ekzemploj estas la _Utopio_ de [Thomas More](https://eo.wikipedia.org/wiki/Thomas_More) kaj _Nova Atlantido_ de [Francis Bacon](https://eo.wikipedia.org/wiki/Francis_Bacon) en la 15-a kaj 16-a jarcentoj, kiu, kiel la dialogoj de Platono, estis kaj metafora diskutado pri filozofaj kaj politikaj temoj, kaj fantaziaj priskriboj pri mirindaj, eble realaj, lokoj.
 
 
-## Altantido en la Moderna Epoko
+## Atlantido en la Moderna Epoko
 
 En 1882 kongresano el usona ŝtato Minesoto [Ignatius L. Donnelly](https://eo.wikipedia.org/wiki/Ignatius_Donnelly) eldonis strangan libron. Li estis populara kaj progresema politiko, kiu promociis la rajtojn kaj la plibonigon de kondiĉoj por liberigitaj sklavoj, laborantoj kaj farmistoj. Tiu ĉi libro tamen ne estis politika pamfleto. Ĝi temis pri la perdita kontinento Atlantido.
 
