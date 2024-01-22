@@ -4,7 +4,7 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
-<p>{{ description }}</p>
+<p><em>{{ description }}</em></p>
 
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 {%- for tag in tags | filterTagList -%}
