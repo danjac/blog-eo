@@ -13,3 +13,7 @@ En aŭgusto 1994 la du membroj de la avangarda muzikgrupo KLF, Bill Drummond kaj
 Entute, ili detruis milionon da pundoj.
 
 Tiu stranga kaj polemikinda evento markis la finon de la KLF-Fondaĵo, arta organizaĵo kiu formiĝis, kiam Cauty kaj Drummond eksigis la bandon KLF kelkajn jarojn antaŭe. KLF estis ĉe la komenco de la 1990-jardeka unu el la plej sukcesaj tiamaj pop-grupoj en Britujo.
+
+# La Tempomastroj
+
+
