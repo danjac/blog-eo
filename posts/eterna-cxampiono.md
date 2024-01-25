@@ -33,7 +33,7 @@ Unue aperinte en la novelo _The Dreaming City_ (La Sonĝanta Urbo) en 1961, la a
 
 {{ media.img("/img/Weird_of_the_white_wolf.jpg", "Novelo pri Elrik - Sorĉisto de la Blanka Lupo, 1977. Fonto: Wikipedia", width=220, height=373, class="float-right") }}
 
-Lia magia glavo, _Stormbringer_ (Ŝtormigilo) donas al Elrik potencojn kaj fortikecojn, sed nutras sin per animoj. La malbena glavo mortigas ĉiujn amatajan de Elrik kaj estas fakte agento de Ĥaŭso. Elrik estas arketipe malbonsorta heroo. Influoj estas la finna heroo Kullervo de [Kalevala](https://en.wikipedia.org/wiki/Kalevala) kaj la malbonsortuloj en la romanoj de [Bertolt Brecht](https://eo.wikipedia.org/wiki/Bertolt_Brecht).
+Lia magia glavo, _Stormbringer_ (Ŝtormigilo) donas al Elrik potencon kaj protekton, sed nutras sin per animoj. La malbena glavo mortigas ĉiujn amatajan de Elrik kaj estas fakte agento de Ĥaŭso. Elrik estas arketipe malbonsorta heroo. Influoj estas la finna heroo Kullervo de [Kalevala](https://en.wikipedia.org/wiki/Kalevala) kaj la malbonsortuloj en la romanoj de [Bertolt Brecht](https://eo.wikipedia.org/wiki/Bertolt_Brecht).
 
 Elrik kaj lia mondo ankaŭ aperas en rolludoj kaj komiksoj.
 
