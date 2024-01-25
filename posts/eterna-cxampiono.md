@@ -31,9 +31,9 @@ La tri plej famaj Eternaj Ĉampionoj estas:
 
 Unue aperinte en la novelo _The Dreaming City_ (La Sonĝanta Urbo) en 1961, la albino Elric estas la fina imperiestro de la insulo Melniboneo, sur paralela Tero.  Lia dekadenta raso formortas kaj ĝin minacas la homaj Junaj Regnoj.
 
-{{ media.img("/img/Weird_of_the_white_wolf.jpg", "Elric novelo - Sorĉisto de la Blanka Lupo, 1977. Fonto: Wikipedia", width=220, height=373, class="float-right") }}
+{{ media.img("/img/Weird_of_the_white_wolf.jpg", "Novelo pri Elrik - Sorĉisto de la Blanka Lupo, 1977. Fonto: Wikipedia", width=220, height=373, class="float-right") }}
 
-Lia magia glavo, _Stormbringer_ (Ŝturmvenigilo) donas al Elrik potencojn, sed nutras sin per animoj. La malbena glavo mortigas ĉiujn amatajan de Elrik kaj estas fakte agento de Ĥaŭso. Elrik estas arketipe malbonsorta heroo. Influoj estas la finna heroo Kullervo de [Kalevala](https://en.wikipedia.org/wiki/Kalevala) kaj la malbonsortuloj de la romanoj de [Bertolt Brecht](https://eo.wikipedia.org/wiki/Bertolt_Brecht).
+Lia magia glavo, _Stormbringer_ (Ŝturmvenigilo) donas al Elrik potencojn, sed nutras sin per animoj. La malbena glavo mortigas ĉiujn amatajan de Elrik kaj estas fakte agento de Ĥaŭso. Elrik estas arketipe malbonsorta heroo. Influoj estas la finna heroo Kullervo de [Kalevala](https://en.wikipedia.org/wiki/Kalevala) kaj la malbonsortuloj en la romanoj de [Bertolt Brecht](https://eo.wikipedia.org/wiki/Bertolt_Brecht).
 
 Elrik kaj lia mondo ankaŭ aperas en rolludoj kaj komiksoj.
 
@@ -49,7 +49,7 @@ _The Final Programme_ estis filmita en 1973.
 ## Oswald Bastable: Vaporpunka Nomado de la Tempofluoj
 
 
-Oswald Bastable estas brita militisto, kiu esploras misteran templon en Himalajo en 1900. Senkonsciigite de tertremo, li vekiĝas en 1970, sed en alia 1970 ol la nia - la Brita Imperio ankoraŭ regas trionon da la tutmonda popolo kaj ĉiuj vojaĝas per zepelinoj. En la sekvantaj noveloj li vojaĝas tute hazarde tra similaj paralelaj historioj. La tri _Nomado de la Tempofluoj_-noveloj estas unu el la plej fruaj ekzemploj de la "Vaporpunka" subĝenro. Iuj karakteroj de la Jerry Cornelius-serio aperas en la noveloj, ekzemple Una Persson, foja amatatino de Jerry.
+Oswald Bastable estas brita militisto, kiu esploras misteran templon en Himalajo en 1900. Senkonsciigite de tertremo, li vekiĝas en 1970, sed en alia 1970 ol la nia - la Brita Imperio ankoraŭ regas trionon da la tutmonda popolo kaj ĉiuj vojaĝas per zepelinoj. En la sekvantaj noveloj li vojaĝas tute hazarde tra similaj paralelaj historioj. La tri _Nomado de la Tempofluoj_-noveloj estas iuj el la plej fruaj ekzemploj de la "Vaporpunka" subĝenro. Iuj karakteroj de la Jerry Cornelius-serio aperas en la noveloj, ekzemple Una Persson, foja amatatino de Jerry.
 
 La nomo "Oswald Bastable" aperis en iuj infanaj noveloj de [E.S. Nesbit](https://eo.wikipedia.org/wiki/Edith_Nesbit), verkistino kaj socialisto en la 1890-jardeko.
 
