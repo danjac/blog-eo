@@ -1,7 +1,7 @@
 ---
 title: La Eterna Ĉampiono
 description: La multuniverso de Michael Moorcock
-date: 2024-01-20
+date: 2024-01-26
 tags:
   - fantazio
   - komiksoj
@@ -45,5 +45,5 @@ Cornelius inspiris la komiksan serion de Luther Arkwright far de Brian Talbot.
 
 ## Oswald Bastable
 
-Oswald Bastable estas brita militisto, kiu esploras misteran templon en Himalajo en 1900. Senkonsciigite de tertremo, li vekiĝas en 1970, sed en alia 1970 ol la nia - la Brita Imperio ankoraŭ regas trionon da la tutmonda popolo kaj ĉiuj vojaĝas per zepelinoj. En la sekvantaj noveloj li veturas en paralelaj historioj. La karakterino Una Persson aperas en la serio, kiu estas konata en la romanoj de Jerry Cornelius.
+Oswald Bastable estas brita militisto, kiu esploras misteran templon en Himalajo en 1900. Senkonsciigite de tertremo, li vekiĝas en 1970, sed en alia 1970 ol la nia - la Brita Imperio ankoraŭ regas trionon da la tutmonda popolo kaj ĉiuj vojaĝas per zepelinoj. En la sekvantaj noveloj li veturas en paralelaj historioj. La karakterino Una Persson aperas en la serio, kiu estas konata en la romanoj de Jerry Cornelius. Iuj karakteroj de la Jerry Cornelius-serio aperas en la _Nomado de la Tempostrioj_-noveloj ekzemple Una Persson, iama amatatino de Jerry.
 
