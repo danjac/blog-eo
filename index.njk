@@ -6,11 +6,11 @@ eleventyNavigation:
 ---
 {% import "postslist.njk" as postslist %}
 
-{% set maxPosts = collections.posts.length | min(12) %}
+{% set maxPosts = collections.posts.length | min(6) %}
 {% if maxPosts -%}
 <h1>{% if maxPosts == 1 %}Nova Artikolo{% else %}Novaj Artikoloj{% endif %}</h1>
 
-{{ postslist.postslist(collections.posts | head(-12), collections.posts | length, summarize=true)}}
+{{ postslist.postslist(collections.posts | head(-6), collections.posts | length, summarize=true)}}
 
 <p>Ĉiuj artikoloj troviĝas en <a href="{{ '/posts/' | url }}">la arĥivo</a>.</p>
 {%- endif %}
