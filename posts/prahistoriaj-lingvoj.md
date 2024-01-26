@@ -26,7 +26,15 @@ Hodiaŭ en la valoj de la Pireneoj oni ankoraŭ aŭskultas lingvon, kies praulo 
 
 La romia imperiistro Klaŭdio suferis pro lameco kaj surdeco ek de sia infaneco. Tiuj malfortoj eble savis lin dum la sangaj periodoj de venĝado kaj murdado inter romiaj nobeloj dum la reĝado de sia antaŭulo Kaligulo, ĉar ĉiuj taksis lin tute sendanĝera. Sed tiu fizike malforta viro estis kaj ruza kaj senkompata.
 
-Antaŭ ol li fariĝis la mastro de la plej potenca imperio de tiu epoko, Klaŭdio pasis multe da tempo pro ekzilo aŭ malsano for de la ĉefurbo en la vilao de sia familio. Inteligenta kaj studema junulo, li aparte interesiĝis pri la stranga lingvo de gento, kiu vivis en la itala duoninsulo dum multaj jarcentoj antaŭ ol la prapatroj de la romianoj alvenis en la regiono - la eŭtruskoj.
+Antaŭ ol li fariĝis la mastro de la plej potenca imperio de tiu epoko, Klaŭdio pasis multe da tempo pro ekzilo aŭ malsano for de la ĉefurbo en la vilao de sia familio. Inteligenta kaj studema junulo, li aparte interesiĝis pri la stranga lingvo de gento, kiu vivis en la itala duoninsulo dum multaj jarcentoj antaŭ ol la prapatroj de la romianoj alvenis en la regiono - la eŭtruskoj. Li eĉ skribis vortaron de la eŭskara lingvo, kiu bedaŭrinde malaperis.
+
+La eŭtruskoj parolis unu el la tiraneaj lingvoj - familio kiu disvastiĝis de la Alpoj ĝis centra Italujo. Kvankam iliajn regnojn absorbis la pli potenca kaj juna Romio, la lingvo pli influis la latinan - kaj do la latinidajn lingvojn kaj ĉiujn lingvojn kun latinaj vortoj aŭ formoj (interalie, kompreneble, Esperanton). Jen iuj esperantaj vortoj kiuj devenas de la eŭtruska:
+
+* areno
+* milito
+* merkato
+* persono
+* satelito
 
 ## Skandinavio: prahistoriaj sameoj
 
@@ -36,6 +44,8 @@ Antaŭ ol li fariĝis la mastro de la plej potenca imperio de tiu epoko, Klaŭdi
 
 ## Britujo kaj Irlando: antaŭ la keltoj
 
+Oni iam kredis, ke "Stonehedge" - la faman ŝtonpilieran cirklon en suda Anglujo - konstruis la keltaj triboj, kiuj ekzistas en Britujo kaj Irlando antaŭ la alveno de la Romianoj, kaj kies posteuloj vivas hodiaŭ en ĉiuj partoj de la insuloj. Nun oni scias, ke Stonehedge kaj aliajn konstruaĵojn konstruis tre pli malnova popolo, jarcentojn antaŭ la keltoj.
+
 ## Ŝnurceramika kulturo: la finiĝo de la prahistoria mondo
 
-
+Oni nun kredas, ke la hindeŭropaj triboj devenas de la "jamna" kulturo de norda Ukrainujo. Tiu popolo - kies tombomontetoj, aŭ "kurganoj" - atestas pri ilia iama ekzistado - rapide disvastiĝis de la nordatlantikaj insuloj de Eŭropo ĝis la landoj sude de la Himalajoj, kaj nun miljardoj da personoj parolas hindeŭropajn lingvojn ĉiemonde.
