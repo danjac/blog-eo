@@ -16,9 +16,17 @@ Kial "prahistoria"? Prahistorio laŭ spertuloj distingiĝas de historio per unu 
 
 En la malsekaj medioj de Eŭropo oni eble utligis arboŝelerojn, kiu estus facile havebla rimedo por skribi tekstojn. Sed mankas pruvaĵo - organikaj materialoj forputras rapide, se ne estas en speciala medio ekzemple la fondo de marĉo. Do eble la fruaj eŭropanoj skribis, kaj eble unutage oni trovos antikvan arboŝeleran ekzemplon en iu marĉo, sed ĝis tiu momento, lingvistoj devos diveni pri tiuj malaperintaj lingvoj.
 
+Pro tiu manko de iaj arĥeologiaj evidentaĵoj, lingvistoj ĝenerale devas dependi de tiuj prahistoriaj lingvoj, aŭ pli ekzakte iliaj posteuloj, kiuj pluvivis ĝis la invento (aŭ alveno) de skribado en Eŭropo, aŭ kies spuroj troviĝas en la hindeŭropaj kaj finnugraj lingvoj. Lingvoj ĉiam pruntas vortojn aŭ eĉ gramatikajn formojn unu de la alia, kiam ajn iliaj parolantoj renkontiĝas - pace aŭ ne.
+
 ## Iberio: prahistoriaj pluvivantoj
 
+Hodiaŭ en la valoj de la Pireneoj oni ankoraŭ aŭskultas lingvon, kies praulo aŭskultiĝis tie dum la lasta Glaciepoko.
+
 ## Italio: la misteraj eŭtruskoj
+
+La romia imperiistro Klaŭdio suferis pro lameco kaj surdeco ek de sia infaneco. Tiuj malfortoj eble savis lin dum la sangaj periodoj de venĝado kaj murdado inter romiaj nobeloj dum la reĝado de sia antaŭulo Kaligulo, ĉar ĉiuj taksis lin tute sendanĝera. Sed tiu fizike malforta viro estis kaj ruza kaj senkompata.
+
+Antaŭ ol li fariĝis la mastro de la plej potenca imperio de tiu epoko, Klaŭdio pasis multe da tempo pro ekzilo aŭ malsano for de la ĉefurbo en la vilao de sia familio. Inteligenta kaj studema junulo, li aparte interesiĝis pri la stranga lingvo de gento, kiu vivis en la itala duoninsulo dum multaj jarcentoj antaŭ ol la prapatroj de la romianoj alvenis en la regiono - la eŭtruskoj.
 
 ## Skandinavio: prahistoriaj sameoj
 
