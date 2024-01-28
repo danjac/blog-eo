@@ -1,7 +1,7 @@
 ---
 title: La Prahistoriaj Lingvoj de Eŭropo
 description: Kion oni parolis antaŭ la hindeŭropa invado?
-date: 2024-01-28
+date: 2024-01-29
 tags:
   - prahistorio
   - lingvoj
