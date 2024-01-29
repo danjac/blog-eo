@@ -1,7 +1,7 @@
 ---
 title: La Prahistoriaj Lingvoj de Eŭropo
 description: Kion oni parolis antaŭ la hindeŭropa invado?
-date: 2024-01-29
+date: 2024-01-30
 tags:
   - prahistorio
   - lingvoj
@@ -10,13 +10,13 @@ layout: layouts/post.njk
 ---
 {% import "media.njk" as media %}
 
-Hodiaŭ en Eŭropo oni parolas aŭ hindeŭropajn lingvojn aŭ (malpli ofte) finnugrajn lingvojn. Kompreneble estas esceptoj: la lingvoj de enmigrantoj el Afrika aŭ Azio, la insulo Malto, kie oni parolas araban dialekton kun latina skribo, kaj unu kurioza escepto: la eŭska aŭ vaska lingvo. La eŭska estas pluvivanto de prahistoria lingva mondo, kiu preskaŭ tute malaperis antaŭ miloj da jaroj.
+Hodiaŭ en Eŭropo oni parolas aŭ hindeŭropajn lingvojn aŭ (malpli ofte) [finn-ugrajn](https://eo.wikipedia.org/wiki/Finn-ugraj_lingvoj) lingvojn. Kompreneble estas esceptoj: la lingvoj de enmigrantoj el Afrika aŭ Azio, la insulo Malto, kie oni parolas araban dialekton kun latina skribo, kaj unu kurioza escepto: la eŭska aŭ vaska lingvo. La eŭska estas la sola pluvivanto en la 21-a jarcento de prahistoria lingva mondo, kiu preskaŭ tute malaperis antaŭ miloj da jaroj.
 
-Kial "prahistoria"? Prahistorio laŭ spertuloj distingiĝas de historio per unu faktoro: la invento de skribado. La unua pruveble skribita lingvo estis la sumera, en antikva Mesopotamio (moderna Irako). Sed oni ne povas certe atesti, ke skribado estis inventita unue en Sumerio. La sumeroj gravuris tekstojn sur tabeloj el argilo, kiu oni ĉerpis el riverborda koto kaj poste bakis en fornoj. Tia skribomaniero dumeterne konserviĝis sub la varmaj sabloj de la dezerto. Poste la egiptoj utiligis papiruson, kiu konserviĝis longatempe en la sekaj, senaeraj tomboj kaj piramidoj, aŭ la mirindaj hieroglifoj sur ties muroj.
+Kial "prahistoria"? Prahistorio laŭ spertuloj distingiĝas de historio per unu faktoro: la invento de skribado. La unua pruveble skribita lingvo estis la sumera, en antikva Mesopotamio (moderna Irako). Sed oni ne povas certe atesti, ke skribado estis inventita unue en Sumerio. La sumeroj kaj postaj civilizacioj en la regiono gravuris tekstojn sur tabeloj el argilo, kiu oni ĉerpis el riverborda koto kaj poste bakis en fornoj. Tia skribomaniero dumeterne konserviĝis sub la varmaj sabloj de la dezerto. Poste la egiptoj utiligis papiruson, kiu konserviĝis longatempe en la sekaj, senaeraj tomboj kaj piramidoj, aŭ la mirindaj hieroglifoj sur ties muroj.
 
-En la malsekaj medioj de Eŭropo oni eble utiligis arboŝelerojn, kiu estus facile havebla rimedo por skribi tekstojn. Sed mankas pruvaĵo - organikaj materialoj forputras rapide, se ne estas en speciala medio ekzemple la fondo de marĉo. Do eble la fruaj eŭropanoj skribis, kaj eble unutage oni trovos antikvan arboŝeleran ekzemplon en iu marĉo, sed ĝis tiu momento, lingvistoj devos diveni pri tiuj malaperintaj lingvoj.
+En la malsekaj medioj de Eŭropo oni eble utiligis arboŝelerojn, kiu estus facile havebla rimedo por skribi tekstojn. Sed mankas pruvaĵoj - organikaj materialoj forputras rapide, se ne estas en speciala medio ekzemple la fondo de marĉo. Do eble la fruaj eŭropanoj skribis, kaj eble unutage oni trovos antikvan arboŝeleran ekzemplon en iu marĉo, sed ĝis tiu momento, lingvistoj devos diveni pri tiuj malaperintaj lingvoj.
 
-Eĉ se oni trovus tian skribaĵojn - kiel oni tradukus la lingvon sen ŝlosilo, kiel la Rozeta Ŝtono? Ekzemple oni foje detektas signojn far de homoj sur la muroj de kavernoj, kiu eble pruvas pri simboloj kiel modernaj piktogramoj aŭ ĉinaj signoj. Sed oni povas nur diveni pri la signifo de tiuj signoj - ekzemple avertoj pri danĝeraj triboj aŭ bestoj, aŭ konsilioj pri la plej bonaj lokoj aŭ tempoj por ĉasado. Sed la signoj neniel indikas pri la lingvo de ties desegnintoj.
+Eĉ se oni trovus tian skribaĵojn - kiel oni tradukus la lingvon sen ŝlosilo, kiel la [Rozeta Ŝtono](https://eo.wikipedia.org/wiki/Rozeta_%C5%9Dtono)? Ekzemple oni foje detektas signojn far de homoj sur la muroj de kavernoj, kiu eble pruvas pri simboloj kiel modernaj piktogramoj aŭ ĉinaj signoj. Sed oni povas nur diveni pri la signifo de tiuj signoj - ekzemple avertoj pri danĝeraj triboj aŭ bestoj, aŭ konsilioj pri la plej bonaj lokoj aŭ tempoj por ĉasado. Sed la signoj neniel indikas pri la lingvo de ties desegnintoj.
 
 Pro tiu manko de iaj arĥeologiaj evidentaĵoj, lingvistoj ĝenerale devas dependi de tiuj prahistoriaj lingvoj, aŭ pli ekzakte iliaj posteuloj, kiuj pluvivis ĝis la invento (aŭ alveno) de skribado en Eŭropo, aŭ kies spuroj troviĝas en la hindeŭropaj kaj finnugraj lingvoj. Lingvoj ĉiam pruntas vortojn aŭ eĉ gramatikajn formojn unu de la alia, kiam ajn iliaj parolantoj renkontiĝas - pace aŭ ne.
 
@@ -25,6 +25,10 @@ Pro tiu manko de iaj arĥeologiaj evidentaĵoj, lingvistoj ĝenerale devas depen
 {{ media.img("/img/basque_country.png", "Eŭskalingvaj provincoj en Hispanio kaj Francio. Fonto: Wikipedia", width=260, height=120, class="float-left")}}
 
 Hodiaŭ en la valoj de la Pireneoj oni ankoraŭ aŭskultas lingvon, kies praulo aŭskultiĝis tie dum la lasta Glaciepoko. La eŭska aŭ vaska lingvo estas tute izolita de la ĉirkaŭaj latinidaj lingvoj aŭ iu ajn alia hindeŭropa lingvo. Fakte, neniu hodiaŭa lingvo similas al la eŭska. Dum jarcentoj estis tezoj, ke la eŭska iel rilatas al la kartvela aŭ eĉ la indiĝenaj lingvoj de Norda Ameriko. Sed estas pli certe ke la eŭska estas la sola lingva restaĵo de neolitika Eŭropo, kiu travivis inter la montoj spite al la persekutado de eksteruloj, de la antikvaj romianoj al la faŝista registaro de Generalo Franko.
+
+Unu teorion proponis, inter aliaj, nevo de Napoleono, Louis Lucien, ke la eŭskaj vortoj por iloj kiel "hakilo", "tranĉilo" kaj "rastro" devenas de la vorto por ŝtono _haitz_. Tio evidente atestis pri la deŝtonepoka antikveco de la eŭska popolo. Hodiaŭaj spertuloj ne kredas je tiu miriga tezo.
+
+La delonge formortinta iberia lingvo, parolata en la regiono antaŭ la alveno de la romianoj,  eble rilatis al la eŭska, sed ĝis nun la lingvo ne estas klasifikita.
 
 ## Italio: la misteraj eŭtruskoj
 
