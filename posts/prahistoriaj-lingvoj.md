@@ -22,13 +22,18 @@ Pro tiu manko de iaj arĥeologiaj evidentaĵoj, lingvistoj ĝenerale devas depen
 
 ## Iberio: prahistoriaj pluvivantoj
 
+{{ media.img("/img/basque_country.png", "Eŭskalingvaj provincoj en Hispanio kaj Francio. Fonto: Wikipedia", width=260, height=120, class="float-left")}}
+
 Hodiaŭ en la valoj de la Pireneoj oni ankoraŭ aŭskultas lingvon, kies praulo aŭskultiĝis tie dum la lasta Glaciepoko. La eŭska aŭ vaska lingvo estas tute izolita de la ĉirkaŭaj latinidaj lingvoj aŭ iu ajn alia hindeŭropa lingvo. Fakte, neniu hodiaŭa lingvo similas al la eŭska. Dum jarcentoj estis tezoj, ke la eŭska iel rilatas al la kartvela aŭ eĉ la indiĝenaj lingvoj de Norda Ameriko. Sed estas pli certe ke la eŭska estas la sola lingva restaĵo de neolitika Eŭropo, kiu travivis inter la montoj spite al la persekutado de eksteruloj, de la antikvaj romianoj al la faŝista registaro de Generalo Franko.
 
 ## Italio: la misteraj eŭtruskoj
 
 La romia imperiistro Klaŭdio suferis pro lameco kaj surdeco ek de sia infaneco. Tiuj malfortoj eble savis lin dum la sangaj periodoj de venĝado kaj murdado inter romiaj nobeloj dum la reĝado de sia antaŭulo Kaligulo, ĉar ĉiuj taksis lin tute sendanĝera. Sed tiu fizike malforta viro estis kaj ruza kaj senkompata.
 
+{{ media.img("/img/eutruscan.jpg", "Cippus Perusinus, tabelo kun eŭtruska teksto. Fonto: Wikipedia", width=267, height=400, class="float-right")}}
+
 Antaŭ ol li fariĝis la mastro de la plej potenca imperio de tiu epoko, Klaŭdio pasis multe da tempo pro ekzilo aŭ malsano for de la ĉefurbo en la vilao de sia familio. Inteligenta kaj studema junulo, li aparte interesiĝis pri la stranga lingvo de gento, kiu vivis en la itala duoninsulo dum multaj jarcentoj antaŭ ol la prapatroj de la romianoj alvenis en la regiono - la eŭtruskoj. Li eĉ skribis vortaron de la eŭstruska lingvo, kiu bedaŭrinde malaperis.
+
 
 La eŭtruskoj parolis unu el la tireneaj lingvoj - familio kiu disvastiĝis de la Alpoj ĝis centra Italio (kaj eble la lemnia lingvo en Grekio). Alia lingvo de la sama familio - la raeta - estis parolata en la nuna Svislando, kaj eble estis la denaska lingvo de la fama "glacihomo" Ötzi. Kvankam iliajn regnojn absorbis la pli potenca kaj juna Romio, la lingvo pli influis la latinan - kaj do la latinidajn lingvojn kaj ĉiujn lingvojn kun latinaj vortoj aŭ formoj (interalie, kompreneble, Esperanton). Jen iuj esperantaj vortoj kiuj devenas de la eŭtruska:
 
@@ -40,11 +45,15 @@ La eŭtruskoj parolis unu el la tireneaj lingvoj - familio kiu disvastiĝis de l
 
 ## Nordeŭropo: prahistoriaj subtavoloj
 
-Oni iam kredis, ke "Stonehedge" - la faman ŝtonpilieran cirklon en suda Anglio - konstruis la keltaj triboj, kiuj ekzistas en Britio kaj Irlando antaŭ la alveno de la Romianoj, kaj kies posteuloj vivas hodiaŭ en ĉiuj partoj de la insuloj. Nun oni scias, ke Stonehedge kaj aliajn konstruaĵojn konstruis tre pli malnova popolo, jarcentojn antaŭ la keltoj. Interesas, ke multaj britoj havas DNA-spurojn similajn al la vaskoj. Do plej eble la lingvo de la Stonehedge-konstruintoj parolis lingvon, kiu iel rilatis al la moderna eŭska.
+Oni iam kredis, ke "Stonehenge" - la faman ŝtonpilieran cirklon en suda Anglio - konstruis la keltaj triboj, kiuj ekzistas en Britio kaj Irlando antaŭ la alveno de la Romianoj, kaj kies posteuloj vivas hodiaŭ en ĉiuj partoj de la insuloj. Nun oni scias, ke Stonehedge kaj aliajn konstruaĵojn konstruis tre pli malnova popolo, jarcentojn antaŭ la keltoj. Interesas, ke multaj britoj havas DNA-spurojn similajn al la vaskoj. Do plej eble la lingvo de la Stonehedge-konstruintoj parolis lingvon, kiu iel rilatis al la moderna eŭska.
+
+{{ media.img("/img/stonehenge.jpg", "Stonehenge. Fonto: Wikipedia", width=220, height=165, class="float-left") }}
 
 Kelkaj lingvoj de Norda Eŭropo - de la gaela kaj kimra lingvoj, la ĝermanaj lingvoj ĉirkaŭ la Balta kaj Norda Maroj, kaj la samea kaj finna - havas spurojn de antaŭhindeŭropa "subtavolo" - vortoj kiuj ne apartenas al ia hindeŭropa parenco aŭ praulo, kiel la eŭtruskaj vortoj en la latina.
 
-## Ŝnurceramika kulturo: la finiĝo de la prahistoria mondo
+## Ŝnurceramikaj vazoj kaj sonorilformaj pokaloj: la finiĝo de la prahistoria mondo
+
+{{ media.img("/img/Indo-European_expansions.jpg", "Hindeŭropaj disvastiĝoj. Fonto: Wikipedia", width=800, height=391, figure=true) }}
 
 La plej akceptata tezo konstatas, ke la hindeŭropaj triboj devenas de la "jamna" kulturo de norda Ukrainio. Tiu popolo - kies tombomontetoj, aŭ "kurganoj" - atestas pri ilia iama ekzistado - rapide disvastiĝis de la nordatlantikaj insuloj de Eŭropo ĝis la landoj sude de la Himalajoj kaj la limoj de Ĉinio, kaj nun miljardoj da personoj parolas hindeŭropajn lingvojn ĉiemonde. La "ŝnurceramiko" estis speco de ceramiko, gravurita per ŝnuroj, strikte ligitaj ĉirkaŭ la vazoj por formi sulkojn. Tia ceramiko, unue trovita en Germanio, sekvas la movadon kaj influon de nova alvenantoj, same kiel boteloj de Koka-Kola dum la lasta jarcento.
 
