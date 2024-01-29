@@ -45,9 +45,9 @@ La eŭtruskoj parolis unu el la tireneaj lingvoj - familio kiu disvastiĝis de l
 
 ## Nordeŭropo: prahistoriaj subtavoloj
 
-Oni iam kredis, ke "Stonehenge" - la faman ŝtonpilieran cirklon en suda Anglio - konstruis la keltaj triboj, kiuj ekzistas en Britio kaj Irlando antaŭ la alveno de la Romianoj, kaj kies posteuloj vivas hodiaŭ en ĉiuj partoj de la insuloj. Nun oni scias, ke Stonehedge kaj aliajn konstruaĵojn konstruis tre pli malnova popolo, jarcentojn antaŭ la keltoj. Interesas, ke multaj britoj havas DNA-spurojn similajn al la vaskoj. Do plej eble la lingvo de la Stonehedge-konstruintoj parolis lingvon, kiu iel rilatis al la moderna eŭska.
-
 {{ media.img("/img/stonehenge.jpg", "Stonehenge. Fonto: Wikipedia", width=220, height=165, class="float-left") }}
+
+Oni iam kredis, ke "Stonehenge" - la faman ŝtonpilieran cirklon en suda Anglio - konstruis la keltaj triboj, kiuj ekzistas en Britio kaj Irlando antaŭ la alveno de la Romianoj, kaj kies posteuloj vivas hodiaŭ en ĉiuj partoj de la insuloj. Nun oni scias, ke Stonehedge kaj aliajn konstruaĵojn konstruis tre pli malnova popolo, jarcentojn antaŭ la keltoj. Interesas, ke multaj britoj havas DNA-spurojn similajn al la vaskoj. Do plej eble la lingvo de la Stonehedge-konstruintoj parolis lingvon, kiu iel rilatis al la moderna eŭska.
 
 Kelkaj lingvoj de Norda Eŭropo - de la gaela kaj kimra lingvoj, la ĝermanaj lingvoj ĉirkaŭ la Balta kaj Norda Maroj, kaj la samea kaj finna - havas spurojn de antaŭhindeŭropa "subtavolo" - vortoj kiuj ne apartenas al ia hindeŭropa parenco aŭ praulo, kiel la eŭtruskaj vortoj en la latina.
 
