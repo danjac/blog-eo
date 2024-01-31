@@ -27,7 +27,7 @@ Oni scias pri la unuaj homoj en Eŭropo ĝis la paleolitiko kaj la mezolitaj kaj
 
 Hodiaŭ en la valoj de la Pireneoj oni ankoraŭ aŭskultas lingvon, kies praulo aŭskultiĝis tie dum la lasta Glaciepoko. La eŭska lingvo estas tute izolita de la ĉirkaŭaj latinidaj lingvoj aŭ iu ajn alia hindeŭropa lingvo. Fakte, neniu hodiaŭa lingvo similas al la eŭska. Dum jarcentoj estis tezoj, ke la eŭska iel rilatas al la kartvela aŭ eĉ la indiĝenaj lingvoj de Norda Ameriko. Sed estas pli certe ke la eŭska estas la sola lingva restaĵo de neolitika Eŭropo, kiu travivis inter la montoj spite al la persekutado de eksteruloj, de la antikvaj romianoj al la faŝista registaro de Generalo Franko.
 
-Unu teorion proponis, inter aliaj, nevo de Napoleono, Louis Lucien, ke la eŭskaj vortoj por iloj kiel "hakilo", "tranĉilo" kaj "rastro" devenas de la vorto por ŝtono _haitz_. Tio evidente atestis pri la deŝtonepoka antikveco de la eŭska popolo. Hodiaŭaj spertuloj ne kredas je tiu miriga tezo.
+Unu teorion proponis, inter aliaj, nevo de Napoleono, Louis Lucien, ke la eŭskaj vortoj por iloj kiel "hakilo", "tranĉilo" kaj "rastro" devenas de la vorto por "ŝtono" [_haitz_](_haitz_). Tio evidente atestis pri la deŝtonepoka antikveco de la eŭska popolo. Hodiaŭaj spertuloj ne kredas je tiu miriga tezo.
 
 La delonge formortinta iberia lingvo, parolata en la regiono antaŭ la alveno de la romianoj,  eble rilatis al la eŭska, sed ĝis nun la lingvo ne estas klasifikita.
 
